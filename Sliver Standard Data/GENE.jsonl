@@ -1,0 +1,1041 @@
+{"text":"The POLG1 gene mutation was identified in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"A mutation in POLG1 was discovered in a young patient.","spans":[{"start":15,"end":20,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"Patient carried a defect in the POLG1 gene.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":36,"label":"GENE"}]}
+{"text":"The child had a confirmed POLG1 mutation.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":28,"end":33,"label":"GENE"}]}
+{"text":"A pathogenic variant was found in POLG1.","spans":[{"start":34,"end":39,"label":"GENE"}]}
+{"text":"Mutations in the POLG gene have been frequently observed.","spans":[{"start":17,"end":21,"label":"GENE"}]}
+{"text":"The POLG variant appeared to be associated with the phenotype.","spans":[{"start":4,"end":8,"label":"GENE"}]}
+{"text":"POLG gene was tested in the child presenting seizures.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":30,"end":35,"label":"PATIENT"}]}
+{"text":"A mutation in POLG caused symptoms in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"The patient showed a confirmed pathogenic variant in POLG.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":55,"end":59,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was detected in a patient.","spans":[{"start":4,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Mutations affecting polymerase 'Y were associated with disease.","spans":[{"start":20,"end":35,"label":"GENE"}]}
+{"text":"polymerase 'Y defects were seen in the individual.","spans":[{"start":0,"end":15,"label":"GENE"}]}
+{"text":"A patient carried a mutation in polymerase 'Y.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":35,"end":50,"label":"GENE"}]}
+{"text":"Pathogenic polymerase 'Y variant identified in testing.","spans":[{"start":10,"end":25,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was reported in the patient.","spans":[{"start":4,"end":24,"label":"GENE"},{"start":49,"end":56,"label":"PATIENT"}]}
+{"text":"A defect in DNA polymerase 'Y was associated with symptoms.","spans":[{"start":13,"end":33,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y mutation was detected in a child.","spans":[{"start":0,"end":20,"label":"GENE"},{"start":45,"end":50,"label":"PATIENT"}]}
+{"text":"A child was found to carry a DNA polymerase 'Y mutation.","spans":[{"start":2,"end":7,"label":"PATIENT"},{"start":34,"end":54,"label":"GENE"}]}
+{"text":"We confirmed DNA polymerase 'Y involvement in this patient.","spans":[{"start":13,"end":33,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"The patient carries the p.G848S variant in the mitochondrial gene.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":36,"label":"GENE"}]}
+{"text":"Genetic analysis identified p.G848S in a symptomatic patient.","spans":[{"start":27,"end":35,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Patient was diagnosed with the pathogenic p.G848S mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":38,"end":46,"label":"GENE"}]}
+{"text":"p.G848S was found in the patient during routine screening.","spans":[{"start":0,"end":8,"label":"GENE"},{"start":26,"end":33,"label":"PATIENT"}]}
+{"text":"The presence of p.G848S in the patient confirmed the diagnosis.","spans":[{"start":16,"end":24,"label":"GENE"},{"start":28,"end":35,"label":"PATIENT"}]}
+{"text":"Patient exhibited the POLG-1 mutation associated with mitochondrial disorders.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":23,"end":30,"label":"GENE"}]}
+{"text":"The POLG-1 variant was identified in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":39,"end":46,"label":"PATIENT"}]}
+{"text":"A patient tested positive for the POLG-1 mutation.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":34,"end":41,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a pathogenic POLG-1 allele.","spans":[{"start":37,"end":44,"label":"GENE"}]}
+{"text":"The patient carried a rare variant of POLG-1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":45,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutations have been implicated in this patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":53,"end":60,"label":"PATIENT"}]}
+{"text":"The patient presented with Polymerase Gamma-related symptoms.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":44,"label":"GENE"}]}
+{"text":"Pathogenic Polymerase Gamma mutation detected in patient.","spans":[{"start":11,"end":27,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"A patient was found with a Polymerase Gamma variant.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":33,"end":49,"label":"GENE"}]}
+{"text":"Mutations in Polymerase Gamma are common among patients with symptoms.","spans":[{"start":13,"end":29,"label":"GENE"}]}
+{"text":"The patient tested positive for polymerase gamma1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":52,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation was detected in the patient.","spans":[{"start":0,"end":18,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed polymerase gamma1 mutation in this patient.","spans":[{"start":24,"end":42,"label":"GENE"},{"start":51,"end":58,"label":"PATIENT"}]}
+{"text":"A patient carries the polymerase gamma1 allele.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":25,"end":43,"label":"GENE"}]}
+{"text":"The polymerase gamma1 variant is associated with disease.","spans":[{"start":4,"end":22,"label":"GENE"}]}
+{"text":"The patient was found to carry the POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a variant in POLG1.","spans":[{"start":36,"end":41,"label":"GENE"}]}
+{"text":"The POLG1 gene mutation was observed in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient tested positive for the POLG1 variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":38,"label":"GENE"}]}
+{"text":"A POLG1 mutation was identified during clinical examination.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"POLG1-related disorder was suspected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"The patient exhibited symptoms linked to POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":44,"label":"GENE"}]}
+{"text":"A mutation in POLG1 was detected by sequencing.","spans":[{"start":15,"end":20,"label":"GENE"}]}
+{"text":"Clinical report revealed a POLG1 variant in patient.","spans":[{"start":27,"end":32,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"Sequencing identified a mutation in the POLG1 gene.","spans":[{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Patient carried a mutation in POLG.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":37,"label":"GENE"}]}
+{"text":"POLG mutation was found during diagnostic tests.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"A pathogenic variant of POLG was identified.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"The patient harbored a POLG-related mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":27,"label":"GENE"}]}
+{"text":"Sequencing confirmed the presence of POLG mutation.","spans":[{"start":36,"end":40,"label":"GENE"}]}
+{"text":"A mutation in POLG was detected in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The POLG gene has been associated with disease.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"POLG mutation was present in a symptomatic patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"Genetic report mentioned a POLG mutation.","spans":[{"start":27,"end":31,"label":"GENE"}]}
+{"text":"Patient tested positive for POLG variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":34,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was found in a patient.","spans":[{"start":4,"end":18,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Patient harbored a pathogenic polymerase 'Y variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":44,"label":"GENE"}]}
+{"text":"Sequencing revealed polymerase 'Y mutation in patient.","spans":[{"start":20,"end":34,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"polymerase 'Y was linked to the clinical phenotype.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Mutation in polymerase 'Y was confirmed by lab.","spans":[{"start":13,"end":27,"label":"GENE"}]}
+{"text":"Genetic results showed a polymerase 'Y allele.","spans":[{"start":26,"end":40,"label":"GENE"}]}
+{"text":"A mutation in polymerase 'Y was identified.","spans":[{"start":15,"end":29,"label":"GENE"}]}
+{"text":"The patient showed a polymerase 'Y variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":38,"label":"GENE"}]}
+{"text":"polymerase 'Y is associated with mitochondrial disease.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was implicated in the condition.","spans":[{"start":0,"end":19,"label":"GENE"}]}
+{"text":"Patient carried DNA polymerase 'Y mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":34,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was detected in patient.","spans":[{"start":4,"end":23,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Sequencing identified a DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was found in the patient.","spans":[{"start":0,"end":19,"label":"GENE"},{"start":35,"end":42,"label":"PATIENT"}]}
+{"text":"A rare DNA polymerase 'Y variant was reported.","spans":[{"start":8,"end":27,"label":"GENE"}]}
+{"text":"Patient tested positive for DNA polymerase 'Y.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":49,"label":"GENE"}]}
+{"text":"Mutation in DNA polymerase 'Y was confirmed.","spans":[{"start":13,"end":32,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y allele was present.","spans":[{"start":4,"end":23,"label":"GENE"}]}
+{"text":"Genetic report indicated DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"The patient was found to carry the p.G848S mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":42,"label":"GENE"}]}
+{"text":"Mutation p.G848S was identified during genetic screening.","spans":[{"start":9,"end":16,"label":"GENE"}]}
+{"text":"Patient tested positive for p.G848S variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":35,"label":"GENE"}]}
+{"text":"Sequencing revealed presence of p.G848S in patient.","spans":[{"start":32,"end":39,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"Genetic testing confirmed a p.G848S mutation.","spans":[{"start":28,"end":35,"label":"GENE"}]}
+{"text":"A p.G848S variant was discovered in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"He was diagnosed with the p.G848S mutation.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"Genomic analysis found a p.G848S mutation.","spans":[{"start":26,"end":33,"label":"GENE"}]}
+{"text":"Clinical signs correlated with p.G848S presence.","spans":[{"start":30,"end":37,"label":"GENE"}]}
+{"text":"Presence of p.G848S was linked to clinical symptoms.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"POLG-1 mutation was identified in the patient.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"The patient carried the POLG-1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":27,"end":33,"label":"GENE"}]}
+{"text":"Analysis showed POLG-1 mutation was present.","spans":[{"start":15,"end":21,"label":"GENE"}]}
+{"text":"Genetic study confirmed POLG-1 variant.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"POLG-1 variant correlated with patient symptoms.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"He tested positive for POLG-1 mutation.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"The presence of POLG-1 was verified.","spans":[{"start":16,"end":22,"label":"GENE"}]}
+{"text":"Patient harbored a pathogenic POLG-1 mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":32,"end":38,"label":"GENE"}]}
+{"text":"POLG-1 was confirmed by sequencing.","spans":[{"start":0,"end":6,"label":"GENE"}]}
+{"text":"Mutation in POLG-1 may explain the disorder.","spans":[{"start":12,"end":18,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutation was detected in the patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient carried Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":31,"label":"GENE"}]}
+{"text":"The presence of Polymerase Gamma was noted.","spans":[{"start":16,"end":32,"label":"GENE"}]}
+{"text":"Polymerase Gamma alteration was observed.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Sequencing showed Polymerase Gamma mutation.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"Genetic tests revealed Polymerase Gamma mutation.","spans":[{"start":23,"end":39,"label":"GENE"}]}
+{"text":"Patient had a Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":14,"end":30,"label":"GENE"}]}
+{"text":"Polymerase Gamma was linked to symptoms.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Mutation involving Polymerase Gamma was detected.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"The Polymerase Gamma mutation was novel.","spans":[{"start":4,"end":20,"label":"GENE"}]}
+{"text":"The patient had polymerase gamma1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":33,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was found in the sample.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Genetic sequencing confirmed polymerase gamma1.","spans":[{"start":28,"end":46,"label":"GENE"}]}
+{"text":"A variant in polymerase gamma1 was noted.","spans":[{"start":13,"end":31,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation appeared clinically relevant.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"The mutation in polymerase gamma1 was pathogenic.","spans":[{"start":17,"end":35,"label":"GENE"}]}
+{"text":"He was diagnosed with polymerase gamma1 variant.","spans":[{"start":23,"end":41,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was likely involved.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Evidence supported polymerase gamma1 mutation.","spans":[{"start":18,"end":36,"label":"GENE"}]}
+{"text":"The patient carried polymerase gamma1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":42,"label":"GENE"}]}
+{"text":"The patient was found to have p. L30 4R mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"GENE"}]}
+{"text":"p. L30 4R mutation was detected during sequencing.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"Genetic analysis confirmed p. L30 4R.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"Mutation p. L30 4R appeared clinically relevant.","spans":[{"start":9,"end":18,"label":"GENE"}]}
+{"text":"The presence of p. L30 4R was reported.","spans":[{"start":16,"end":25,"label":"GENE"}]}
+{"text":"Sequencing found the p. L30 4R variant.","spans":[{"start":21,"end":30,"label":"GENE"}]}
+{"text":"Patient tested positive for p. L30 4R.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":37,"label":"GENE"}]}
+{"text":"The p. L30 4R mutation was confirmed.","spans":[{"start":4,"end":13,"label":"GENE"}]}
+{"text":"He carried a pathogenic p. L30 4R mutation.","spans":[{"start":25,"end":34,"label":"GENE"}]}
+{"text":"Genomic testing revealed p. L30 4R.","spans":[{"start":25,"end":34,"label":"GENE"}]}
+{"text":"The patient carried the PL39 2V mutation.","spans":[{"start":24,"end":31,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A PL39 2V alteration was identified in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"PL39 2V was detected during genetic screening.","spans":[{"start":0,"end":7,"label":"GENE"}]}
+{"text":"The variant PL39 2V may affect mitochondrial function.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"Mutations like PL39 2V are often reported in mitochondrial diseases.","spans":[{"start":15,"end":22,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the PL39 2V gene variant.","spans":[{"start":32,"end":39,"label":"GENE"}]}
+{"text":"The PL39 2V sequence change was observed in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":48,"end":55,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a PL39 2V variant.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"The patient showed a mutation in PL39 2V.","spans":[{"start":33,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in PL39 2V was noted in the genetic profile.","spans":[{"start":14,"end":21,"label":"GENE"}]}
+{"text":"The patient carried the 3240-3242 duplication mutation.","spans":[{"start":24,"end":45,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3240-3242 duplication alteration was identified in the patient.","spans":[{"start":2,"end":23,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"3240-3242 duplication was detected during genetic screening.","spans":[{"start":0,"end":21,"label":"GENE"}]}
+{"text":"The variant 3240-3242 duplication may affect mitochondrial function.","spans":[{"start":12,"end":33,"label":"GENE"}]}
+{"text":"Mutations like 3240-3242 duplication are often reported in mitochondrial diseases.","spans":[{"start":15,"end":36,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the 3240-3242 duplication gene variant.","spans":[{"start":32,"end":53,"label":"GENE"}]}
+{"text":"The 3240-3242 duplication sequence change was observed in the patient.","spans":[{"start":4,"end":25,"label":"GENE"},{"start":62,"end":69,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a 3240-3242 duplication variant.","spans":[{"start":27,"end":48,"label":"GENE"}]}
+{"text":"The patient showed a mutation in 3240-3242 duplication.","spans":[{"start":33,"end":54,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in 3240-3242 duplication was noted in the genetic profile.","spans":[{"start":14,"end":35,"label":"GENE"}]}
+{"text":"The patient carried the pR1081dup mutation.","spans":[{"start":24,"end":33,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A pR1081dup alteration was identified in the patient.","spans":[{"start":2,"end":11,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"pR1081dup was detected during genetic screening.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"The variant pR1081dup may affect mitochondrial function.","spans":[{"start":12,"end":21,"label":"GENE"}]}
+{"text":"Mutations like pR1081dup are often reported in mitochondrial diseases.","spans":[{"start":15,"end":24,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the pR1081dup gene variant.","spans":[{"start":32,"end":41,"label":"GENE"}]}
+{"text":"The pR1081dup sequence change was observed in the patient.","spans":[{"start":4,"end":13,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a pR1081dup variant.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"The patient showed a mutation in pR1081dup.","spans":[{"start":33,"end":42,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in pR1081dup was noted in the genetic profile.","spans":[{"start":14,"end":23,"label":"GENE"}]}
+{"text":"The patient carried the Polymerase gamma mutation.","spans":[{"start":24,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A Polymerase gamma alteration was identified in the patient.","spans":[{"start":2,"end":18,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Polymerase gamma was detected during genetic screening.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"The variant Polymerase gamma may affect mitochondrial function.","spans":[{"start":12,"end":28,"label":"GENE"}]}
+{"text":"Mutations like Polymerase gamma are often reported in mitochondrial diseases.","spans":[{"start":15,"end":31,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the Polymerase gamma gene variant.","spans":[{"start":32,"end":48,"label":"GENE"}]}
+{"text":"The Polymerase gamma sequence change was observed in the patient.","spans":[{"start":4,"end":20,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a Polymerase gamma variant.","spans":[{"start":27,"end":43,"label":"GENE"}]}
+{"text":"The patient showed a mutation in Polymerase gamma.","spans":[{"start":33,"end":49,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in Polymerase gamma was noted in the genetic profile.","spans":[{"start":14,"end":30,"label":"GENE"}]}
+{"text":"The patient carried the polymerase gamma protein mutation.","spans":[{"start":24,"end":48,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A polymerase gamma protein alteration was identified in the patient.","spans":[{"start":2,"end":26,"label":"GENE"},{"start":60,"end":67,"label":"PATIENT"}]}
+{"text":"polymerase gamma protein was detected during genetic screening.","spans":[{"start":0,"end":24,"label":"GENE"}]}
+{"text":"The variant polymerase gamma protein may affect mitochondrial function.","spans":[{"start":12,"end":36,"label":"GENE"}]}
+{"text":"Mutations like polymerase gamma protein are often reported in mitochondrial diseases.","spans":[{"start":15,"end":39,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the polymerase gamma protein gene variant.","spans":[{"start":32,"end":56,"label":"GENE"}]}
+{"text":"The polymerase gamma protein sequence change was observed in the patient.","spans":[{"start":4,"end":28,"label":"GENE"},{"start":65,"end":72,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a polymerase gamma protein variant.","spans":[{"start":27,"end":51,"label":"GENE"}]}
+{"text":"The patient showed a mutation in polymerase gamma protein.","spans":[{"start":33,"end":57,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in polymerase gamma protein was noted in the genetic profile.","spans":[{"start":14,"end":38,"label":"GENE"}]}
+{"text":"The patient was found to carry the POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a variant in POLG1.","spans":[{"start":36,"end":41,"label":"GENE"}]}
+{"text":"The POLG1 gene mutation was observed in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient tested positive for the POLG1 variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":38,"label":"GENE"}]}
+{"text":"A POLG1 mutation was identified during clinical examination.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"POLG1-related disorder was suspected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"The patient exhibited symptoms linked to POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":44,"label":"GENE"}]}
+{"text":"A mutation in POLG1 was detected by sequencing.","spans":[{"start":15,"end":20,"label":"GENE"}]}
+{"text":"Clinical report revealed a POLG1 variant in patient.","spans":[{"start":27,"end":32,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"Sequencing identified a mutation in the POLG1 gene.","spans":[{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Patient carried a mutation in POLG.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":37,"label":"GENE"}]}
+{"text":"POLG mutation was found during diagnostic tests.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"A pathogenic variant of POLG was identified.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"The patient harbored a POLG-related mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":27,"label":"GENE"}]}
+{"text":"Sequencing confirmed the presence of POLG mutation.","spans":[{"start":36,"end":40,"label":"GENE"}]}
+{"text":"A mutation in POLG was detected in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The POLG gene has been associated with disease.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"POLG mutation was present in a symptomatic patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"Genetic report mentioned a POLG mutation.","spans":[{"start":27,"end":31,"label":"GENE"}]}
+{"text":"Patient tested positive for POLG variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":34,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was found in a patient.","spans":[{"start":4,"end":18,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Patient harbored a pathogenic polymerase 'Y variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":44,"label":"GENE"}]}
+{"text":"Sequencing revealed polymerase 'Y mutation in patient.","spans":[{"start":20,"end":34,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"polymerase 'Y was linked to the clinical phenotype.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Mutation in polymerase 'Y was confirmed by lab.","spans":[{"start":13,"end":27,"label":"GENE"}]}
+{"text":"Genetic results showed a polymerase 'Y allele.","spans":[{"start":26,"end":40,"label":"GENE"}]}
+{"text":"A mutation in polymerase 'Y was identified.","spans":[{"start":15,"end":29,"label":"GENE"}]}
+{"text":"The patient showed a polymerase 'Y variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":38,"label":"GENE"}]}
+{"text":"polymerase 'Y is associated with mitochondrial disease.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was implicated in the condition.","spans":[{"start":0,"end":19,"label":"GENE"}]}
+{"text":"Patient carried DNA polymerase 'Y mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":34,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was detected in patient.","spans":[{"start":4,"end":23,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Sequencing identified a DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was found in the patient.","spans":[{"start":0,"end":19,"label":"GENE"},{"start":35,"end":42,"label":"PATIENT"}]}
+{"text":"A rare DNA polymerase 'Y variant was reported.","spans":[{"start":8,"end":27,"label":"GENE"}]}
+{"text":"Patient tested positive for DNA polymerase 'Y.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":49,"label":"GENE"}]}
+{"text":"Mutation in DNA polymerase 'Y was confirmed.","spans":[{"start":13,"end":32,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y allele was present.","spans":[{"start":4,"end":23,"label":"GENE"}]}
+{"text":"Genetic report indicated DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"The patient carried the PL39 2V mutation.","spans":[{"start":24,"end":31,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A PL39 2V alteration was identified in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"PL39 2V was detected during genetic screening.","spans":[{"start":0,"end":7,"label":"GENE"}]}
+{"text":"The variant PL39 2V may affect mitochondrial function.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"Mutations like PL39 2V are often reported in mitochondrial diseases.","spans":[{"start":15,"end":22,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the PL39 2V gene variant.","spans":[{"start":32,"end":39,"label":"GENE"}]}
+{"text":"The PL39 2V sequence change was observed in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":48,"end":55,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a PL39 2V variant.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"The patient showed a mutation in PL39 2V.","spans":[{"start":33,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in PL39 2V was noted in the genetic profile.","spans":[{"start":14,"end":21,"label":"GENE"}]}
+{"text":"The patient carried the 3240-3242 duplication mutation.","spans":[{"start":24,"end":45,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3240-3242 duplication alteration was identified in the patient.","spans":[{"start":2,"end":23,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"3240-3242 duplication was detected during genetic screening.","spans":[{"start":0,"end":21,"label":"GENE"}]}
+{"text":"The variant 3240-3242 duplication may affect mitochondrial function.","spans":[{"start":12,"end":33,"label":"GENE"}]}
+{"text":"Mutations like 3240-3242 duplication are often reported in mitochondrial diseases.","spans":[{"start":15,"end":36,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the 3240-3242 duplication gene variant.","spans":[{"start":32,"end":53,"label":"GENE"}]}
+{"text":"The 3240-3242 duplication sequence change was observed in the patient.","spans":[{"start":4,"end":25,"label":"GENE"},{"start":62,"end":69,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a 3240-3242 duplication variant.","spans":[{"start":27,"end":48,"label":"GENE"}]}
+{"text":"The patient showed a mutation in 3240-3242 duplication.","spans":[{"start":33,"end":54,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in 3240-3242 duplication was noted in the genetic profile.","spans":[{"start":14,"end":35,"label":"GENE"}]}
+{"text":"The patient carried the pR1081dup mutation.","spans":[{"start":24,"end":33,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A pR1081dup alteration was identified in the patient.","spans":[{"start":2,"end":11,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"pR1081dup was detected during genetic screening.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"The variant pR1081dup may affect mitochondrial function.","spans":[{"start":12,"end":21,"label":"GENE"}]}
+{"text":"Mutations like pR1081dup are often reported in mitochondrial diseases.","spans":[{"start":15,"end":24,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the pR1081dup gene variant.","spans":[{"start":32,"end":41,"label":"GENE"}]}
+{"text":"The pR1081dup sequence change was observed in the patient.","spans":[{"start":4,"end":13,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a pR1081dup variant.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"The patient showed a mutation in pR1081dup.","spans":[{"start":33,"end":42,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in pR1081dup was noted in the genetic profile.","spans":[{"start":14,"end":23,"label":"GENE"}]}
+{"text":"The patient carried the Polymerase gamma mutation.","spans":[{"start":24,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A Polymerase gamma alteration was identified in the patient.","spans":[{"start":2,"end":18,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Polymerase gamma was detected during genetic screening.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"The variant Polymerase gamma may affect mitochondrial function.","spans":[{"start":12,"end":28,"label":"GENE"}]}
+{"text":"Mutations like Polymerase gamma are often reported in mitochondrial diseases.","spans":[{"start":15,"end":31,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the Polymerase gamma gene variant.","spans":[{"start":32,"end":48,"label":"GENE"}]}
+{"text":"The Polymerase gamma sequence change was observed in the patient.","spans":[{"start":4,"end":20,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a Polymerase gamma variant.","spans":[{"start":27,"end":43,"label":"GENE"}]}
+{"text":"The patient showed a mutation in Polymerase gamma.","spans":[{"start":33,"end":49,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in Polymerase gamma was noted in the genetic profile.","spans":[{"start":14,"end":30,"label":"GENE"}]}
+{"text":"The patient carried the polymerase gamma protein mutation.","spans":[{"start":24,"end":48,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A polymerase gamma protein alteration was identified in the patient.","spans":[{"start":2,"end":26,"label":"GENE"},{"start":60,"end":67,"label":"PATIENT"}]}
+{"text":"polymerase gamma protein was detected during genetic screening.","spans":[{"start":0,"end":24,"label":"GENE"}]}
+{"text":"The variant polymerase gamma protein may affect mitochondrial function.","spans":[{"start":12,"end":36,"label":"GENE"}]}
+{"text":"Mutations like polymerase gamma protein are often reported in mitochondrial diseases.","spans":[{"start":15,"end":39,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the polymerase gamma protein gene variant.","spans":[{"start":32,"end":56,"label":"GENE"}]}
+{"text":"The polymerase gamma protein sequence change was observed in the patient.","spans":[{"start":4,"end":28,"label":"GENE"},{"start":65,"end":72,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a polymerase gamma protein variant.","spans":[{"start":27,"end":51,"label":"GENE"}]}
+{"text":"The patient showed a mutation in polymerase gamma protein.","spans":[{"start":33,"end":57,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in polymerase gamma protein was noted in the genetic profile.","spans":[{"start":14,"end":38,"label":"GENE"}]}
+{"text":"polymerase gamma was frequently mutated.","spans":[{"start":0,"end":17,"label":"GENE"}]}
+{"text":"We identified polymerase gamma in the patient.","spans":[{"start":14,"end":31,"label":"GENE"},{"start":39,"end":46,"label":"PATIENT"}]}
+{"text":"Mutation of polymerase gamma was seen.","spans":[{"start":12,"end":29,"label":"GENE"}]}
+{"text":"The polymerase gamma variant was pathogenic.","spans":[{"start":4,"end":21,"label":"GENE"}]}
+{"text":"polymerase gamma mutation led to disease.","spans":[{"start":0,"end":17,"label":"GENE"}]}
+{"text":"We sequenced polymerase gamma.","spans":[{"start":13,"end":30,"label":"GENE"}]}
+{"text":"polymerase gamma was observed in patient.","spans":[{"start":0,"end":17,"label":"GENE"},{"start":34,"end":41,"label":"PATIENT"}]}
+{"text":"Genetic test showed polymerase gamma mutation.","spans":[{"start":20,"end":37,"label":"GENE"}]}
+{"text":"Defect in polymerase gamma caused symptoms.","spans":[{"start":11,"end":28,"label":"GENE"}]}
+{"text":"The patient had polymerase gamma mutation.","spans":[{"start":15,"end":32,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"poLG1 was detected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":25,"end":32,"label":"PATIENT"}]}
+{"text":"Mutation of poLG1 was significant.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"The poLG1 variant was rare.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"We confirmed poLG1 mutation.","spans":[{"start":13,"end":18,"label":"GENE"}]}
+{"text":"poLG1 was frequently mutated.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"A poLG1 mutation was identified.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"The patient carried poLG1.","spans":[{"start":20,"end":25,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"poLG1 gene was found in our study.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"Genetic testing revealed poLG1 mutation.","spans":[{"start":25,"end":30,"label":"GENE"}]}
+{"text":"We observed poLG1 variant in this patient.","spans":[{"start":11,"end":16,"label":"GENE"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"The POLG1 mutation was detected.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"We found POLG1 in the patient.","spans":[{"start":9,"end":14,"label":"GENE"},{"start":22,"end":29,"label":"PATIENT"}]}
+{"text":"Patient carried the POLG1 variant.","spans":[{"start":18,"end":23,"label":"GENE"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"Mutation in POLG1 was noted.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"POLG1 was associated with disease.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"The patient had a POLG1 mutation.","spans":[{"start":18,"end":23,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Genetic testing confirmed POLG1.","spans":[{"start":25,"end":30,"label":"GENE"}]}
+{"text":"POLG1 mutation was observed in patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"We sequenced POLG1 from the patient.","spans":[{"start":13,"end":18,"label":"GENE"},{"start":28,"end":35,"label":"PATIENT"}]}
+{"text":"Mutation in POLG1 was identified.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"POLG was found in the patient's DNA.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"Mutation in POLG was pathogenic.","spans":[{"start":12,"end":16,"label":"GENE"}]}
+{"text":"We identified POLG in the sample.","spans":[{"start":13,"end":17,"label":"GENE"}]}
+{"text":"Patient carried the POLG gene.","spans":[{"start":18,"end":22,"label":"GENE"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"POLG mutation led to symptoms.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"The POLG gene was sequenced.","spans":[{"start":4,"end":8,"label":"GENE"}]}
+{"text":"Genetic testing revealed POLG.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"POLG variant was confirmed in patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"We observed the POLG mutation.","spans":[{"start":16,"end":20,"label":"GENE"}]}
+{"text":"Mutation of POLG was seen in the patient.","spans":[{"start":12,"end":16,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"The POLG1 gene mutation was identified in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"A mutation in POLG1 was discovered in a young patient.","spans":[{"start":15,"end":20,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"Patient carried a defect in the POLG1 gene.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":36,"label":"GENE"}]}
+{"text":"The child had a confirmed POLG1 mutation.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":28,"end":33,"label":"GENE"}]}
+{"text":"A pathogenic variant was found in POLG1.","spans":[{"start":34,"end":39,"label":"GENE"}]}
+{"text":"Mutations in the POLG gene have been frequently observed.","spans":[{"start":17,"end":21,"label":"GENE"}]}
+{"text":"The POLG variant appeared to be associated with the phenotype.","spans":[{"start":4,"end":8,"label":"GENE"}]}
+{"text":"POLG gene was tested in the child presenting seizures.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":30,"end":35,"label":"PATIENT"}]}
+{"text":"A mutation in POLG caused symptoms in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"The patient showed a confirmed pathogenic variant in POLG.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":55,"end":59,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was detected in a patient.","spans":[{"start":4,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Mutations affecting polymerase 'Y were associated with disease.","spans":[{"start":20,"end":35,"label":"GENE"}]}
+{"text":"polymerase 'Y defects were seen in the individual.","spans":[{"start":0,"end":15,"label":"GENE"}]}
+{"text":"A patient carried a mutation in polymerase 'Y.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":35,"end":50,"label":"GENE"}]}
+{"text":"Pathogenic polymerase 'Y variant identified in testing.","spans":[{"start":10,"end":25,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was reported in the patient.","spans":[{"start":4,"end":24,"label":"GENE"},{"start":49,"end":56,"label":"PATIENT"}]}
+{"text":"A defect in DNA polymerase 'Y was associated with symptoms.","spans":[{"start":13,"end":33,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y mutation was detected in a child.","spans":[{"start":0,"end":20,"label":"GENE"},{"start":45,"end":50,"label":"PATIENT"}]}
+{"text":"A child was found to carry a DNA polymerase 'Y mutation.","spans":[{"start":2,"end":7,"label":"PATIENT"},{"start":34,"end":54,"label":"GENE"}]}
+{"text":"We confirmed DNA polymerase 'Y involvement in this patient.","spans":[{"start":13,"end":33,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"The patient carries the p.G848S variant in the mitochondrial gene.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":36,"label":"GENE"}]}
+{"text":"Genetic analysis identified p.G848S in a symptomatic patient.","spans":[{"start":27,"end":35,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Patient was diagnosed with the pathogenic p.G848S mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":38,"end":46,"label":"GENE"}]}
+{"text":"p.G848S was found in the patient during routine screening.","spans":[{"start":0,"end":8,"label":"GENE"},{"start":26,"end":33,"label":"PATIENT"}]}
+{"text":"The presence of p.G848S in the patient confirmed the diagnosis.","spans":[{"start":16,"end":24,"label":"GENE"},{"start":28,"end":35,"label":"PATIENT"}]}
+{"text":"Patient exhibited the POLG-1 mutation associated with mitochondrial disorders.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":23,"end":30,"label":"GENE"}]}
+{"text":"The POLG-1 variant was identified in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":39,"end":46,"label":"PATIENT"}]}
+{"text":"A patient tested positive for the POLG-1 mutation.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":34,"end":41,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a pathogenic POLG-1 allele.","spans":[{"start":37,"end":44,"label":"GENE"}]}
+{"text":"The patient carried a rare variant of POLG-1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":45,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutations have been implicated in this patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":53,"end":60,"label":"PATIENT"}]}
+{"text":"The patient presented with Polymerase Gamma-related symptoms.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":44,"label":"GENE"}]}
+{"text":"Pathogenic Polymerase Gamma mutation detected in patient.","spans":[{"start":11,"end":27,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"A patient was found with a Polymerase Gamma variant.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":33,"end":49,"label":"GENE"}]}
+{"text":"Mutations in Polymerase Gamma are common among patients with symptoms.","spans":[{"start":13,"end":29,"label":"GENE"}]}
+{"text":"The patient tested positive for polymerase gamma1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":52,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation was detected in the patient.","spans":[{"start":0,"end":18,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed polymerase gamma1 mutation in this patient.","spans":[{"start":24,"end":42,"label":"GENE"},{"start":51,"end":58,"label":"PATIENT"}]}
+{"text":"A patient carries the polymerase gamma1 allele.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":25,"end":43,"label":"GENE"}]}
+{"text":"The polymerase gamma1 variant is associated with disease.","spans":[{"start":4,"end":22,"label":"GENE"}]}
+{"text":"The patient was found to carry the POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a variant in POLG1.","spans":[{"start":36,"end":41,"label":"GENE"}]}
+{"text":"The POLG1 gene mutation was observed in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient tested positive for the POLG1 variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":38,"label":"GENE"}]}
+{"text":"A POLG1 mutation was identified during clinical examination.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"POLG1-related disorder was suspected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"The patient exhibited symptoms linked to POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":44,"label":"GENE"}]}
+{"text":"A mutation in POLG1 was detected by sequencing.","spans":[{"start":15,"end":20,"label":"GENE"}]}
+{"text":"Clinical report revealed a POLG1 variant in patient.","spans":[{"start":27,"end":32,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"Sequencing identified a mutation in the POLG1 gene.","spans":[{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Patient carried a mutation in POLG.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":37,"label":"GENE"}]}
+{"text":"POLG mutation was found during diagnostic tests.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"A pathogenic variant of POLG was identified.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"The patient harbored a POLG-related mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":27,"label":"GENE"}]}
+{"text":"Sequencing confirmed the presence of POLG mutation.","spans":[{"start":36,"end":40,"label":"GENE"}]}
+{"text":"A mutation in POLG was detected in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The POLG gene has been associated with disease.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"POLG mutation was present in a symptomatic patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"Genetic report mentioned a POLG mutation.","spans":[{"start":27,"end":31,"label":"GENE"}]}
+{"text":"Patient tested positive for POLG variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":34,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was found in a patient.","spans":[{"start":4,"end":18,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Patient harbored a pathogenic polymerase 'Y variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":44,"label":"GENE"}]}
+{"text":"Sequencing revealed polymerase 'Y mutation in patient.","spans":[{"start":20,"end":34,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"polymerase 'Y was linked to the clinical phenotype.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Mutation in polymerase 'Y was confirmed by lab.","spans":[{"start":13,"end":27,"label":"GENE"}]}
+{"text":"Genetic results showed a polymerase 'Y allele.","spans":[{"start":26,"end":40,"label":"GENE"}]}
+{"text":"A mutation in polymerase 'Y was identified.","spans":[{"start":15,"end":29,"label":"GENE"}]}
+{"text":"The patient showed a polymerase 'Y variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":38,"label":"GENE"}]}
+{"text":"polymerase 'Y is associated with mitochondrial disease.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Patient carried DNA polymerase 'Y mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":34,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was detected in patient.","spans":[{"start":4,"end":23,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Sequencing identified a DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was found in the patient.","spans":[{"start":0,"end":19,"label":"GENE"},{"start":35,"end":42,"label":"PATIENT"}]}
+{"text":"A rare DNA polymerase 'Y variant was reported.","spans":[{"start":8,"end":27,"label":"GENE"}]}
+{"text":"Patient tested positive for DNA polymerase 'Y.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":49,"label":"GENE"}]}
+{"text":"Mutation in DNA polymerase 'Y was confirmed.","spans":[{"start":13,"end":32,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y allele was present.","spans":[{"start":4,"end":23,"label":"GENE"}]}
+{"text":"Genetic report indicated DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"The patient was found to carry the p.G848S mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":42,"label":"GENE"}]}
+{"text":"Mutation p.G848S was identified during genetic screening.","spans":[{"start":9,"end":16,"label":"GENE"}]}
+{"text":"Patient tested positive for p.G848S variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":35,"label":"GENE"}]}
+{"text":"Sequencing revealed presence of p.G848S in patient.","spans":[{"start":32,"end":39,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"Genetic testing confirmed a p.G848S mutation.","spans":[{"start":28,"end":35,"label":"GENE"}]}
+{"text":"A p.G848S variant was discovered in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"He was diagnosed with the p.G848S mutation.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"Genomic analysis found a p.G848S mutation.","spans":[{"start":26,"end":33,"label":"GENE"}]}
+{"text":"Clinical signs correlated with p.G848S presence.","spans":[{"start":30,"end":37,"label":"GENE"}]}
+{"text":"Presence of p.G848S was linked to clinical symptoms.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"POLG-1 mutation was identified in the patient.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"The patient carried the POLG-1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":27,"end":33,"label":"GENE"}]}
+{"text":"Analysis showed POLG-1 mutation was present.","spans":[{"start":15,"end":21,"label":"GENE"}]}
+{"text":"Genetic study confirmed POLG-1 variant.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"POLG-1 variant correlated with patient symptoms.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"He tested positive for POLG-1 mutation.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"The presence of POLG-1 was verified.","spans":[{"start":16,"end":22,"label":"GENE"}]}
+{"text":"Patient harbored a pathogenic POLG-1 mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":32,"end":38,"label":"GENE"}]}
+{"text":"POLG-1 was confirmed by sequencing.","spans":[{"start":0,"end":6,"label":"GENE"}]}
+{"text":"Mutation in POLG-1 may explain the disorder.","spans":[{"start":12,"end":18,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutation was detected in the patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient carried Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":31,"label":"GENE"}]}
+{"text":"The presence of Polymerase Gamma was noted.","spans":[{"start":16,"end":32,"label":"GENE"}]}
+{"text":"Polymerase Gamma alteration was observed.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Sequencing showed Polymerase Gamma mutation.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"Genetic tests revealed Polymerase Gamma mutation.","spans":[{"start":23,"end":39,"label":"GENE"}]}
+{"text":"Patient had a Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":14,"end":30,"label":"GENE"}]}
+{"text":"Polymerase Gamma was linked to symptoms.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Mutation involving Polymerase Gamma was detected.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"The Polymerase Gamma mutation was novel.","spans":[{"start":4,"end":20,"label":"GENE"}]}
+{"text":"The patient had polymerase gamma1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":33,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was found in the sample.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Genetic sequencing confirmed polymerase gamma1.","spans":[{"start":28,"end":46,"label":"GENE"}]}
+{"text":"A variant in polymerase gamma1 was noted.","spans":[{"start":13,"end":31,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation appeared clinically relevant.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"The mutation in polymerase gamma1 was pathogenic.","spans":[{"start":17,"end":35,"label":"GENE"}]}
+{"text":"He was diagnosed with polymerase gamma1 variant.","spans":[{"start":23,"end":41,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was likely involved.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Evidence supported polymerase gamma1 mutation.","spans":[{"start":18,"end":36,"label":"GENE"}]}
+{"text":"The patient carried polymerase gamma1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":42,"label":"GENE"}]}
+{"text":"The patient was found to have p. L30 4R mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"GENE"}]}
+{"text":"p. L30 4R mutation was detected during sequencing.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"Genetic analysis confirmed p. L30 4R.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"Mutation p. L30 4R appeared clinically relevant.","spans":[{"start":9,"end":18,"label":"GENE"}]}
+{"text":"The presence of p. L30 4R was reported.","spans":[{"start":16,"end":25,"label":"GENE"}]}
+{"text":"Sequencing found the p. L30 4R variant.","spans":[{"start":21,"end":30,"label":"GENE"}]}
+{"text":"Patient tested positive for p. L30 4R.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":37,"label":"GENE"}]}
+{"text":"The p. L30 4R mutation was confirmed.","spans":[{"start":4,"end":13,"label":"GENE"}]}
+{"text":"He carried a pathogenic p. L30 4R mutation.","spans":[{"start":25,"end":34,"label":"GENE"}]}
+{"text":"Genomic testing revealed p. L30 4R.","spans":[{"start":25,"end":34,"label":"GENE"}]}
+{"text":"The patient carried the PL39 2V mutation.","spans":[{"start":24,"end":31,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A PL39 2V alteration was identified in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"PL39 2V was detected during genetic screening.","spans":[{"start":0,"end":7,"label":"GENE"}]}
+{"text":"The variant PL39 2V may affect mitochondrial function.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"Mutations like PL39 2V are often reported in mitochondrial diseases.","spans":[{"start":15,"end":22,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the PL39 2V gene variant.","spans":[{"start":32,"end":39,"label":"GENE"}]}
+{"text":"The PL39 2V sequence change was observed in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":48,"end":55,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a PL39 2V variant.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"The patient showed a mutation in PL39 2V.","spans":[{"start":33,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in PL39 2V was noted in the genetic profile.","spans":[{"start":14,"end":21,"label":"GENE"}]}
+{"text":"The patient carried the 3240-3242 duplication mutation.","spans":[{"start":24,"end":45,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3240-3242 duplication alteration was identified in the patient.","spans":[{"start":2,"end":23,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"3240-3242 duplication was detected during genetic screening.","spans":[{"start":0,"end":21,"label":"GENE"}]}
+{"text":"The variant 3240-3242 duplication may affect mitochondrial function.","spans":[{"start":12,"end":33,"label":"GENE"}]}
+{"text":"Mutations like 3240-3242 duplication are often reported in mitochondrial diseases.","spans":[{"start":15,"end":36,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the 3240-3242 duplication gene variant.","spans":[{"start":32,"end":53,"label":"GENE"}]}
+{"text":"The 3240-3242 duplication sequence change was observed in the patient.","spans":[{"start":4,"end":25,"label":"GENE"},{"start":62,"end":69,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a 3240-3242 duplication variant.","spans":[{"start":27,"end":48,"label":"GENE"}]}
+{"text":"The patient showed a mutation in 3240-3242 duplication.","spans":[{"start":33,"end":54,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in 3240-3242 duplication was noted in the genetic profile.","spans":[{"start":14,"end":35,"label":"GENE"}]}
+{"text":"The patient carried the pR1081dup mutation.","spans":[{"start":24,"end":33,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A pR1081dup alteration was identified in the patient.","spans":[{"start":2,"end":11,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"pR1081dup was detected during genetic screening.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"The variant pR1081dup may affect mitochondrial function.","spans":[{"start":12,"end":21,"label":"GENE"}]}
+{"text":"Mutations like pR1081dup are often reported in mitochondrial diseases.","spans":[{"start":15,"end":24,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the pR1081dup gene variant.","spans":[{"start":32,"end":41,"label":"GENE"}]}
+{"text":"The pR1081dup sequence change was observed in the patient.","spans":[{"start":4,"end":13,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a pR1081dup variant.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"The patient showed a mutation in pR1081dup.","spans":[{"start":33,"end":42,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in pR1081dup was noted in the genetic profile.","spans":[{"start":14,"end":23,"label":"GENE"}]}
+{"text":"The patient carried the Polymerase gamma mutation.","spans":[{"start":24,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A Polymerase gamma alteration was identified in the patient.","spans":[{"start":2,"end":18,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Polymerase gamma was detected during genetic screening.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"The variant Polymerase gamma may affect mitochondrial function.","spans":[{"start":12,"end":28,"label":"GENE"}]}
+{"text":"Mutations like Polymerase gamma are often reported in mitochondrial diseases.","spans":[{"start":15,"end":31,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the Polymerase gamma gene variant.","spans":[{"start":32,"end":48,"label":"GENE"}]}
+{"text":"The Polymerase gamma sequence change was observed in the patient.","spans":[{"start":4,"end":20,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a Polymerase gamma variant.","spans":[{"start":27,"end":43,"label":"GENE"}]}
+{"text":"The patient showed a mutation in Polymerase gamma.","spans":[{"start":33,"end":49,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in Polymerase gamma was noted in the genetic profile.","spans":[{"start":14,"end":30,"label":"GENE"}]}
+{"text":"The patient carried the polymerase gamma protein mutation.","spans":[{"start":24,"end":48,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A polymerase gamma protein alteration was identified in the patient.","spans":[{"start":2,"end":26,"label":"GENE"},{"start":60,"end":67,"label":"PATIENT"}]}
+{"text":"polymerase gamma protein was detected during genetic screening.","spans":[{"start":0,"end":24,"label":"GENE"}]}
+{"text":"The variant polymerase gamma protein may affect mitochondrial function.","spans":[{"start":12,"end":36,"label":"GENE"}]}
+{"text":"Mutations like polymerase gamma protein are often reported in mitochondrial diseases.","spans":[{"start":15,"end":39,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the polymerase gamma protein gene variant.","spans":[{"start":32,"end":56,"label":"GENE"}]}
+{"text":"The polymerase gamma protein sequence change was observed in the patient.","spans":[{"start":4,"end":28,"label":"GENE"},{"start":65,"end":72,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a polymerase gamma protein variant.","spans":[{"start":27,"end":51,"label":"GENE"}]}
+{"text":"The patient showed a mutation in polymerase gamma protein.","spans":[{"start":33,"end":57,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in polymerase gamma protein was noted in the genetic profile.","spans":[{"start":14,"end":38,"label":"GENE"}]}
+{"text":"The patient was found to carry the POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a variant in POLG1.","spans":[{"start":36,"end":41,"label":"GENE"}]}
+{"text":"The POLG1 gene mutation was observed in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient tested positive for the POLG1 variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":38,"label":"GENE"}]}
+{"text":"A POLG1 mutation was identified during clinical examination.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"POLG1-related disorder was suspected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"The patient exhibited symptoms linked to POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":44,"label":"GENE"}]}
+{"text":"A mutation in POLG1 was detected by sequencing.","spans":[{"start":15,"end":20,"label":"GENE"}]}
+{"text":"Clinical report revealed a POLG1 variant in patient.","spans":[{"start":27,"end":32,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"Sequencing identified a mutation in the POLG1 gene.","spans":[{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Patient carried a mutation in POLG.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":37,"label":"GENE"}]}
+{"text":"POLG mutation was found during diagnostic tests.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"A pathogenic variant of POLG was identified.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"The patient harbored a POLG-related mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":27,"label":"GENE"}]}
+{"text":"Sequencing confirmed the presence of POLG mutation.","spans":[{"start":36,"end":40,"label":"GENE"}]}
+{"text":"A mutation in POLG was detected in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The POLG gene has been associated with disease.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"POLG mutation was present in a symptomatic patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"Genetic report mentioned a POLG mutation.","spans":[{"start":27,"end":31,"label":"GENE"}]}
+{"text":"Patient tested positive for POLG variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":34,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was found in a patient.","spans":[{"start":4,"end":18,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Patient harbored a pathogenic polymerase 'Y variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":44,"label":"GENE"}]}
+{"text":"Sequencing revealed polymerase 'Y mutation in patient.","spans":[{"start":20,"end":34,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"polymerase 'Y was linked to the clinical phenotype.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Mutation in polymerase 'Y was confirmed by lab.","spans":[{"start":13,"end":27,"label":"GENE"}]}
+{"text":"Genetic results showed a polymerase 'Y allele.","spans":[{"start":26,"end":40,"label":"GENE"}]}
+{"text":"A mutation in polymerase 'Y was identified.","spans":[{"start":15,"end":29,"label":"GENE"}]}
+{"text":"The patient showed a polymerase 'Y variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":38,"label":"GENE"}]}
+{"text":"polymerase 'Y is associated with mitochondrial disease.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was implicated in the condition.","spans":[{"start":0,"end":19,"label":"GENE"}]}
+{"text":"Patient carried DNA polymerase 'Y mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":34,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was detected in patient.","spans":[{"start":4,"end":23,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Sequencing identified a DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was found in the patient.","spans":[{"start":0,"end":19,"label":"GENE"},{"start":35,"end":42,"label":"PATIENT"}]}
+{"text":"A rare DNA polymerase 'Y variant was reported.","spans":[{"start":8,"end":27,"label":"GENE"}]}
+{"text":"Patient tested positive for DNA polymerase 'Y.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":49,"label":"GENE"}]}
+{"text":"Mutation in DNA polymerase 'Y was confirmed.","spans":[{"start":13,"end":32,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y allele was present.","spans":[{"start":4,"end":23,"label":"GENE"}]}
+{"text":"Genetic report indicated DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"The patient carried the PL39 2V mutation.","spans":[{"start":24,"end":31,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A PL39 2V alteration was identified in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"PL39 2V was detected during genetic screening.","spans":[{"start":0,"end":7,"label":"GENE"}]}
+{"text":"The variant PL39 2V may affect mitochondrial function.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"Mutations like PL39 2V are often reported in mitochondrial diseases.","spans":[{"start":15,"end":22,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the PL39 2V gene variant.","spans":[{"start":32,"end":39,"label":"GENE"}]}
+{"text":"The PL39 2V sequence change was observed in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":48,"end":55,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a PL39 2V variant.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"The patient showed a mutation in PL39 2V.","spans":[{"start":33,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in PL39 2V was noted in the genetic profile.","spans":[{"start":14,"end":21,"label":"GENE"}]}
+{"text":"The patient carried the 3240-3242 duplication mutation.","spans":[{"start":24,"end":45,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3240-3242 duplication alteration was identified in the patient.","spans":[{"start":2,"end":23,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"3240-3242 duplication was detected during genetic screening.","spans":[{"start":0,"end":21,"label":"GENE"}]}
+{"text":"The variant 3240-3242 duplication may affect mitochondrial function.","spans":[{"start":12,"end":33,"label":"GENE"}]}
+{"text":"Mutations like 3240-3242 duplication are often reported in mitochondrial diseases.","spans":[{"start":15,"end":36,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the 3240-3242 duplication gene variant.","spans":[{"start":32,"end":53,"label":"GENE"}]}
+{"text":"The 3240-3242 duplication sequence change was observed in the patient.","spans":[{"start":4,"end":25,"label":"GENE"},{"start":62,"end":69,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a 3240-3242 duplication variant.","spans":[{"start":27,"end":48,"label":"GENE"}]}
+{"text":"The patient showed a mutation in 3240-3242 duplication.","spans":[{"start":33,"end":54,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in 3240-3242 duplication was noted in the genetic profile.","spans":[{"start":14,"end":35,"label":"GENE"}]}
+{"text":"The patient carried the pR1081dup mutation.","spans":[{"start":24,"end":33,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A pR1081dup alteration was identified in the patient.","spans":[{"start":2,"end":11,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"pR1081dup was detected during genetic screening.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"The variant pR1081dup may affect mitochondrial function.","spans":[{"start":12,"end":21,"label":"GENE"}]}
+{"text":"Mutations like pR1081dup are often reported in mitochondrial diseases.","spans":[{"start":15,"end":24,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the pR1081dup gene variant.","spans":[{"start":32,"end":41,"label":"GENE"}]}
+{"text":"The pR1081dup sequence change was observed in the patient.","spans":[{"start":4,"end":13,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a pR1081dup variant.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"The patient showed a mutation in pR1081dup.","spans":[{"start":33,"end":42,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in pR1081dup was noted in the genetic profile.","spans":[{"start":14,"end":23,"label":"GENE"}]}
+{"text":"The patient carried the Polymerase gamma mutation.","spans":[{"start":24,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A Polymerase gamma alteration was identified in the patient.","spans":[{"start":2,"end":18,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Polymerase gamma was detected during genetic screening.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"The variant Polymerase gamma may affect mitochondrial function.","spans":[{"start":12,"end":28,"label":"GENE"}]}
+{"text":"Mutations like Polymerase gamma are often reported in mitochondrial diseases.","spans":[{"start":15,"end":31,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the Polymerase gamma gene variant.","spans":[{"start":32,"end":48,"label":"GENE"}]}
+{"text":"The Polymerase gamma sequence change was observed in the patient.","spans":[{"start":4,"end":20,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a Polymerase gamma variant.","spans":[{"start":27,"end":43,"label":"GENE"}]}
+{"text":"The patient showed a mutation in Polymerase gamma.","spans":[{"start":33,"end":49,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in Polymerase gamma was noted in the genetic profile.","spans":[{"start":14,"end":30,"label":"GENE"}]}
+{"text":"The patient carried the polymerase gamma protein mutation.","spans":[{"start":24,"end":48,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A polymerase gamma protein alteration was identified in the patient.","spans":[{"start":2,"end":26,"label":"GENE"},{"start":60,"end":67,"label":"PATIENT"}]}
+{"text":"polymerase gamma protein was detected during genetic screening.","spans":[{"start":0,"end":24,"label":"GENE"}]}
+{"text":"The variant polymerase gamma protein may affect mitochondrial function.","spans":[{"start":12,"end":36,"label":"GENE"}]}
+{"text":"Mutations like polymerase gamma protein are often reported in mitochondrial diseases.","spans":[{"start":15,"end":39,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the polymerase gamma protein gene variant.","spans":[{"start":32,"end":56,"label":"GENE"}]}
+{"text":"The polymerase gamma protein sequence change was observed in the patient.","spans":[{"start":4,"end":28,"label":"GENE"},{"start":65,"end":72,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a polymerase gamma protein variant.","spans":[{"start":27,"end":51,"label":"GENE"}]}
+{"text":"The patient showed a mutation in polymerase gamma protein.","spans":[{"start":33,"end":57,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in polymerase gamma protein was noted in the genetic profile.","spans":[{"start":14,"end":38,"label":"GENE"}]}
+{"text":"polymerase gamma was frequently mutated.","spans":[{"start":0,"end":17,"label":"GENE"}]}
+{"text":"We identified polymerase gamma in the patient.","spans":[{"start":14,"end":31,"label":"GENE"},{"start":39,"end":46,"label":"PATIENT"}]}
+{"text":"Mutation of polymerase gamma was seen.","spans":[{"start":12,"end":29,"label":"GENE"}]}
+{"text":"The polymerase gamma variant was pathogenic.","spans":[{"start":4,"end":21,"label":"GENE"}]}
+{"text":"polymerase gamma mutation led to disease.","spans":[{"start":0,"end":17,"label":"GENE"}]}
+{"text":"We sequenced polymerase gamma.","spans":[{"start":13,"end":30,"label":"GENE"}]}
+{"text":"polymerase gamma was observed in patient.","spans":[{"start":0,"end":17,"label":"GENE"},{"start":34,"end":41,"label":"PATIENT"}]}
+{"text":"Genetic test showed polymerase gamma mutation.","spans":[{"start":20,"end":37,"label":"GENE"}]}
+{"text":"Defect in polymerase gamma caused symptoms.","spans":[{"start":11,"end":28,"label":"GENE"}]}
+{"text":"The patient had polymerase gamma mutation.","spans":[{"start":15,"end":32,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"poLG1 was detected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":25,"end":32,"label":"PATIENT"}]}
+{"text":"Mutation of poLG1 was significant.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"The poLG1 variant was rare.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"We confirmed poLG1 mutation.","spans":[{"start":13,"end":18,"label":"GENE"}]}
+{"text":"poLG1 was frequently mutated.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"A poLG1 mutation was identified.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"The patient carried poLG1.","spans":[{"start":20,"end":25,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"poLG1 gene was found in our study.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"Genetic testing revealed poLG1 mutation.","spans":[{"start":25,"end":30,"label":"GENE"}]}
+{"text":"We observed poLG1 variant in this patient.","spans":[{"start":11,"end":16,"label":"GENE"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"The POLG1 mutation was detected.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"We found POLG1 in the patient.","spans":[{"start":9,"end":14,"label":"GENE"},{"start":22,"end":29,"label":"PATIENT"}]}
+{"text":"Patient carried the POLG1 variant.","spans":[{"start":18,"end":23,"label":"GENE"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"Mutation in POLG1 was noted.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"POLG1 was associated with disease.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"The patient had a POLG1 mutation.","spans":[{"start":18,"end":23,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Genetic testing confirmed POLG1.","spans":[{"start":25,"end":30,"label":"GENE"}]}
+{"text":"POLG1 mutation was observed in patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"We sequenced POLG1 from the patient.","spans":[{"start":13,"end":18,"label":"GENE"},{"start":28,"end":35,"label":"PATIENT"}]}
+{"text":"Mutation in POLG1 was identified.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"POLG was found in the patient's DNA.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"Mutation in POLG was pathogenic.","spans":[{"start":12,"end":16,"label":"GENE"}]}
+{"text":"We identified POLG in the sample.","spans":[{"start":13,"end":17,"label":"GENE"}]}
+{"text":"Patient carried the POLG gene.","spans":[{"start":18,"end":22,"label":"GENE"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"POLG mutation led to symptoms.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"The POLG gene was sequenced.","spans":[{"start":4,"end":8,"label":"GENE"}]}
+{"text":"Genetic testing revealed POLG.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"POLG variant was confirmed in patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"We observed the POLG mutation.","spans":[{"start":16,"end":20,"label":"GENE"}]}
+{"text":"Mutation of POLG was seen in the patient.","spans":[{"start":12,"end":16,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"The POLG1 gene mutation was identified in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"A mutation in POLG1 was discovered in a young patient.","spans":[{"start":15,"end":20,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"Patient carried a defect in the POLG1 gene.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":36,"label":"GENE"}]}
+{"text":"The child had a confirmed POLG1 mutation.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":28,"end":33,"label":"GENE"}]}
+{"text":"A pathogenic variant was found in POLG1.","spans":[{"start":34,"end":39,"label":"GENE"}]}
+{"text":"Mutations in the POLG gene have been frequently observed.","spans":[{"start":17,"end":21,"label":"GENE"}]}
+{"text":"The POLG variant appeared to be associated with the phenotype.","spans":[{"start":4,"end":8,"label":"GENE"}]}
+{"text":"POLG gene was tested in the child presenting seizures.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":30,"end":35,"label":"PATIENT"}]}
+{"text":"A mutation in POLG caused symptoms in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"The patient showed a confirmed pathogenic variant in POLG.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":55,"end":59,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was detected in a patient.","spans":[{"start":4,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Mutations affecting polymerase 'Y were associated with disease.","spans":[{"start":20,"end":35,"label":"GENE"}]}
+{"text":"polymerase 'Y defects were seen in the individual.","spans":[{"start":0,"end":15,"label":"GENE"}]}
+{"text":"A patient carried a mutation in polymerase 'Y.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":35,"end":50,"label":"GENE"}]}
+{"text":"Pathogenic polymerase 'Y variant identified in testing.","spans":[{"start":10,"end":25,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was reported in the patient.","spans":[{"start":4,"end":24,"label":"GENE"},{"start":49,"end":56,"label":"PATIENT"}]}
+{"text":"A defect in DNA polymerase 'Y was associated with symptoms.","spans":[{"start":13,"end":33,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y mutation was detected in a child.","spans":[{"start":0,"end":20,"label":"GENE"},{"start":45,"end":50,"label":"PATIENT"}]}
+{"text":"A child was found to carry a DNA polymerase 'Y mutation.","spans":[{"start":2,"end":7,"label":"PATIENT"},{"start":34,"end":54,"label":"GENE"}]}
+{"text":"We confirmed DNA polymerase 'Y involvement in this patient.","spans":[{"start":13,"end":33,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"The patient carries the p.G848S variant in the mitochondrial gene.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":36,"label":"GENE"}]}
+{"text":"Genetic analysis identified p.G848S in a symptomatic patient.","spans":[{"start":27,"end":35,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Patient was diagnosed with the pathogenic p.G848S mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":38,"end":46,"label":"GENE"}]}
+{"text":"p.G848S was found in the patient during routine screening.","spans":[{"start":0,"end":8,"label":"GENE"},{"start":26,"end":33,"label":"PATIENT"}]}
+{"text":"The presence of p.G848S in the patient confirmed the diagnosis.","spans":[{"start":16,"end":24,"label":"GENE"},{"start":28,"end":35,"label":"PATIENT"}]}
+{"text":"Patient exhibited the POLG-1 mutation associated with mitochondrial disorders.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":23,"end":30,"label":"GENE"}]}
+{"text":"The POLG-1 variant was identified in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":39,"end":46,"label":"PATIENT"}]}
+{"text":"A patient tested positive for the POLG-1 mutation.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":34,"end":41,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a pathogenic POLG-1 allele.","spans":[{"start":37,"end":44,"label":"GENE"}]}
+{"text":"The patient carried a rare variant of POLG-1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":45,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutations have been implicated in this patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":53,"end":60,"label":"PATIENT"}]}
+{"text":"The patient presented with Polymerase Gamma-related symptoms.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":44,"label":"GENE"}]}
+{"text":"Pathogenic Polymerase Gamma mutation detected in patient.","spans":[{"start":11,"end":27,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"A patient was found with a Polymerase Gamma variant.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":33,"end":49,"label":"GENE"}]}
+{"text":"Mutations in Polymerase Gamma are common among patients with symptoms.","spans":[{"start":13,"end":29,"label":"GENE"}]}
+{"text":"The patient tested positive for polymerase gamma1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":52,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation was detected in the patient.","spans":[{"start":0,"end":18,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed polymerase gamma1 mutation in this patient.","spans":[{"start":24,"end":42,"label":"GENE"},{"start":51,"end":58,"label":"PATIENT"}]}
+{"text":"A patient carries the polymerase gamma1 allele.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":25,"end":43,"label":"GENE"}]}
+{"text":"The polymerase gamma1 variant is associated with disease.","spans":[{"start":4,"end":22,"label":"GENE"}]}
+{"text":"The patient was found to carry the POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a variant in POLG1.","spans":[{"start":36,"end":41,"label":"GENE"}]}
+{"text":"The POLG1 gene mutation was observed in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient tested positive for the POLG1 variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":38,"label":"GENE"}]}
+{"text":"A POLG1 mutation was identified during clinical examination.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"POLG1-related disorder was suspected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"The patient exhibited symptoms linked to POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":44,"label":"GENE"}]}
+{"text":"A mutation in POLG1 was detected by sequencing.","spans":[{"start":15,"end":20,"label":"GENE"}]}
+{"text":"Clinical report revealed a POLG1 variant in patient.","spans":[{"start":27,"end":32,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"Sequencing identified a mutation in the POLG1 gene.","spans":[{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Patient carried a mutation in POLG.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":37,"label":"GENE"}]}
+{"text":"POLG mutation was found during diagnostic tests.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"A pathogenic variant of POLG was identified.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"The patient harbored a POLG-related mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":27,"label":"GENE"}]}
+{"text":"Sequencing confirmed the presence of POLG mutation.","spans":[{"start":36,"end":40,"label":"GENE"}]}
+{"text":"A mutation in POLG was detected in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The POLG gene has been associated with disease.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"POLG mutation was present in a symptomatic patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"Genetic report mentioned a POLG mutation.","spans":[{"start":27,"end":31,"label":"GENE"}]}
+{"text":"Patient tested positive for POLG variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":34,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was found in a patient.","spans":[{"start":4,"end":18,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Patient harbored a pathogenic polymerase 'Y variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":44,"label":"GENE"}]}
+{"text":"Sequencing revealed polymerase 'Y mutation in patient.","spans":[{"start":20,"end":34,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"polymerase 'Y was linked to the clinical phenotype.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Mutation in polymerase 'Y was confirmed by lab.","spans":[{"start":13,"end":27,"label":"GENE"}]}
+{"text":"Genetic results showed a polymerase 'Y allele.","spans":[{"start":26,"end":40,"label":"GENE"}]}
+{"text":"A mutation in polymerase 'Y was identified.","spans":[{"start":15,"end":29,"label":"GENE"}]}
+{"text":"The patient showed a polymerase 'Y variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":38,"label":"GENE"}]}
+{"text":"polymerase 'Y is associated with mitochondrial disease.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was implicated in the condition.","spans":[{"start":0,"end":19,"label":"GENE"}]}
+{"text":"Patient carried DNA polymerase 'Y mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":34,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was detected in patient.","spans":[{"start":4,"end":23,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Sequencing identified a DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was found in the patient.","spans":[{"start":0,"end":19,"label":"GENE"},{"start":35,"end":42,"label":"PATIENT"}]}
+{"text":"A rare DNA polymerase 'Y variant was reported.","spans":[{"start":8,"end":27,"label":"GENE"}]}
+{"text":"Patient tested positive for DNA polymerase 'Y.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":49,"label":"GENE"}]}
+{"text":"Mutation in DNA polymerase 'Y was confirmed.","spans":[{"start":13,"end":32,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y allele was present.","spans":[{"start":4,"end":23,"label":"GENE"}]}
+{"text":"Genetic report indicated DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"The patient was found to carry the p.G848S mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":42,"label":"GENE"}]}
+{"text":"Mutation p.G848S was identified during genetic screening.","spans":[{"start":9,"end":16,"label":"GENE"}]}
+{"text":"Patient tested positive for p.G848S variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":35,"label":"GENE"}]}
+{"text":"Sequencing revealed presence of p.G848S in patient.","spans":[{"start":32,"end":39,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"Genetic testing confirmed a p.G848S mutation.","spans":[{"start":28,"end":35,"label":"GENE"}]}
+{"text":"A p.G848S variant was discovered in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"He was diagnosed with the p.G848S mutation.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"Genomic analysis found a p.G848S mutation.","spans":[{"start":26,"end":33,"label":"GENE"}]}
+{"text":"Clinical signs correlated with p.G848S presence.","spans":[{"start":30,"end":37,"label":"GENE"}]}
+{"text":"Presence of p.G848S was linked to clinical symptoms.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"POLG-1 mutation was identified in the patient.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"The patient carried the POLG-1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":27,"end":33,"label":"GENE"}]}
+{"text":"Analysis showed POLG-1 mutation was present.","spans":[{"start":15,"end":21,"label":"GENE"}]}
+{"text":"Genetic study confirmed POLG-1 variant.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"POLG-1 variant correlated with patient symptoms.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"He tested positive for POLG-1 mutation.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"The presence of POLG-1 was verified.","spans":[{"start":16,"end":22,"label":"GENE"}]}
+{"text":"Patient harbored a pathogenic POLG-1 mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":32,"end":38,"label":"GENE"}]}
+{"text":"POLG-1 was confirmed by sequencing.","spans":[{"start":0,"end":6,"label":"GENE"}]}
+{"text":"Mutation in POLG-1 may explain the disorder.","spans":[{"start":12,"end":18,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutation was detected in the patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient carried Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":31,"label":"GENE"}]}
+{"text":"The presence of Polymerase Gamma was noted.","spans":[{"start":16,"end":32,"label":"GENE"}]}
+{"text":"Polymerase Gamma alteration was observed.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Sequencing showed Polymerase Gamma mutation.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"Genetic tests revealed Polymerase Gamma mutation.","spans":[{"start":23,"end":39,"label":"GENE"}]}
+{"text":"Patient had a Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":14,"end":30,"label":"GENE"}]}
+{"text":"Polymerase Gamma was linked to symptoms.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Mutation involving Polymerase Gamma was detected.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"The Polymerase Gamma mutation was novel.","spans":[{"start":4,"end":20,"label":"GENE"}]}
+{"text":"The patient had polymerase gamma1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":33,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was found in the sample.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Genetic sequencing confirmed polymerase gamma1.","spans":[{"start":28,"end":46,"label":"GENE"}]}
+{"text":"A variant in polymerase gamma1 was noted.","spans":[{"start":13,"end":31,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation appeared clinically relevant.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"The mutation in polymerase gamma1 was pathogenic.","spans":[{"start":17,"end":35,"label":"GENE"}]}
+{"text":"He was diagnosed with polymerase gamma1 variant.","spans":[{"start":23,"end":41,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was likely involved.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Evidence supported polymerase gamma1 mutation.","spans":[{"start":18,"end":36,"label":"GENE"}]}
+{"text":"The patient carried polymerase gamma1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":42,"label":"GENE"}]}
+{"text":"The patient was found to have p. L30 4R mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"GENE"}]}
+{"text":"p. L30 4R mutation was detected during sequencing.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"Genetic analysis confirmed p. L30 4R.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"Mutation p. L30 4R appeared clinically relevant.","spans":[{"start":9,"end":18,"label":"GENE"}]}
+{"text":"The presence of p. L30 4R was reported.","spans":[{"start":16,"end":25,"label":"GENE"}]}
+{"text":"Sequencing found the p. L30 4R variant.","spans":[{"start":21,"end":30,"label":"GENE"}]}
+{"text":"Patient tested positive for p. L30 4R.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":37,"label":"GENE"}]}
+{"text":"The p. L30 4R mutation was confirmed.","spans":[{"start":4,"end":13,"label":"GENE"}]}
+{"text":"He carried a pathogenic p. L30 4R mutation.","spans":[{"start":25,"end":34,"label":"GENE"}]}
+{"text":"Genomic testing revealed p. L30 4R.","spans":[{"start":25,"end":34,"label":"GENE"}]}
+{"text":"The patient carried the PL39 2V mutation.","spans":[{"start":24,"end":31,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A PL39 2V alteration was identified in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"PL39 2V was detected during genetic screening.","spans":[{"start":0,"end":7,"label":"GENE"}]}
+{"text":"The variant PL39 2V may affect mitochondrial function.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"Mutations like PL39 2V are often reported in mitochondrial diseases.","spans":[{"start":15,"end":22,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the PL39 2V gene variant.","spans":[{"start":32,"end":39,"label":"GENE"}]}
+{"text":"The PL39 2V sequence change was observed in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":48,"end":55,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a PL39 2V variant.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"The patient showed a mutation in PL39 2V.","spans":[{"start":33,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in PL39 2V was noted in the genetic profile.","spans":[{"start":14,"end":21,"label":"GENE"}]}
+{"text":"The patient carried the 3240-3242 duplication mutation.","spans":[{"start":24,"end":45,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3240-3242 duplication alteration was identified in the patient.","spans":[{"start":2,"end":23,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"3240-3242 duplication was detected during genetic screening.","spans":[{"start":0,"end":21,"label":"GENE"}]}
+{"text":"The variant 3240-3242 duplication may affect mitochondrial function.","spans":[{"start":12,"end":33,"label":"GENE"}]}
+{"text":"Mutations like 3240-3242 duplication are often reported in mitochondrial diseases.","spans":[{"start":15,"end":36,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the 3240-3242 duplication gene variant.","spans":[{"start":32,"end":53,"label":"GENE"}]}
+{"text":"The 3240-3242 duplication sequence change was observed in the patient.","spans":[{"start":4,"end":25,"label":"GENE"},{"start":62,"end":69,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a 3240-3242 duplication variant.","spans":[{"start":27,"end":48,"label":"GENE"}]}
+{"text":"The patient showed a mutation in 3240-3242 duplication.","spans":[{"start":33,"end":54,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in 3240-3242 duplication was noted in the genetic profile.","spans":[{"start":14,"end":35,"label":"GENE"}]}
+{"text":"The patient carried the pR1081dup mutation.","spans":[{"start":24,"end":33,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A pR1081dup alteration was identified in the patient.","spans":[{"start":2,"end":11,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"pR1081dup was detected during genetic screening.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"The variant pR1081dup may affect mitochondrial function.","spans":[{"start":12,"end":21,"label":"GENE"}]}
+{"text":"Mutations like pR1081dup are often reported in mitochondrial diseases.","spans":[{"start":15,"end":24,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the pR1081dup gene variant.","spans":[{"start":32,"end":41,"label":"GENE"}]}
+{"text":"The pR1081dup sequence change was observed in the patient.","spans":[{"start":4,"end":13,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a pR1081dup variant.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"The patient showed a mutation in pR1081dup.","spans":[{"start":33,"end":42,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in pR1081dup was noted in the genetic profile.","spans":[{"start":14,"end":23,"label":"GENE"}]}
+{"text":"The patient carried the Polymerase gamma mutation.","spans":[{"start":24,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A Polymerase gamma alteration was identified in the patient.","spans":[{"start":2,"end":18,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Polymerase gamma was detected during genetic screening.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"The variant Polymerase gamma may affect mitochondrial function.","spans":[{"start":12,"end":28,"label":"GENE"}]}
+{"text":"Mutations like Polymerase gamma are often reported in mitochondrial diseases.","spans":[{"start":15,"end":31,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the Polymerase gamma gene variant.","spans":[{"start":32,"end":48,"label":"GENE"}]}
+{"text":"The Polymerase gamma sequence change was observed in the patient.","spans":[{"start":4,"end":20,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a Polymerase gamma variant.","spans":[{"start":27,"end":43,"label":"GENE"}]}
+{"text":"The patient showed a mutation in Polymerase gamma.","spans":[{"start":33,"end":49,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in Polymerase gamma was noted in the genetic profile.","spans":[{"start":14,"end":30,"label":"GENE"}]}
+{"text":"The patient carried the polymerase gamma protein mutation.","spans":[{"start":24,"end":48,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A polymerase gamma protein alteration was identified in the patient.","spans":[{"start":2,"end":26,"label":"GENE"},{"start":60,"end":67,"label":"PATIENT"}]}
+{"text":"polymerase gamma protein was detected during genetic screening.","spans":[{"start":0,"end":24,"label":"GENE"}]}
+{"text":"The variant polymerase gamma protein may affect mitochondrial function.","spans":[{"start":12,"end":36,"label":"GENE"}]}
+{"text":"Mutations like polymerase gamma protein are often reported in mitochondrial diseases.","spans":[{"start":15,"end":39,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the polymerase gamma protein gene variant.","spans":[{"start":32,"end":56,"label":"GENE"}]}
+{"text":"The polymerase gamma protein sequence change was observed in the patient.","spans":[{"start":4,"end":28,"label":"GENE"},{"start":65,"end":72,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a polymerase gamma protein variant.","spans":[{"start":27,"end":51,"label":"GENE"}]}
+{"text":"The patient showed a mutation in polymerase gamma protein.","spans":[{"start":33,"end":57,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in polymerase gamma protein was noted in the genetic profile.","spans":[{"start":14,"end":38,"label":"GENE"}]}
+{"text":"The patient was found to carry the POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a variant in POLG1.","spans":[{"start":36,"end":41,"label":"GENE"}]}
+{"text":"The POLG1 gene mutation was observed in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient tested positive for the POLG1 variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":38,"label":"GENE"}]}
+{"text":"A POLG1 mutation was identified during clinical examination.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"POLG1-related disorder was suspected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"The patient exhibited symptoms linked to POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":44,"label":"GENE"}]}
+{"text":"A mutation in POLG1 was detected by sequencing.","spans":[{"start":15,"end":20,"label":"GENE"}]}
+{"text":"Clinical report revealed a POLG1 variant in patient.","spans":[{"start":27,"end":32,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"Sequencing identified a mutation in the POLG1 gene.","spans":[{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Patient carried a mutation in POLG.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":37,"label":"GENE"}]}
+{"text":"POLG mutation was found during diagnostic tests.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"A pathogenic variant of POLG was identified.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"The patient harbored a POLG-related mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":27,"label":"GENE"}]}
+{"text":"Sequencing confirmed the presence of POLG mutation.","spans":[{"start":36,"end":40,"label":"GENE"}]}
+{"text":"A mutation in POLG was detected in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The POLG gene has been associated with disease.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"POLG mutation was present in a symptomatic patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"Genetic report mentioned a POLG mutation.","spans":[{"start":27,"end":31,"label":"GENE"}]}
+{"text":"Patient tested positive for POLG variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":34,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was found in a patient.","spans":[{"start":4,"end":18,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Patient harbored a pathogenic polymerase 'Y variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":44,"label":"GENE"}]}
+{"text":"Sequencing revealed polymerase 'Y mutation in patient.","spans":[{"start":20,"end":34,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"polymerase 'Y was linked to the clinical phenotype.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Mutation in polymerase 'Y was confirmed by lab.","spans":[{"start":13,"end":27,"label":"GENE"}]}
+{"text":"Genetic results showed a polymerase 'Y allele.","spans":[{"start":26,"end":40,"label":"GENE"}]}
+{"text":"A mutation in polymerase 'Y was identified.","spans":[{"start":15,"end":29,"label":"GENE"}]}
+{"text":"The patient showed a polymerase 'Y variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":38,"label":"GENE"}]}
+{"text":"polymerase 'Y is associated with mitochondrial disease.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was implicated in the condition.","spans":[{"start":0,"end":19,"label":"GENE"}]}
+{"text":"Patient carried DNA polymerase 'Y mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":34,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was detected in patient.","spans":[{"start":4,"end":23,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Sequencing identified a DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was found in the patient.","spans":[{"start":0,"end":19,"label":"GENE"},{"start":35,"end":42,"label":"PATIENT"}]}
+{"text":"A rare DNA polymerase 'Y variant was reported.","spans":[{"start":8,"end":27,"label":"GENE"}]}
+{"text":"Patient tested positive for DNA polymerase 'Y.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":49,"label":"GENE"}]}
+{"text":"Mutation in DNA polymerase 'Y was confirmed.","spans":[{"start":13,"end":32,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y allele was present.","spans":[{"start":4,"end":23,"label":"GENE"}]}
+{"text":"Genetic report indicated DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"The patient carried the PL39 2V mutation.","spans":[{"start":24,"end":31,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A PL39 2V alteration was identified in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"PL39 2V was detected during genetic screening.","spans":[{"start":0,"end":7,"label":"GENE"}]}
+{"text":"The variant PL39 2V may affect mitochondrial function.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"Mutations like PL39 2V are often reported in mitochondrial diseases.","spans":[{"start":15,"end":22,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the PL39 2V gene variant.","spans":[{"start":32,"end":39,"label":"GENE"}]}
+{"text":"The PL39 2V sequence change was observed in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":48,"end":55,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a PL39 2V variant.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"The patient showed a mutation in PL39 2V.","spans":[{"start":33,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in PL39 2V was noted in the genetic profile.","spans":[{"start":14,"end":21,"label":"GENE"}]}
+{"text":"The patient carried the 3240-3242 duplication mutation.","spans":[{"start":24,"end":45,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3240-3242 duplication alteration was identified in the patient.","spans":[{"start":2,"end":23,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"3240-3242 duplication was detected during genetic screening.","spans":[{"start":0,"end":21,"label":"GENE"}]}
+{"text":"The variant 3240-3242 duplication may affect mitochondrial function.","spans":[{"start":12,"end":33,"label":"GENE"}]}
+{"text":"Mutations like 3240-3242 duplication are often reported in mitochondrial diseases.","spans":[{"start":15,"end":36,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the 3240-3242 duplication gene variant.","spans":[{"start":32,"end":53,"label":"GENE"}]}
+{"text":"The 3240-3242 duplication sequence change was observed in the patient.","spans":[{"start":4,"end":25,"label":"GENE"},{"start":62,"end":69,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a 3240-3242 duplication variant.","spans":[{"start":27,"end":48,"label":"GENE"}]}
+{"text":"The patient showed a mutation in 3240-3242 duplication.","spans":[{"start":33,"end":54,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in 3240-3242 duplication was noted in the genetic profile.","spans":[{"start":14,"end":35,"label":"GENE"}]}
+{"text":"The patient carried the pR1081dup mutation.","spans":[{"start":24,"end":33,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A pR1081dup alteration was identified in the patient.","spans":[{"start":2,"end":11,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"pR1081dup was detected during genetic screening.","spans":[{"start":0,"end":9,"label":"GENE"}]}
+{"text":"The variant pR1081dup may affect mitochondrial function.","spans":[{"start":12,"end":21,"label":"GENE"}]}
+{"text":"Mutations like pR1081dup are often reported in mitochondrial diseases.","spans":[{"start":15,"end":24,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the pR1081dup gene variant.","spans":[{"start":32,"end":41,"label":"GENE"}]}
+{"text":"The pR1081dup sequence change was observed in the patient.","spans":[{"start":4,"end":13,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a pR1081dup variant.","spans":[{"start":27,"end":36,"label":"GENE"}]}
+{"text":"The patient showed a mutation in pR1081dup.","spans":[{"start":33,"end":42,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in pR1081dup was noted in the genetic profile.","spans":[{"start":14,"end":23,"label":"GENE"}]}
+{"text":"The patient carried the Polymerase gamma mutation.","spans":[{"start":24,"end":40,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A Polymerase gamma alteration was identified in the patient.","spans":[{"start":2,"end":18,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Polymerase gamma was detected during genetic screening.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"The variant Polymerase gamma may affect mitochondrial function.","spans":[{"start":12,"end":28,"label":"GENE"}]}
+{"text":"Mutations like Polymerase gamma are often reported in mitochondrial diseases.","spans":[{"start":15,"end":31,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the Polymerase gamma gene variant.","spans":[{"start":32,"end":48,"label":"GENE"}]}
+{"text":"The Polymerase gamma sequence change was observed in the patient.","spans":[{"start":4,"end":20,"label":"GENE"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a Polymerase gamma variant.","spans":[{"start":27,"end":43,"label":"GENE"}]}
+{"text":"The patient showed a mutation in Polymerase gamma.","spans":[{"start":33,"end":49,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in Polymerase gamma was noted in the genetic profile.","spans":[{"start":14,"end":30,"label":"GENE"}]}
+{"text":"The patient carried the polymerase gamma protein mutation.","spans":[{"start":24,"end":48,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A polymerase gamma protein alteration was identified in the patient.","spans":[{"start":2,"end":26,"label":"GENE"},{"start":60,"end":67,"label":"PATIENT"}]}
+{"text":"polymerase gamma protein was detected during genetic screening.","spans":[{"start":0,"end":24,"label":"GENE"}]}
+{"text":"The variant polymerase gamma protein may affect mitochondrial function.","spans":[{"start":12,"end":36,"label":"GENE"}]}
+{"text":"Mutations like polymerase gamma protein are often reported in mitochondrial diseases.","spans":[{"start":15,"end":39,"label":"GENE"}]}
+{"text":"Clinical analysis confirmed the polymerase gamma protein gene variant.","spans":[{"start":32,"end":56,"label":"GENE"}]}
+{"text":"The polymerase gamma protein sequence change was observed in the patient.","spans":[{"start":4,"end":28,"label":"GENE"},{"start":65,"end":72,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed a polymerase gamma protein variant.","spans":[{"start":27,"end":51,"label":"GENE"}]}
+{"text":"The patient showed a mutation in polymerase gamma protein.","spans":[{"start":33,"end":57,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A mutation in polymerase gamma protein was noted in the genetic profile.","spans":[{"start":14,"end":38,"label":"GENE"}]}
+{"text":"polymerase gamma was frequently mutated.","spans":[{"start":0,"end":17,"label":"GENE"}]}
+{"text":"We identified polymerase gamma in the patient.","spans":[{"start":14,"end":31,"label":"GENE"},{"start":39,"end":46,"label":"PATIENT"}]}
+{"text":"Mutation of polymerase gamma was seen.","spans":[{"start":12,"end":29,"label":"GENE"}]}
+{"text":"The polymerase gamma variant was pathogenic.","spans":[{"start":4,"end":21,"label":"GENE"}]}
+{"text":"polymerase gamma mutation led to disease.","spans":[{"start":0,"end":17,"label":"GENE"}]}
+{"text":"We sequenced polymerase gamma.","spans":[{"start":13,"end":30,"label":"GENE"}]}
+{"text":"polymerase gamma was observed in patient.","spans":[{"start":0,"end":17,"label":"GENE"},{"start":34,"end":41,"label":"PATIENT"}]}
+{"text":"Genetic test showed polymerase gamma mutation.","spans":[{"start":20,"end":37,"label":"GENE"}]}
+{"text":"Defect in polymerase gamma caused symptoms.","spans":[{"start":11,"end":28,"label":"GENE"}]}
+{"text":"The patient had polymerase gamma mutation.","spans":[{"start":15,"end":32,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"poLG1 was detected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":25,"end":32,"label":"PATIENT"}]}
+{"text":"Mutation of poLG1 was significant.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"The poLG1 variant was rare.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"We confirmed poLG1 mutation.","spans":[{"start":13,"end":18,"label":"GENE"}]}
+{"text":"poLG1 was frequently mutated.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"A poLG1 mutation was identified.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"The patient carried poLG1.","spans":[{"start":20,"end":25,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"poLG1 gene was found in our study.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"Genetic testing revealed poLG1 mutation.","spans":[{"start":25,"end":30,"label":"GENE"}]}
+{"text":"We observed poLG1 variant in this patient.","spans":[{"start":11,"end":16,"label":"GENE"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"The POLG1 mutation was detected.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"We found POLG1 in the patient.","spans":[{"start":9,"end":14,"label":"GENE"},{"start":22,"end":29,"label":"PATIENT"}]}
+{"text":"Patient carried the POLG1 variant.","spans":[{"start":18,"end":23,"label":"GENE"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"Mutation in POLG1 was noted.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"POLG1 was associated with disease.","spans":[{"start":0,"end":5,"label":"GENE"}]}
+{"text":"The patient had a POLG1 mutation.","spans":[{"start":18,"end":23,"label":"GENE"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Genetic testing confirmed POLG1.","spans":[{"start":25,"end":30,"label":"GENE"}]}
+{"text":"POLG1 mutation was observed in patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"We sequenced POLG1 from the patient.","spans":[{"start":13,"end":18,"label":"GENE"},{"start":28,"end":35,"label":"PATIENT"}]}
+{"text":"Mutation in POLG1 was identified.","spans":[{"start":12,"end":17,"label":"GENE"}]}
+{"text":"POLG was found in the patient's DNA.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"Mutation in POLG was pathogenic.","spans":[{"start":12,"end":16,"label":"GENE"}]}
+{"text":"We identified POLG in the sample.","spans":[{"start":13,"end":17,"label":"GENE"}]}
+{"text":"Patient carried the POLG gene.","spans":[{"start":18,"end":22,"label":"GENE"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"POLG mutation led to symptoms.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"The POLG gene was sequenced.","spans":[{"start":4,"end":8,"label":"GENE"}]}
+{"text":"Genetic testing revealed POLG.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"POLG variant was confirmed in patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"We observed the POLG mutation.","spans":[{"start":16,"end":20,"label":"GENE"}]}
+{"text":"Mutation of POLG was seen in the patient.","spans":[{"start":12,"end":16,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"The POLG1 gene mutation was identified in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"A mutation in POLG1 was discovered in a young patient.","spans":[{"start":15,"end":20,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"Patient carried a defect in the POLG1 gene.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":36,"label":"GENE"}]}
+{"text":"The child had a confirmed POLG1 mutation.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":28,"end":33,"label":"GENE"}]}
+{"text":"A pathogenic variant was found in POLG1.","spans":[{"start":34,"end":39,"label":"GENE"}]}
+{"text":"Mutations in the POLG gene have been frequently observed.","spans":[{"start":17,"end":21,"label":"GENE"}]}
+{"text":"The POLG variant appeared to be associated with the phenotype.","spans":[{"start":4,"end":8,"label":"GENE"}]}
+{"text":"POLG gene was tested in the child presenting seizures.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":30,"end":35,"label":"PATIENT"}]}
+{"text":"A mutation in POLG caused symptoms in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"The patient showed a confirmed pathogenic variant in POLG.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":55,"end":59,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was detected in a patient.","spans":[{"start":4,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Mutations affecting polymerase 'Y were associated with disease.","spans":[{"start":20,"end":35,"label":"GENE"}]}
+{"text":"polymerase 'Y defects were seen in the individual.","spans":[{"start":0,"end":15,"label":"GENE"}]}
+{"text":"A patient carried a mutation in polymerase 'Y.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":35,"end":50,"label":"GENE"}]}
+{"text":"Pathogenic polymerase 'Y variant identified in testing.","spans":[{"start":10,"end":25,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was reported in the patient.","spans":[{"start":4,"end":24,"label":"GENE"},{"start":49,"end":56,"label":"PATIENT"}]}
+{"text":"A defect in DNA polymerase 'Y was associated with symptoms.","spans":[{"start":13,"end":33,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y mutation was detected in a child.","spans":[{"start":0,"end":20,"label":"GENE"},{"start":45,"end":50,"label":"PATIENT"}]}
+{"text":"A child was found to carry a DNA polymerase 'Y mutation.","spans":[{"start":2,"end":7,"label":"PATIENT"},{"start":34,"end":54,"label":"GENE"}]}
+{"text":"We confirmed DNA polymerase 'Y involvement in this patient.","spans":[{"start":13,"end":33,"label":"GENE"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"The patient carries the p.G848S variant in the mitochondrial gene.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":36,"label":"GENE"}]}
+{"text":"Genetic analysis identified p.G848S in a symptomatic patient.","spans":[{"start":27,"end":35,"label":"GENE"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text":"Patient was diagnosed with the pathogenic p.G848S mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":38,"end":46,"label":"GENE"}]}
+{"text":"p.G848S was found in the patient during routine screening.","spans":[{"start":0,"end":8,"label":"GENE"},{"start":26,"end":33,"label":"PATIENT"}]}
+{"text":"The presence of p.G848S in the patient confirmed the diagnosis.","spans":[{"start":16,"end":24,"label":"GENE"},{"start":28,"end":35,"label":"PATIENT"}]}
+{"text":"Patient exhibited the POLG-1 mutation associated with mitochondrial disorders.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":23,"end":30,"label":"GENE"}]}
+{"text":"The POLG-1 variant was identified in the patient.","spans":[{"start":4,"end":11,"label":"GENE"},{"start":39,"end":46,"label":"PATIENT"}]}
+{"text":"A patient tested positive for the POLG-1 mutation.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":34,"end":41,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a pathogenic POLG-1 allele.","spans":[{"start":37,"end":44,"label":"GENE"}]}
+{"text":"The patient carried a rare variant of POLG-1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":45,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutations have been implicated in this patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":53,"end":60,"label":"PATIENT"}]}
+{"text":"The patient presented with Polymerase Gamma-related symptoms.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":28,"end":44,"label":"GENE"}]}
+{"text":"Pathogenic Polymerase Gamma mutation detected in patient.","spans":[{"start":11,"end":27,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"A patient was found with a Polymerase Gamma variant.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":33,"end":49,"label":"GENE"}]}
+{"text":"Mutations in Polymerase Gamma are common among patients with symptoms.","spans":[{"start":13,"end":29,"label":"GENE"}]}
+{"text":"The patient tested positive for polymerase gamma1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":52,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation was detected in the patient.","spans":[{"start":0,"end":18,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Genetic testing revealed polymerase gamma1 mutation in this patient.","spans":[{"start":24,"end":42,"label":"GENE"},{"start":51,"end":58,"label":"PATIENT"}]}
+{"text":"A patient carries the polymerase gamma1 allele.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":25,"end":43,"label":"GENE"}]}
+{"text":"The polymerase gamma1 variant is associated with disease.","spans":[{"start":4,"end":22,"label":"GENE"}]}
+{"text":"The patient was found to carry the POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Genetic testing confirmed a variant in POLG1.","spans":[{"start":36,"end":41,"label":"GENE"}]}
+{"text":"The POLG1 gene mutation was observed in the patient.","spans":[{"start":4,"end":9,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient tested positive for the POLG1 variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":38,"label":"GENE"}]}
+{"text":"A POLG1 mutation was identified during clinical examination.","spans":[{"start":2,"end":7,"label":"GENE"}]}
+{"text":"POLG1-related disorder was suspected in the patient.","spans":[{"start":0,"end":5,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"The patient exhibited symptoms linked to POLG1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":44,"label":"GENE"}]}
+{"text":"A mutation in POLG1 was detected by sequencing.","spans":[{"start":15,"end":20,"label":"GENE"}]}
+{"text":"Clinical report revealed a POLG1 variant in patient.","spans":[{"start":27,"end":32,"label":"GENE"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"Sequencing identified a mutation in the POLG1 gene.","spans":[{"start":37,"end":42,"label":"GENE"}]}
+{"text":"Patient carried a mutation in POLG.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":33,"end":37,"label":"GENE"}]}
+{"text":"POLG mutation was found during diagnostic tests.","spans":[{"start":0,"end":4,"label":"GENE"}]}
+{"text":"A pathogenic variant of POLG was identified.","spans":[{"start":25,"end":29,"label":"GENE"}]}
+{"text":"The patient harbored a POLG-related mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":27,"label":"GENE"}]}
+{"text":"Sequencing confirmed the presence of POLG mutation.","spans":[{"start":36,"end":40,"label":"GENE"}]}
+{"text":"A mutation in POLG was detected in the patient.","spans":[{"start":15,"end":19,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The POLG gene has been associated with disease.","spans":[{"start":4,"end":9,"label":"GENE"}]}
+{"text":"POLG mutation was present in a symptomatic patient.","spans":[{"start":0,"end":4,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"Genetic report mentioned a POLG mutation.","spans":[{"start":27,"end":31,"label":"GENE"}]}
+{"text":"Patient tested positive for POLG variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":34,"label":"GENE"}]}
+{"text":"The polymerase 'Y mutation was found in a patient.","spans":[{"start":4,"end":18,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"Patient harbored a pathogenic polymerase 'Y variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":44,"label":"GENE"}]}
+{"text":"Sequencing revealed polymerase 'Y mutation in patient.","spans":[{"start":20,"end":34,"label":"GENE"},{"start":42,"end":49,"label":"PATIENT"}]}
+{"text":"polymerase 'Y was linked to the clinical phenotype.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Mutation in polymerase 'Y was confirmed by lab.","spans":[{"start":13,"end":27,"label":"GENE"}]}
+{"text":"Genetic results showed a polymerase 'Y allele.","spans":[{"start":26,"end":40,"label":"GENE"}]}
+{"text":"A mutation in polymerase 'Y was identified.","spans":[{"start":15,"end":29,"label":"GENE"}]}
+{"text":"The patient showed a polymerase 'Y variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":38,"label":"GENE"}]}
+{"text":"polymerase 'Y is associated with mitochondrial disease.","spans":[{"start":0,"end":14,"label":"GENE"}]}
+{"text":"Patient carried DNA polymerase 'Y mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":34,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y variant was detected in patient.","spans":[{"start":4,"end":23,"label":"GENE"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Sequencing identified a DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"DNA polymerase 'Y was found in the patient.","spans":[{"start":0,"end":19,"label":"GENE"},{"start":35,"end":42,"label":"PATIENT"}]}
+{"text":"A rare DNA polymerase 'Y variant was reported.","spans":[{"start":8,"end":27,"label":"GENE"}]}
+{"text":"Patient tested positive for DNA polymerase 'Y.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":30,"end":49,"label":"GENE"}]}
+{"text":"Mutation in DNA polymerase 'Y was confirmed.","spans":[{"start":13,"end":32,"label":"GENE"}]}
+{"text":"The DNA polymerase 'Y allele was present.","spans":[{"start":4,"end":23,"label":"GENE"}]}
+{"text":"Genetic report indicated DNA polymerase 'Y mutation.","spans":[{"start":24,"end":43,"label":"GENE"}]}
+{"text":"The patient was found to carry the p.G848S mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":42,"label":"GENE"}]}
+{"text":"Mutation p.G848S was identified during genetic screening.","spans":[{"start":9,"end":16,"label":"GENE"}]}
+{"text":"Patient tested positive for p.G848S variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":35,"label":"GENE"}]}
+{"text":"Sequencing revealed presence of p.G848S in patient.","spans":[{"start":32,"end":39,"label":"GENE"},{"start":43,"end":50,"label":"PATIENT"}]}
+{"text":"Genetic testing confirmed a p.G848S mutation.","spans":[{"start":28,"end":35,"label":"GENE"}]}
+{"text":"A p.G848S variant was discovered in the patient.","spans":[{"start":2,"end":9,"label":"GENE"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"He was diagnosed with the p.G848S mutation.","spans":[{"start":27,"end":34,"label":"GENE"}]}
+{"text":"Genomic analysis found a p.G848S mutation.","spans":[{"start":26,"end":33,"label":"GENE"}]}
+{"text":"Clinical signs correlated with p.G848S presence.","spans":[{"start":30,"end":37,"label":"GENE"}]}
+{"text":"Presence of p.G848S was linked to clinical symptoms.","spans":[{"start":12,"end":19,"label":"GENE"}]}
+{"text":"POLG-1 mutation was identified in the patient.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"The patient carried the POLG-1 variant.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":27,"end":33,"label":"GENE"}]}
+{"text":"Analysis showed POLG-1 mutation was present.","spans":[{"start":15,"end":21,"label":"GENE"}]}
+{"text":"Genetic study confirmed POLG-1 variant.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"POLG-1 variant correlated with patient symptoms.","spans":[{"start":0,"end":6,"label":"GENE"},{"start":32,"end":39,"label":"PATIENT"}]}
+{"text":"He tested positive for POLG-1 mutation.","spans":[{"start":24,"end":30,"label":"GENE"}]}
+{"text":"The presence of POLG-1 was verified.","spans":[{"start":16,"end":22,"label":"GENE"}]}
+{"text":"Patient harbored a pathogenic POLG-1 mutation.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":32,"end":38,"label":"GENE"}]}
+{"text":"POLG-1 was confirmed by sequencing.","spans":[{"start":0,"end":6,"label":"GENE"}]}
+{"text":"Mutation in POLG-1 may explain the disorder.","spans":[{"start":12,"end":18,"label":"GENE"}]}
+{"text":"Polymerase Gamma mutation was detected in the patient.","spans":[{"start":0,"end":16,"label":"GENE"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"Patient carried Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":15,"end":31,"label":"GENE"}]}
+{"text":"The presence of Polymerase Gamma was noted.","spans":[{"start":16,"end":32,"label":"GENE"}]}
+{"text":"Polymerase Gamma alteration was observed.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Sequencing showed Polymerase Gamma mutation.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"Genetic tests revealed Polymerase Gamma mutation.","spans":[{"start":23,"end":39,"label":"GENE"}]}
+{"text":"Patient had a Polymerase Gamma variant.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":14,"end":30,"label":"GENE"}]}
+{"text":"Polymerase Gamma was linked to symptoms.","spans":[{"start":0,"end":16,"label":"GENE"}]}
+{"text":"Mutation involving Polymerase Gamma was detected.","spans":[{"start":18,"end":34,"label":"GENE"}]}
+{"text":"The Polymerase Gamma mutation was novel.","spans":[{"start":4,"end":20,"label":"GENE"}]}
+{"text":"The patient had polymerase gamma1 mutation.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":33,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was found in the sample.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Genetic sequencing confirmed polymerase gamma1.","spans":[{"start":28,"end":46,"label":"GENE"}]}
+{"text":"A variant in polymerase gamma1 was noted.","spans":[{"start":13,"end":31,"label":"GENE"}]}
+{"text":"Polymerase gamma1 mutation appeared clinically relevant.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"The mutation in polymerase gamma1 was pathogenic.","spans":[{"start":17,"end":35,"label":"GENE"}]}
+{"text":"He was diagnosed with polymerase gamma1 variant.","spans":[{"start":23,"end":41,"label":"GENE"}]}
+{"text":"Polymerase gamma1 was likely involved.","spans":[{"start":0,"end":18,"label":"GENE"}]}
+{"text":"Evidence supported polymerase gamma1 mutation.","spans":[{"start":18,"end":36,"label":"GENE"}]}
+{"text":"The patient carried polymerase gamma1.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":42,"label":"GENE"}]}

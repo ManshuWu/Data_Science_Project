@@ -1,0 +1,1232 @@
+{"text":"The patient first showed symptoms at 31/2 months of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, the child began to exhibit clinical features.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":21,"end":26,"label":"PATIENT"}]}
+{"text":"Symptoms became apparent in the infant at 31/2 months.","spans":[{"start":31,"end":43,"label":"AGE_ONSET"}]}
+{"text":"The clinical presentation was first recognized at 31/2 months.","spans":[{"start":46,"end":58,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, disease onset was clearly observed.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"The initial symptoms started when the patient was 72.","spans":[{"start":38,"end":45,"label":"AGE_ONSET"},{"start":31,"end":38,"label":"PATIENT"}]}
+{"text":"Clinical abnormalities were noted at age 72.","spans":[{"start":41,"end":43,"label":"AGE_ONSET"}]}
+{"text":"The patient developed signs of disease around 72.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":46,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 72, the child presented with neurological issues.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":15,"label":"PATIENT"}]}
+{"text":"Neurological findings were first evident at 72.","spans":[{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The symptoms were initially observed at 18 months.","spans":[{"start":38,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, the girl began to decline neurologically.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"},{"start":19,"end":23,"label":"PATIENT"}]}
+{"text":"Clinical features appeared at the age of 18 months.","spans":[{"start":41,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Disease onset was recognized around 18 months of age.","spans":[{"start":36,"end":46,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, symptoms consistent with mitochondrial disease were present.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred when the child was 4.","spans":[{"start":29,"end":30,"label":"AGE_ONSET"},{"start":21,"end":26,"label":"PATIENT"}]}
+{"text":"The patient experienced symptoms at 4.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":39,"label":"AGE_ONSET"}]}
+{"text":"First clinical signs emerged at age 4.","spans":[{"start":34,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 4, neurological manifestations were identified.","spans":[{"start":3,"end":4,"label":"AGE_ONSET"}]}
+{"text":"Symptoms related to the disorder started at age 4.","spans":[{"start":44,"end":45,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were noticed at 14-month of life.","spans":[{"start":27,"end":36,"label":"AGE_ONSET"}]}
+{"text":"The patient had developmental delay since 14-month.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, the child presented with hypotonia.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":18,"end":23,"label":"PATIENT"}]}
+{"text":"Clinical issues started around 14-month of age.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, first signs of the disease became apparent.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began to emerge at 31/2 months.","spans":[{"start":30,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, early signs of the condition appeared.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"The disease presented clinically at 31/2 months.","spans":[{"start":37,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Initial symptoms manifested when the patient was 31/2 months old.","spans":[{"start":38,"end":45,"label":"PATIENT"},{"start":50,"end":62,"label":"AGE_ONSET"}]}
+{"text":"First clinical features were observed at 31/2 months.","spans":[{"start":43,"end":55,"label":"AGE_ONSET"}]}
+{"text":"The first symptoms appeared at the age of 72.","spans":[{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"Clinical onset was documented at 72 years.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 72, disease onset was clearly recognized.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Initial manifestations occurred when the patient was 72.","spans":[{"start":42,"end":49,"label":"PATIENT"},{"start":54,"end":56,"label":"AGE_ONSET"}]}
+{"text":"Early neurological signs were noted by age 72.","spans":[{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were first observed at 18 months.","spans":[{"start":34,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, clinical onset became apparent.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The disorder began to manifest around 18 months.","spans":[{"start":40,"end":50,"label":"AGE_ONSET"}]}
+{"text":"Onset of symptoms was identified at 18 months of age.","spans":[{"start":37,"end":47,"label":"AGE_ONSET"}]}
+{"text":"The patient first showed signs of illness at 18 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":47,"end":57,"label":"AGE_ONSET"}]}
+{"text":"At 4, symptoms indicating early onset were evident.","spans":[{"start":3,"end":4,"label":"AGE_ONSET"}]}
+{"text":"Early signs of disease were documented at age 4.","spans":[{"start":44,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The child began showing symptoms at 4 years old.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":36,"end":37,"label":"AGE_ONSET"}]}
+{"text":"Onset was noted at the age of 4.","spans":[{"start":27,"end":28,"label":"AGE_ONSET"}]}
+{"text":"Symptoms first manifested at 4, indicating disease onset.","spans":[{"start":29,"end":30,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, initial symptoms of the disorder appeared.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The patient started showing signs of illness at 14-month.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":50,"end":59,"label":"AGE_ONSET"}]}
+{"text":"Clinical onset was detected at 14-month of age.","spans":[{"start":31,"end":40,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were observed starting from 14-month.","spans":[{"start":36,"end":45,"label":"AGE_ONSET"}]}
+{"text":"Initial disease presentation occurred at 14-month.","spans":[{"start":38,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Symptoms initially appeared at 15.","spans":[{"start":31,"end":33,"label":"AGE_ONSET"}]}
+{"text":"The condition began to show signs at 15.","spans":[{"start":38,"end":40,"label":"AGE_ONSET"}]}
+{"text":"At 15, the patient developed early symptoms.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical features were noticed at the age of 15.","spans":[{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At the age of 15, the disorder manifested.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The symptoms began at 64.","spans":[{"start":25,"end":27,"label":"AGE_ONSET"}]}
+{"text":"Onset of disease occurred at 64.","spans":[{"start":31,"end":33,"label":"AGE_ONSET"}]}
+{"text":"At 64, the patient reported initial signs.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Symptoms appeared around the age of 64.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"The disease became evident at 64.","spans":[{"start":32,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Onset of symptoms was recorded at 27.","spans":[{"start":34,"end":36,"label":"AGE_ONSET"}]}
+{"text":"At 27, the condition first presented clinically.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"The patient began experiencing symptoms at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":44,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Early disease signs appeared at the age of 27.","spans":[{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms started to emerge when the patient was 27.","spans":[{"start":37,"end":44,"label":"PATIENT"},{"start":49,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were identified at 33.","spans":[{"start":30,"end":32,"label":"AGE_ONSET"}]}
+{"text":"At 33, the patient began showing clinical signs.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical onset was observed at 33.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"Disease features manifested around age 33.","spans":[{"start":37,"end":39,"label":"AGE_ONSET"}]}
+{"text":"Signs of illness appeared when the patient was 33.","spans":[{"start":35,"end":42,"label":"PATIENT"},{"start":47,"end":49,"label":"AGE_ONSET"}]}
+{"text":"The patient showed initial symptoms at 30.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At the age of 30, signs of disease emerged.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"}]}
+{"text":"Early disease onset occurred at 30.","spans":[{"start":32,"end":34,"label":"AGE_ONSET"}]}
+{"text":"At 30, the patient began showing early features.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Symptoms were first recognized around 30.","spans":[{"start":37,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The disorder began manifesting at 36.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 36, early neurological features developed.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Signs of the condition appeared when the patient was 36.","spans":[{"start":41,"end":48,"label":"PATIENT"},{"start":53,"end":55,"label":"AGE_ONSET"}]}
+{"text":"Initial symptoms were observed at age 36.","spans":[{"start":35,"end":37,"label":"AGE_ONSET"}]}
+{"text":"The patient presented clinical signs at 36.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were noticed when the child was ﬁve.","spans":[{"start":30,"end":35,"label":"PATIENT"},{"start":40,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At the age of ﬁve, clinical signs appeared.","spans":[{"start":15,"end":19,"label":"AGE_ONSET"}]}
+{"text":"The patient began showing symptoms at ﬁve.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Onset was documented around age ﬁve.","spans":[{"start":33,"end":37,"label":"AGE_ONSET"}]}
+{"text":"At ﬁve, the disorder became clinically apparent.","spans":[{"start":3,"end":7,"label":"AGE_ONSET"}]}
+{"text":"The patient began showing symptoms at 15.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_ONSET"}]}
+{"text":"Symptoms initially emerged in the patient at age 15.","spans":[{"start":31,"end":35,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"At just 15 years old, the child started experiencing early signs.","spans":[{"start":6,"end":8,"label":"AGE_ONSET"},{"start":30,"end":35,"label":"PATIENT"}]}
+{"text":"By the age of 15, the patient already exhibited clinical abnormalities.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"},{"start":23,"end":30,"label":"PATIENT"}]}
+{"text":"Initial signs were documented in the patient around 15 years of age.","spans":[{"start":35,"end":42,"label":"PATIENT"},{"start":50,"end":52,"label":"AGE_ONSET"}]}
+{"text":"The onset of symptoms was reported at 64.","spans":[{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At the age of 64, the patient began exhibiting unusual behavior.","spans":[{"start":16,"end":18,"label":"AGE_ONSET"},{"start":24,"end":31,"label":"PATIENT"}]}
+{"text":"Symptoms manifested when the patient was 64 years old.","spans":[{"start":28,"end":35,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The patient developed muscle weakness at 64.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_ONSET"}]}
+{"text":"Early signs appeared in a 64-year-old individual.","spans":[{"start":24,"end":26,"label":"AGE_ONSET"}]}
+{"text":"At 27, the patient started experiencing neurological issues.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":7,"end":14,"label":"PATIENT"}]}
+{"text":"The disease manifested in the patient at age 27.","spans":[{"start":30,"end":37,"label":"PATIENT"},{"start":45,"end":47,"label":"AGE_ONSET"}]}
+{"text":"The individual began showing symptoms by 27.","spans":[{"start":38,"end":40,"label":"AGE_ONSET"}]}
+{"text":"Early cognitive issues were evident by the time the patient reached 27.","spans":[{"start":51,"end":58,"label":"PATIENT"},{"start":59,"end":61,"label":"AGE_ONSET"}]}
+{"text":"Onset was recorded at 27 for the patient.","spans":[{"start":22,"end":24,"label":"AGE_ONSET"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"Initial signs were noted when the patient was 33.","spans":[{"start":31,"end":38,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The disease first appeared at 33 years of age.","spans":[{"start":30,"end":32,"label":"AGE_ONSET"}]}
+{"text":"At 33, the patient experienced the first noticeable symptoms.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":7,"end":14,"label":"PATIENT"}]}
+{"text":"By the age of 33, the patient was exhibiting weakness.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"},{"start":23,"end":30,"label":"PATIENT"}]}
+{"text":"The patient began showing clinical signs at 33.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were noticed in the patient by the age of 30.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30, muscle tone changes were observed.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"The patient began experiencing issues around 30.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The disease emerged when the patient was 30.","spans":[{"start":30,"end":37,"label":"PATIENT"},{"start":42,"end":44,"label":"AGE_ONSET"}]}
+{"text":"By age 30, symptoms had become more frequent.","spans":[{"start":8,"end":10,"label":"AGE_ONSET"}]}
+{"text":"At the age of 36, the patient began to show symptoms.","spans":[{"start":16,"end":18,"label":"AGE_ONSET"},{"start":24,"end":31,"label":"PATIENT"}]}
+{"text":"The patient started to display abnormalities at 36.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_ONSET"}]}
+{"text":"Early manifestations were recorded at 36.","spans":[{"start":36,"end":38,"label":"AGE_ONSET"}]}
+{"text":"At 36, the patient presented with initial clinical symptoms.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":7,"end":14,"label":"PATIENT"}]}
+{"text":"The disease first appeared around age 36.","spans":[{"start":35,"end":37,"label":"AGE_ONSET"}]}
+{"text":"Signs of illness emerged when the patient was five.","spans":[{"start":33,"end":40,"label":"PATIENT"},{"start":45,"end":49,"label":"AGE_ONSET"}]}
+{"text":"At the age of ﬁve, the patient experienced seizures.","spans":[{"start":15,"end":19,"label":"AGE_ONSET"},{"start":25,"end":32,"label":"PATIENT"}]}
+{"text":"The onset of symptoms occurred at ﬁve.","spans":[{"start":35,"end":39,"label":"AGE_ONSET"}]}
+{"text":"Clinical presentation began in the patient at five.","spans":[{"start":33,"end":40,"label":"PATIENT"},{"start":44,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At five years old, the child began to lose coordination.","spans":[{"start":3,"end":7,"label":"AGE_ONSET"},{"start":23,"end":28,"label":"PATIENT"}]}
+{"text":"The patient began experiencing symptoms at 22.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms emerged in the patient around age 22.","spans":[{"start":24,"end":31,"label":"PATIENT"},{"start":44,"end":46,"label":"AGE_ONSET"}]}
+{"text":"By the age of 22, the patient had developed gait disturbances.","spans":[{"start":12,"end":14,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"At 22 years old, she began experiencing episodes of fainting.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Neurological symptoms became apparent when the child was 22.","spans":[{"start":43,"end":48,"label":"PATIENT"},{"start":52,"end":54,"label":"AGE_ONSET"}]}
+{"text":"Clinical signs were first reported at the age of 22.","spans":[{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"He showed progressive weakness that began when he was 22.","spans":[{"start":49,"end":51,"label":"AGE_ONSET"}]}
+{"text":"At 22, the man experienced sudden loss of coordination.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Muscle pain and fatigue presented at 22 years.","spans":[{"start":34,"end":36,"label":"AGE_ONSET"}]}
+{"text":"Onset of epilepsy occurred in the patient at 22.","spans":[{"start":36,"end":43,"label":"PATIENT"},{"start":47,"end":49,"label":"AGE_ONSET"}]}
+{"text":"She began losing motor control at 18-month.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Motor symptoms started in the patient around 18-month.","spans":[{"start":30,"end":37,"label":"PATIENT"},{"start":45,"end":53,"label":"AGE_ONSET"}]}
+{"text":"By 18-month of age, he showed clear signs of hypotonia.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Developmental regression began when the boy was 18-month.","spans":[{"start":36,"end":39,"label":"PATIENT"},{"start":44,"end":52,"label":"AGE_ONSET"}]}
+{"text":"Signs of dysfunction appeared in the child by 18-month.","spans":[{"start":36,"end":41,"label":"PATIENT"},{"start":45,"end":53,"label":"AGE_ONSET"}]}
+{"text":"At 18-month, seizures and ataxia became evident.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Neurological findings were noted at 18-month of age.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The infant began to lose coordination around 18-month.","spans":[{"start":40,"end":48,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were first detected at 18-month in the girl.","spans":[{"start":31,"end":39,"label":"AGE_ONSET"},{"start":47,"end":51,"label":"PATIENT"}]}
+{"text":"Early developmental issues arose by 18-month.","spans":[{"start":33,"end":41,"label":"AGE_ONSET"}]}
+{"text":"The child experienced convulsions starting at 2 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":44,"end":52,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the boy displayed muscle weakness.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"},{"start":15,"end":18,"label":"PATIENT"}]}
+{"text":"By 2 months of age, early signs of epilepsy were observed.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Muscle tone abnormalities were noticed at 2 months.","spans":[{"start":41,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Onset of ataxia occurred when the patient was 2 months old.","spans":[{"start":36,"end":43,"label":"PATIENT"},{"start":48,"end":56,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the infant began to show signs of hypotonia.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The patient’s first symptoms emerged at 2 months.","spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":40,"end":48,"label":"AGE_ONSET"}]}
+{"text":"He had difficulties feeding since 2 months old.","spans":[{"start":33,"end":41,"label":"AGE_ONSET"}]}
+{"text":"Seizure activity began at just 2 months.","spans":[{"start":30,"end":38,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, severe vomiting and muscle tone changes occurred.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The patient presented with a 5-year history of myoclonus.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":31,"end":48,"label":"AGE_ONSET"}]}
+{"text":"A 5-year history of seizures was noted in the male patient.","spans":[{"start":2,"end":19,"label":"AGE_ONSET"},{"start":43,"end":57,"label":"PATIENT"}]}
+{"text":"Symptoms started with a 5-year history of limb tremors.","spans":[{"start":25,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The woman reported a 5-year history of neurologic decline.","spans":[{"start":21,"end":38,"label":"AGE_ONSET"}]}
+{"text":"He was experiencing a 5-year history of episodic headaches.","spans":[{"start":24,"end":41,"label":"AGE_ONSET"}]}
+{"text":"A 5-year history was documented in the patient.","spans":[{"start":2,"end":19,"label":"AGE_ONSET"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"She had developed a 5-year history of motor regression.","spans":[{"start":21,"end":38,"label":"AGE_ONSET"}]}
+{"text":"Neurological issues followed a 5-year history of deterioration.","spans":[{"start":28,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The child exhibited a 5-year history of behavioral changes.","spans":[{"start":24,"end":41,"label":"AGE_ONSET"},{"start":4,"end":9,"label":"PATIENT"}]}
+{"text":"Initial episodes coincided with a 5-year history.","spans":[{"start":32,"end":49,"label":"AGE_ONSET"}]}
+{"text":"He showed signs of epilepsy after a duration of 5 months.","spans":[{"start":41,"end":52,"label":"AGE_ONSET"}]}
+{"text":"The girl had a documented history of 5 months of tremors.","spans":[{"start":35,"end":44,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"Clinical deterioration occurred after 5 months of symptoms.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"There was a report of 5 months of seizure onset.","spans":[{"start":21,"end":30,"label":"AGE_ONSET"}]}
+{"text":"Progressive loss of motor skills began after 5 months.","spans":[{"start":43,"end":52,"label":"AGE_ONSET"}]}
+{"text":"At 5 months of progression, the boy developed dystonia.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":31,"end":34,"label":"PATIENT"}]}
+{"text":"The patient had experienced 5 months of abnormal findings.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"5 months after symptom onset, the woman showed head tremors.","spans":[{"start":0,"end":9,"label":"AGE_ONSET"}]}
+{"text":"He reported a course of 5 months before seizure activity.","spans":[{"start":25,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Initial symptoms were reported after about 5 months.","spans":[{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, the patient showed loss of developmental milestones.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"},{"start":15,"end":22,"label":"PATIENT"}]}
+{"text":"By 30 months, she exhibited frequent myoclonic jerks.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The child’s symptoms began at 30 months.","spans":[{"start":30,"end":40,"label":"AGE_ONSET"},{"start":4,"end":10,"label":"PATIENT"}]}
+{"text":"He developed hypotonia around 30 months of age.","spans":[{"start":29,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, abnormal EEG patterns were recorded.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The girl’s balance issues started at 30 months.","spans":[{"start":34,"end":44,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"30 months marked the emergence of seizures in the patient.","spans":[{"start":0,"end":10,"label":"AGE_ONSET"},{"start":47,"end":54,"label":"PATIENT"}]}
+{"text":"Initial signs of trouble were evident at 30 months.","spans":[{"start":40,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, dystonia became more pronounced.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Delayed milestones were observed beginning at 30 months.","spans":[{"start":42,"end":52,"label":"AGE_ONSET"}]}
+{"text": "The patient began to show symptoms at age 2.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 38, "end": 39, "label": "AGE_ONSET"}]}
+{"text": "Symptoms were first observed in the child at 2 years.", "spans": [{"start": 37, "end": 42, "label": "PATIENT"}, {"start": 46, "end": 47, "label": "AGE_ONSET"}]}
+{"text": "By 2, signs of motor delay became noticeable in the boy.", "spans": [{"start": 3, "end": 4, "label": "AGE_ONSET"}, {"start": 54, "end": 57, "label": "PATIENT"}]}
+{"text": "The boy started walking abnormally at 2.", "spans": [{"start": 4, "end": 7, "label": "PATIENT"}, {"start": 37, "end": 38, "label": "AGE_ONSET"}]}
+{"text": "At the age of 2, the patient exhibited tremors.", "spans": [{"start": 15, "end": 16, "label": "AGE_ONSET"}, {"start": 22, "end": 29, "label": "PATIENT"}]}
+{"text": "Initial clinical signs emerged when the child was 2.", "spans": [{"start": 37, "end": 42, "label": "PATIENT"}, {"start": 47, "end": 48, "label": "AGE_ONSET"}]}
+{"text": "At 2, tremors and rigidity were noted in the girl.", "spans": [{"start": 3, "end": 4, "label": "AGE_ONSET"}, {"start": 50, "end": 54, "label": "PATIENT"}]}
+{"text": "The patient showed early signs of disease at age 2.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 47, "end": 48, "label": "AGE_ONSET"}]}
+{"text": "Clinical evaluation at age 2 revealed abnormal reflexes.", "spans": [{"start": 25, "end": 26, "label": "AGE_ONSET"}]}
+{"text": "Muscle weakness was documented in a 2-year-old patient.", "spans": [{"start": 34, "end": 45, "label": "AGE_ONSET"}, {"start": 46, "end": 53, "label": "PATIENT"}]}
+{"text": "The patient reported symptoms present for 10 years.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 30, "end": 49, "label": "AGE_ONSET"}]}
+{"text": "Clinical signs had been present for 10 years before diagnosis.", "spans": [{"start": 24, "end": 43, "label": "AGE_ONSET"}]}
+{"text": "Neurological deficits were present for 10 years in the patient.", "spans": [{"start": 30, "end": 49, "label": "AGE_ONSET"}, {"start": 57, "end": 64, "label": "PATIENT"}]}
+{"text": "Symptoms present for 10 years suggested long-term disease.", "spans": [{"start": 9, "end": 28, "label": "AGE_ONSET"}]}
+{"text": "Patient had complaints that had been present for 10 years.", "spans": [{"start": 0, "end": 7, "label": "PATIENT"}, {"start": 39, "end": 58, "label": "AGE_ONSET"}]}
+{"text": "At presentation, symptoms were present for 10 years.", "spans": [{"start": 27, "end": 46, "label": "AGE_ONSET"}]}
+{"text": "The boy’s condition had been present for 10 years.", "spans": [{"start": 4, "end": 8, "label": "PATIENT"}, {"start": 33, "end": 52, "label": "AGE_ONSET"}]}
+{"text": "There was a 10-year history of symptoms present.", "spans": [{"start": 12, "end": 27, "label": "AGE_ONSET"}]}
+{"text": "For 10 years, the child had motor impairments.", "spans": [{"start": 0, "end": 10, "label": "AGE_ONSET"}, {"start": 16, "end": 21, "label": "PATIENT"}]}
+{"text": "A 10-year disease history was reported by the girl.", "spans": [{"start": 2, "end": 22, "label": "AGE_ONSET"}, {"start": 45, "end": 49, "label": "PATIENT"}]}
+{"text":"The 80-year-old-man presented with a 7-year history of cognitive decline.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":38,"end":53,"label":"AGE_ONSET"}]}
+{"text":"An 80-year-old-man was reported to have a 7-year history of symptoms.","spans":[{"start":3,"end":22,"label":"PATIENT"},{"start":39,"end":54,"label":"AGE_ONSET"}]}
+{"text":"The man aged 80 presented with a 7-year history of disease progression.","spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":37,"end":52,"label":"AGE_ONSET"}]}
+{"text":"A patient, 80 years old, had a 7-year history of behavioral issues.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":28,"end":43,"label":"AGE_ONSET"}]}
+{"text":"With a 7-year history, the 80-year-old-man presented with visual symptoms.","spans":[{"start":5,"end":23,"label":"AGE_ONSET"},{"start":30,"end":49,"label":"PATIENT"}]}
+{"text":"The 80-year-old-man experienced a 7-year history before diagnosis.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":36,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were reported in the 80-year-old-man after a 7-year history.","spans":[{"start":30,"end":49,"label":"PATIENT"},{"start":56,"end":71,"label":"AGE_ONSET"}]}
+{"text":"The 80-year-old-man had a 7-year history of movement difficulties.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":32,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Following a 7-year history, the 80-year-old-man showed motor deficits.","spans":[{"start":9,"end":24,"label":"AGE_ONSET"},{"start":31,"end":50,"label":"PATIENT"}]}
+{"text":"A 7-year history preceded symptoms in the 80-year-old-man.","spans":[{"start":2,"end":17,"label":"AGE_ONSET"},{"start":43,"end":62,"label":"PATIENT"}]}
+{"text":"The child had infantile-onset dystonia.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":14,"end":30,"label":"AGE_ONSET"}]}
+{"text":"Infantile-onset seizures were observed in the boy.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"},{"start":40,"end":43,"label":"PATIENT"}]}
+{"text":"A girl was reported with infantile-onset weakness.","spans":[{"start":2,"end":6,"label":"PATIENT"},{"start":26,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The infantile-onset motor symptoms progressed rapidly.","spans":[{"start":4,"end":20,"label":"AGE_ONSET"}]}
+{"text":"Muscle tone was poor due to infantile-onset hypotonia.","spans":[{"start":26,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Infantile-onset features included seizures and developmental delay.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The diagnosis was based on infantile-onset clinical signs.","spans":[{"start":27,"end":43,"label":"AGE_ONSET"}]}
+{"text":"Patient developed symptoms consistent with infantile-onset syndrome.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":39,"end":55,"label":"AGE_ONSET"}]}
+{"text":"There was evidence of infantile-onset encephalopathy.","spans":[{"start":21,"end":37,"label":"AGE_ONSET"}]}
+{"text":"Signs of infantile-onset ataxia were identified in the patient.","spans":[{"start":9,"end":25,"label":"AGE_ONSET"},{"start":53,"end":60,"label":"PATIENT"}]}
+{"text":"The child showed early signs at 6 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":31,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 6 months, the girl began experiencing symptoms.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"},{"start":17,"end":21,"label":"PATIENT"}]}
+{"text":"Symptoms first appeared around 6 months in the boy.","spans":[{"start":30,"end":38,"label":"AGE_ONSET"},{"start":46,"end":49,"label":"PATIENT"}]}
+{"text":"Onset occurred at 6 months in a patient with hypotonia.","spans":[{"start":17,"end":25,"label":"AGE_ONSET"},{"start":29,"end":36,"label":"PATIENT"}]}
+{"text":"The patient experienced signs starting at 6 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":37,"end":45,"label":"AGE_ONSET"}]}
+{"text":"At 6 months, motor symptoms were noticed in the child.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"},{"start":47,"end":52,"label":"PATIENT"}]}
+{"text":"The girl developed abnormal movements beginning at 6 months.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":45,"end":53,"label":"AGE_ONSET"}]}
+{"text":"Clinical decline started at 6 months of age.","spans":[{"start":25,"end":33,"label":"AGE_ONSET"}]}
+{"text":"She began to regress noticeably at 6 months.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms became evident at 6 months.","spans":[{"start":26,"end":34,"label":"AGE_ONSET"}]}
+{"text":"The patient started showing symptoms at 16 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Symptoms first appeared in a child at 16 months of age.","spans":[{"start":29,"end":34,"label":"PATIENT"},{"start":38,"end":49,"label":"AGE_ONSET"}]}
+{"text":"At just 16 months, the boy began to experience developmental delays.","spans":[{"start":8,"end":19,"label":"AGE_ONSET"},{"start":25,"end":28,"label":"PATIENT"}]}
+{"text":"By the age of 16 months, a girl presented with early motor symptoms.","spans":[{"start":15,"end":26,"label":"AGE_ONSET"},{"start":29,"end":33,"label":"PATIENT"}]}
+{"text":"A 16-month-old patient was referred due to seizure episodes.","spans":[{"start":2,"end":14,"label":"AGE_ONSET"},{"start":15,"end":22,"label":"PATIENT"}]}
+{"text":"The 28year-old man exhibited the first signs of neurological disorder.","spans":[{"start":4,"end":7,"label":"AGE_ONSET"},{"start":12,"end":15,"label":"PATIENT"}]}
+{"text":"A man, aged 28year, reported symptoms associated with muscle weakness.","spans":[{"start":13,"end":20,"label":"AGE_ONSET"},{"start":2,"end":5,"label":"PATIENT"}]}
+{"text":"At 28year of age, the patient began to show tremor and imbalance.","spans":[{"start":3,"end":10,"label":"AGE_ONSET"},{"start":22,"end":29,"label":"PATIENT"}]}
+{"text":"The patient experienced onset of symptoms around 28year.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":44,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Early signs of disease began at 28year in this adult male.","spans":[{"start":31,"end":38,"label":"AGE_ONSET"},{"start":46,"end":56,"label":"PATIENT"}]}
+{"text":"Symptoms appeared when the patient was 28.","spans":[{"start":29,"end":36,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_ONSET"}]}
+{"text":"A 28-year-old woman showed signs of cerebellar dysfunction.","spans":[{"start":2,"end":4,"label":"AGE_ONSET"},{"start":15,"end":20,"label":"PATIENT"}]}
+{"text":"The patient developed hearing loss at the age of 28.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"At age 28, the patient experienced gait abnormalities.","spans":[{"start":8,"end":10,"label":"AGE_ONSET"},{"start":16,"end":23,"label":"PATIENT"}]}
+{"text":"Neurological symptoms were first noted in the 28-year-old individual.","spans":[{"start":41,"end":43,"label":"AGE_ONSET"},{"start":52,"end":61,"label":"PATIENT"}]}
+{"text":"When he was 19, initial signs of ataxia appeared.","spans":[{"start":12,"end":14,"label":"AGE_ONSET"},{"start":6,"end":8,"label":"PATIENT"}]}
+{"text":"The boy began having seizures at 19.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"A 19-year-old male presented with muscle weakness and fatigue.","spans":[{"start":2,"end":4,"label":"AGE_ONSET"},{"start":15,"end":19,"label":"PATIENT"}]}
+{"text":"At 19, the patient exhibited signs of mitochondrial dysfunction.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":11,"end":18,"label":"PATIENT"}]}
+{"text":"Symptoms began to manifest when the girl turned 19.","spans":[{"start":37,"end":39,"label":"AGE_ONSET"},{"start":27,"end":31,"label":"PATIENT"}]}
+{"text":"A 17-year-old girl showed early symptoms of cognitive decline.","spans":[{"start":2,"end":4,"label":"AGE_ONSET"},{"start":15,"end":19,"label":"PATIENT"}]}
+{"text":"At the age of 17, the patient had episodes of confusion.","spans":[{"start":16,"end":18,"label":"AGE_ONSET"},{"start":24,"end":31,"label":"PATIENT"}]}
+{"text":"Initial signs appeared when he was 17.","spans":[{"start":30,"end":32,"label":"AGE_ONSET"},{"start":24,"end":26,"label":"PATIENT"}]}
+{"text":"She began experiencing tremor at 17.","spans":[{"start":30,"end":32,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"When the boy turned 17, his balance deteriorated rapidly.","spans":[{"start":20,"end":22,"label":"AGE_ONSET"},{"start":9,"end":12,"label":"PATIENT"}]}
+{"text":"The patient developed symptoms at 16 months of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":45,"label":"AGE_ONSET"}]}
+{"text":"A girl first showed signs of disease around 16 months.","spans":[{"start":2,"end":6,"label":"PATIENT"},{"start":44,"end":55,"label":"AGE_ONSET"}]}
+{"text":"At 16 months, the patient experienced frequent episodes of vomiting.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"Symptoms of muscle weakness began at 16 months in the child.","spans":[{"start":35,"end":46,"label":"AGE_ONSET"},{"start":54,"end":59,"label":"PATIENT"}]}
+{"text":"He began having seizures at 16 months.","spans":[{"start":0,"end":2,"label":"PATIENT"},{"start":28,"end":39,"label":"AGE_ONSET"}]}
+{"text":"A 28year-old man started showing signs of cerebellar ataxia.","spans":[{"start":2,"end":9,"label":"AGE_ONSET"},{"start":10,"end":13,"label":"PATIENT"}]}
+{"text":"Symptoms first appeared at 28year in the patient.","spans":[{"start":29,"end":36,"label":"AGE_ONSET"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"The patient reported difficulties walking at 28year of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 28year, the boy was referred for further neurological testing.","spans":[{"start":3,"end":10,"label":"AGE_ONSET"},{"start":16,"end":19,"label":"PATIENT"}]}
+{"text":"Clinical manifestations began at 28year in this individual.","spans":[{"start":32,"end":39,"label":"AGE_ONSET"},{"start":47,"end":57,"label":"PATIENT"}]}
+{"text":"At age 28, the patient experienced early motor difficulties.","spans":[{"start":8,"end":10,"label":"AGE_ONSET"},{"start":16,"end":23,"label":"PATIENT"}]}
+{"text":"The patient had onset of seizures at 28.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_ONSET"}]}
+{"text":"A woman aged 28 began exhibiting signs of cognitive decline.","spans":[{"start":10,"end":12,"label":"AGE_ONSET"},{"start":2,"end":7,"label":"PATIENT"}]}
+{"text":"Seizure activity was first reported when he was 28.","spans":[{"start":44,"end":46,"label":"AGE_ONSET"},{"start":38,"end":40,"label":"PATIENT"}]}
+{"text":"He showed signs of disease at 28.","spans":[{"start":0,"end":2,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began when the patient was 19.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At 19, the child presented with developmental delay.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":15,"label":"PATIENT"}]}
+{"text":"The 19-year-old girl showed signs of early myopathy.","spans":[{"start":4,"end":6,"label":"AGE_ONSET"},{"start":17,"end":21,"label":"PATIENT"}]}
+{"text":"When the boy turned 19, symptoms of epilepsy emerged.","spans":[{"start":20,"end":22,"label":"AGE_ONSET"},{"start":9,"end":12,"label":"PATIENT"}]}
+{"text":"She began experiencing ataxia at 19.","spans":[{"start":0,"end":3,"label":"PATIENT"},{"start":32,"end":34,"label":"AGE_ONSET"}]}
+{"text":"The patient exhibited symptoms starting at 17.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_ONSET"}]}
+{"text":"At age 17, a boy was noted to have tremors.","spans":[{"start":8,"end":10,"label":"AGE_ONSET"},{"start":13,"end":18,"label":"PATIENT"}]}
+{"text":"A 17-year-old male presented with early neurological deficits.","spans":[{"start":2,"end":4,"label":"AGE_ONSET"},{"start":15,"end":19,"label":"PATIENT"}]}
+{"text":"She had onset of disease at 17.","spans":[{"start":0,"end":3,"label":"PATIENT"},{"start":28,"end":30,"label":"AGE_ONSET"}]}
+{"text":"The girl developed seizures around 17.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_ONSET"}]}
+{"text":"The patient first experienced symptoms at age 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_ONSET"}]}
+{"text":"At 32, the patient began to show early neurological signs.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Symptoms were noted in the patient when she was 32.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"By the age of 32, the patient had developed gait issues.","spans":[{"start":14,"end":16,"label":"AGE_ONSET"},{"start":22,"end":29,"label":"PATIENT"}]}
+{"text":"The disease began affecting the patient at the age of 32.","spans":[{"start":29,"end":36,"label":"PATIENT"},{"start":51,"end":53,"label":"AGE_ONSET"}]}
+{"text":"Symptoms emerged during primary school in the patient.","spans":[{"start":23,"end":37,"label":"AGE_ONSET"},{"start":41,"end":48,"label":"PATIENT"}]}
+{"text":"The patient began to exhibit motor issues in primary school.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":46,"end":60,"label":"AGE_ONSET"}]}
+{"text":"Onset of behavioral problems was reported in primary school years.","spans":[{"start":39,"end":53,"label":"AGE_ONSET"}]}
+{"text":"Primary school marked the beginning of symptoms in the child.","spans":[{"start":0,"end":14,"label":"AGE_ONSET"},{"start":55,"end":60,"label":"PATIENT"}]}
+{"text":"The condition started manifesting in the patient during primary school.","spans":[{"start":33,"end":40,"label":"PATIENT"},{"start":49,"end":63,"label":"AGE_ONSET"}]}
+{"text":"The patient presented with a 3-year history of seizures.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":31,"end":45,"label":"AGE_ONSET"}]}
+{"text":"A 3-year history of symptoms was documented for the patient.","spans":[{"start":2,"end":16,"label":"AGE_ONSET"},{"start":50,"end":57,"label":"PATIENT"}]}
+{"text":"There was a 3-year history of progressive motor decline.","spans":[{"start":11,"end":25,"label":"AGE_ONSET"}]}
+{"text":"The patient had a 3-year history of tremor before diagnosis.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":16,"end":30,"label":"AGE_ONSET"}]}
+{"text":"A 3-year history of symptoms was evident in the patient records.","spans":[{"start":2,"end":16,"label":"AGE_ONSET"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"The patient developed symptoms 9 years prior to admission.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":29,"end":43,"label":"AGE_ONSET"}]}
+{"text":"There was a history of seizures beginning 9 years prior.","spans":[{"start":39,"end":53,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began 9 years prior in the patient.","spans":[{"start":16,"end":30,"label":"AGE_ONSET"},{"start":34,"end":41,"label":"PATIENT"}]}
+{"text":"The onset occurred 9 years prior to her hospital visit.","spans":[{"start":19,"end":33,"label":"AGE_ONSET"}]}
+{"text":"She had a history of symptoms 9 years prior.","spans":[{"start":32,"end":46,"label":"AGE_ONSET"}]}
+{"text":"The patient presented at 31/2 month with hypotonia.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":25,"end":37,"label":"AGE_ONSET"}]}
+{"text":"Symptoms appeared at 31/2 month in the infant.","spans":[{"start":21,"end":33,"label":"AGE_ONSET"},{"start":41,"end":47,"label":"PATIENT"}]}
+{"text":"At 31/2 month, the patient showed signs of weakness.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":21,"end":28,"label":"PATIENT"}]}
+{"text":"31/2 month marked the onset of neurological symptoms in the child.","spans":[{"start":0,"end":12,"label":"AGE_ONSET"},{"start":55,"end":60,"label":"PATIENT"}]}
+{"text":"The patient began to experience symptoms at 31/2 month.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":46,"end":58,"label":"AGE_ONSET"}]}
+{"text":"The patient showed signs of motor delay at age 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"By 32, the child had developed signs of coordination issues.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":9,"end":14,"label":"PATIENT"}]}
+{"text":"At age 32, symptoms of neuropathy began in the patient.","spans":[{"start":8,"end":10,"label":"AGE_ONSET"},{"start":45,"end":52,"label":"PATIENT"}]}
+{"text":"Age 32 marked the beginning of neurological symptoms in the patient.","spans":[{"start":0,"end":2,"label":"AGE_ONSET"},{"start":57,"end":64,"label":"PATIENT"}]}
+{"text":"The patient began experiencing cognitive issues around the age of 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":54,"end":56,"label":"AGE_ONSET"}]}
+{"text":"Symptoms first became evident during primary school years.","spans":[{"start":37,"end":51,"label":"AGE_ONSET"}]}
+{"text":"The child had a medical history beginning in primary school.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":42,"end":56,"label":"AGE_ONSET"}]}
+{"text":"Neurological signs were observed as early as primary school.","spans":[{"start":40,"end":54,"label":"AGE_ONSET"}]}
+{"text":"The patient began showing symptoms during primary school.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":53,"label":"AGE_ONSET"}]}
+{"text":"Primary school marked the onset of the patient's behavioral symptoms.","spans":[{"start":0,"end":14,"label":"AGE_ONSET"},{"start":39,"end":47,"label":"PATIENT"}]}
+{"text":"A 3-year history of symptoms was reported for the patient.","spans":[{"start":2,"end":16,"label":"AGE_ONSET"},{"start":48,"end":55,"label":"PATIENT"}]}
+{"text":"The patient had a 3-year history of muscle weakness.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":16,"end":30,"label":"AGE_ONSET"}]}
+{"text":"She presented with a 3-year history of coordination difficulties.","spans":[{"start":23,"end":37,"label":"AGE_ONSET"}]}
+{"text":"There was a 3-year history of symptoms noted by the clinician.","spans":[{"start":11,"end":25,"label":"AGE_ONSET"}]}
+{"text":"The patient's 3-year history included tremor and ataxia.","spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":14,"end":28,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began 9 years prior to the patient’s hospital visit.","spans":[{"start":0,"end":14,"label":"AGE_ONSET"},{"start":22,"end":30,"label":"PATIENT"}]}
+{"text":"There was a history of illness starting 9 years prior.","spans":[{"start":37,"end":51,"label":"AGE_ONSET"}]}
+{"text":"At presentation, the patient reported symptoms starting 9 years prior.","spans":[{"start":19,"end":26,"label":"PATIENT"},{"start":46,"end":60,"label":"AGE_ONSET"}]}
+{"text":"9 years prior, the first signs of epilepsy were observed.","spans":[{"start":0,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The child had experienced visual problems 9 years prior to diagnosis.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":41,"end":55,"label":"AGE_ONSET"}]}
+{"text":"The patient started showing symptoms around 31/2 month of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Symptoms first appeared at 31/2 month in the child.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"},{"start":47,"end":52,"label":"PATIENT"}]}
+{"text":"31/2 month was the approximate time of onset for this patient.","spans":[{"start":0,"end":12,"label":"AGE_ONSET"},{"start":56,"end":63,"label":"PATIENT"}]}
+{"text":"At 31/2 month, signs of delay were noted in the infant.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":50,"end":56,"label":"PATIENT"}]}
+{"text":"The child began showing weakness symptoms by 31/2 month.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":46,"end":58,"label":"AGE_ONSET"}]}
+{"text": "The patient had an eight year history of unsteady gait.", "spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":20,"end":38,"label":"AGE_ONSET"}]}
+{"text": "An eight year history preceded the boy's seizure onset.", "spans":[{"start":3,"end":21,"label":"AGE_ONSET"},{"start":37,"end":40,"label":"PATIENT"}]}
+{"text": "There was an eight year history in the female patient.", "spans":[{"start":13,"end":31,"label":"AGE_ONSET"},{"start":39,"end":53,"label":"PATIENT"}]}
+{"text": "A child presented with an eight year history of limb stiffness.", "spans":[{"start":2,"end":7,"label":"PATIENT"},{"start":28,"end":46,"label":"AGE_ONSET"}]}
+{"text": "He had developed symptoms after an eight year history.", "spans":[{"start":3,"end":5,"label":"PATIENT"},{"start":36,"end":54,"label":"AGE_ONSET"}]}
+{"text": "Symptoms appeared in the patient with an eight year history of fatigue.", "spans":[{"start":24,"end":31,"label":"PATIENT"},{"start":39,"end":57,"label":"AGE_ONSET"}]}
+{"text": "The patient's eight year history indicated progressive decline.", "spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":14,"end":32,"label":"AGE_ONSET"}]}
+{"text": "An eight year history of motor issues was reported in the child.", "spans":[{"start":3,"end":21,"label":"AGE_ONSET"},{"start":55,"end":60,"label":"PATIENT"}]}
+{"text": "The boy showed symptoms related to an eight year history of dysfunction.", "spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":37,"end":55,"label":"AGE_ONSET"}]}
+{"text": "An eight year history was documented for the female patient.", "spans":[{"start":3,"end":21,"label":"AGE_ONSET"},{"start":40,"end":54,"label":"PATIENT"}]}
+{"text": "The patient had a 10-year history of muscle weakness.", "spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":18,"end":33,"label":"AGE_ONSET"}]}
+{"text": "A boy with a 10-year history was admitted to the clinic.", "spans":[{"start":2,"end":5,"label":"PATIENT"},{"start":13,"end":28,"label":"AGE_ONSET"}]}
+{"text": "Following a 10-year history, the child presented with tremors.", "spans":[{"start":11,"end":26,"label":"AGE_ONSET"},{"start":32,"end":37,"label":"PATIENT"}]}
+{"text": "The 10-year history of seizures in the female patient was concerning.", "spans":[{"start":4,"end":19,"label":"AGE_ONSET"},{"start":40,"end":54,"label":"PATIENT"}]}
+{"text": "His symptoms were linked to a 10-year history.", "spans":[{"start":0,"end":3,"label":"PATIENT"},{"start":29,"end":44,"label":"AGE_ONSET"}]}
+{"text": "A 10-year history preceded onset in the girl.", "spans":[{"start":2,"end":17,"label":"AGE_ONSET"},{"start":38,"end":42,"label":"PATIENT"}]}
+{"text": "The patient reported a 10-year history of declining mobility.", "spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":24,"end":39,"label":"AGE_ONSET"}]}
+{"text": "Symptoms started after a 10-year history in the boy.", "spans":[{"start":25,"end":40,"label":"AGE_ONSET"},{"start":48,"end":51,"label":"PATIENT"}]}
+{"text": "He was diagnosed following a 10-year history.", "spans":[{"start":0,"end":2,"label":"PATIENT"},{"start":29,"end":44,"label":"AGE_ONSET"}]}
+{"text": "A 10-year history was evident in the young male patient.", "spans":[{"start":2,"end":17,"label":"AGE_ONSET"},{"start":36,"end":52,"label":"PATIENT"}]}
+{"text": "The patient experienced symptoms since age 13.", "spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_ONSET"}]}
+{"text": "At 13, the boy began showing signs of tremor.", "spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":13,"label":"PATIENT"}]}
+{"text": "A girl presented with muscle weakness starting at 13.", "spans":[{"start":2,"end":6,"label":"PATIENT"},{"start":45,"end":47,"label":"AGE_ONSET"}]}
+{"text": "Symptoms of dystonia appeared at age 13 in the child.", "spans":[{"start":30,"end":32,"label":"AGE_ONSET"},{"start":40,"end":45,"label":"PATIENT"}]}
+{"text": "He had motor symptoms beginning from age 13.", "spans":[{"start":0,"end":2,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_ONSET"}]}
+{"text": "The patient showed signs of ataxia by 13.", "spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_ONSET"}]}
+{"text": "At 13, tremor and imbalance were first noted in the patient.", "spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":52,"end":59,"label":"PATIENT"}]}
+{"text": "She presented with symptoms at 13 years old.", "spans":[{"start":0,"end":3,"label":"PATIENT"},{"start":27,"end":29,"label":"AGE_ONSET"}]}
+{"text": "The onset of epilepsy was recorded at 13.", "spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text": "Spasticity symptoms were noticed in a 13-year-old boy.", "spans":[{"start":37,"end":40,"label":"AGE_ONSET"},{"start":41,"end":44,"label":"PATIENT"}]}
+{"text": "A patient reported symptoms persisting for the past ten years.", "spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":40,"end":57,"label":"AGE_ONSET"}]}
+{"text": "He had experienced tremors over the past ten years.", "spans":[{"start":0,"end":2,"label":"PATIENT"},{"start":35,"end":52,"label":"AGE_ONSET"}]}
+{"text": "Symptoms had continued in the girl for the past ten years.", "spans":[{"start":29,"end":33,"label":"PATIENT"},{"start":42,"end":59,"label":"AGE_ONSET"}]}
+{"text": "A history of seizures extended for the past ten years in the boy.", "spans":[{"start":31,"end":48,"label":"AGE_ONSET"},{"start":56,"end":59,"label":"PATIENT"}]}
+{"text": "The patient's tremor had persisted for the past ten years.", "spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":40,"end":57,"label":"AGE_ONSET"}]}
+{"text": "Over the past ten years, the male patient reported gait decline.", "spans":[{"start":9,"end":26,"label":"AGE_ONSET"},{"start":32,"end":45,"label":"PATIENT"}]}
+{"text": "The child experienced dizziness for the past ten years.", "spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":39,"end":56,"label":"AGE_ONSET"}]}
+{"text": "There had been balance issues for the past ten years.", "spans":[{"start":34,"end":51,"label":"AGE_ONSET"}]}
+{"text": "Over the past ten years, she had progressive limb weakness.", "spans":[{"start":9,"end":26,"label":"AGE_ONSET"},{"start":28,"end":31,"label":"PATIENT"}]}
+{"text": "For the past ten years, the patient struggled with motor function.", "spans":[{"start":8,"end":25,"label":"AGE_ONSET"},{"start":31,"end":38,"label":"PATIENT"}]}
+{"text": "The child began experiencing seizures at 9 months.", "spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":40,"end":49,"label":"AGE_ONSET"}]}
+{"text": "At 9 months, the boy had muscle tone abnormalities.", "spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":18,"end":21,"label":"PATIENT"}]}
+{"text": "Symptoms of epilepsy were noted in the patient at 9 months.", "spans":[{"start":36,"end":43,"label":"PATIENT"},{"start":47,"end":56,"label":"AGE_ONSET"}]}
+{"text": "Seizure activity began at 9 months in the girl.", "spans":[{"start":23,"end":32,"label":"AGE_ONSET"},{"start":40,"end":44,"label":"PATIENT"}]}
+{"text": "The patient showed signs of dystonia by 9 months.", "spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":47,"label":"AGE_ONSET"}]}
+{"text": "He developed signs of ataxia at 9 months.", "spans":[{"start":0,"end":2,"label":"PATIENT"},{"start":31,"end":40,"label":"AGE_ONSET"}]}
+{"text": "A 9-month-old girl was seen for unsteady gait.", "spans":[{"start":2,"end":15,"label":"AGE_ONSET"},{"start":16,"end":20,"label":"PATIENT"}]}
+{"text": "The boy had shown early signs of tremor at 9 months.", "spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":47,"end":56,"label":"AGE_ONSET"}]}
+{"text": "At 9 months, she had reduced reflexes.", "spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":14,"end":17,"label":"PATIENT"}]}
+{"text": "Symptoms were documented at 9 months in the patient.", "spans":[{"start":27,"end":36,"label":"AGE_ONSET"},{"start":44,"end":51,"label":"PATIENT"}]}
+{"text":"The child experienced symptoms starting at four months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":38,"end":49,"label":"AGE_ONSET"}]}
+{"text":"At four months, the infant began showing developmental concerns.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":20,"end":26,"label":"PATIENT"}]}
+{"text":"A patient developed seizures around the age of four months.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":44,"end":55,"label":"AGE_ONSET"}]}
+{"text":"Symptoms in the baby first appeared when she was four months old.","spans":[{"start":16,"end":20,"label":"PATIENT"},{"start":48,"end":59,"label":"AGE_ONSET"}]}
+{"text":"The onset of epilepsy was documented at four months in the infant.","spans":[{"start":37,"end":48,"label":"AGE_ONSET"},{"start":56,"end":62,"label":"PATIENT"}]}
+{"text":"The patient began to show signs at 4-month age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At the age of 4-month, symptoms started in the baby.","spans":[{"start":16,"end":23,"label":"AGE_ONSET"},{"start":44,"end":48,"label":"PATIENT"}]}
+{"text":"Clinical features began to manifest around the 4-month mark in the infant.","spans":[{"start":43,"end":50,"label":"AGE_ONSET"},{"start":58,"end":64,"label":"PATIENT"}]}
+{"text":"By 4-month, a boy had started experiencing movement issues.","spans":[{"start":3,"end":10,"label":"AGE_ONSET"},{"start":14,"end":17,"label":"PATIENT"}]}
+{"text":"The girl's symptoms first became apparent at the 4-month point.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":47,"end":54,"label":"AGE_ONSET"}]}
+{"text":"The girl had trouble walking at 4 months.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":32,"end":40,"label":"AGE_ONSET"}]}
+{"text":"Seizures started to manifest at 4 months in the infant.","spans":[{"start":31,"end":39,"label":"AGE_ONSET"},{"start":47,"end":53,"label":"PATIENT"}]}
+{"text":"The patient developed hearing loss around 4 months of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":47,"label":"AGE_ONSET"}]}
+{"text":"By the time he was 4 months old, he had cognitive delays.","spans":[{"start":21,"end":29,"label":"AGE_ONSET"}]}
+{"text":"Symptoms of muscle weakness appeared in the child at 4 months.","spans":[{"start":37,"end":42,"label":"PATIENT"},{"start":46,"end":54,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, the boy began showing signs of developmental delay.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"},{"start":17,"end":20,"label":"PATIENT"}]}
+{"text":"The patient began experiencing issues during her forties.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":42,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Cognitive symptoms first appeared in his forties.","spans":[{"start":37,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At some point in her forties, the woman developed tremors.","spans":[{"start":21,"end":28,"label":"AGE_ONSET"},{"start":34,"end":39,"label":"PATIENT"}]}
+{"text":"Muscle weakness onset was recorded during his forties.","spans":[{"start":42,"end":49,"label":"AGE_ONSET"}]}
+{"text":"The patient started experiencing memory loss in her forties.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":52,"end":59,"label":"AGE_ONSET"}]}
+{"text":"The boy developed seizures at the age of 16.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":37,"end":39,"label":"AGE_ONSET"}]}
+{"text":"Onset of symptoms was reported when the patient was 16.","spans":[{"start":39,"end":46,"label":"PATIENT"},{"start":51,"end":53,"label":"AGE_ONSET"}]}
+{"text":"At 16, the girl had her first episode of epilepsy.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":14,"label":"PATIENT"}]}
+{"text":"Symptoms emerged in the patient around age 16.","spans":[{"start":25,"end":32,"label":"PATIENT"},{"start":45,"end":47,"label":"AGE_ONSET"}]}
+{"text":"A child began showing signs of ataxia at age 16.","spans":[{"start":2,"end":7,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The child presented with signs of motor delay at 35.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":49,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred at age 35 in the patient.","spans":[{"start":19,"end":21,"label":"AGE_ONSET"},{"start":29,"end":36,"label":"PATIENT"}]}
+{"text":"She had her first symptoms of epilepsy at the age of 35.","spans":[{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"A man was diagnosed with coordination issues when he turned 35.","spans":[{"start":2,"end":5,"label":"PATIENT"},{"start":55,"end":57,"label":"AGE_ONSET"}]}
+{"text":"The patient first noticed problems walking at age 35.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":44,"end":46,"label":"AGE_ONSET"}]}
+{"text":"The patient first showed symptoms at 31/2 months of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, the child began to exhibit clinical features.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":21,"end":26,"label":"PATIENT"}]}
+{"text":"Symptoms became apparent in the infant at 31/2 months.","spans":[{"start":31,"end":43,"label":"AGE_ONSET"}]}
+{"text":"The clinical presentation was first recognized at 31/2 months.","spans":[{"start":46,"end":58,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, disease onset was clearly observed.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"The initial symptoms started when the patient was 72.","spans":[{"start":38,"end":45,"label":"AGE_ONSET"},{"start":31,"end":38,"label":"PATIENT"}]}
+{"text":"Clinical abnormalities were noted at age 72.","spans":[{"start":41,"end":43,"label":"AGE_ONSET"}]}
+{"text":"The patient developed signs of disease around 72.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":46,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 72, the child presented with neurological issues.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":15,"label":"PATIENT"}]}
+{"text":"Neurological findings were first evident at 72.","spans":[{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The symptoms were initially observed at 18 months.","spans":[{"start":38,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, the girl began to decline neurologically.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"},{"start":19,"end":23,"label":"PATIENT"}]}
+{"text":"Clinical features appeared at the age of 18 months.","spans":[{"start":41,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Disease onset was recognized around 18 months of age.","spans":[{"start":36,"end":46,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, symptoms consistent with mitochondrial disease were present.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred when the child was 4.","spans":[{"start":29,"end":30,"label":"AGE_ONSET"},{"start":21,"end":26,"label":"PATIENT"}]}
+{"text":"The patient experienced symptoms at 4.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":39,"label":"AGE_ONSET"}]}
+{"text":"First clinical signs emerged at age 4.","spans":[{"start":34,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 4, neurological manifestations were identified.","spans":[{"start":3,"end":4,"label":"AGE_ONSET"}]}
+{"text":"Symptoms related to the disorder started at age 4.","spans":[{"start":44,"end":45,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were noticed at 14-month of life.","spans":[{"start":27,"end":36,"label":"AGE_ONSET"}]}
+{"text":"The patient had developmental delay since 14-month.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, the child presented with hypotonia.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":18,"end":23,"label":"PATIENT"}]}
+{"text":"Clinical issues started around 14-month of age.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, first signs of the disease became apparent.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began to emerge at 31/2 months.","spans":[{"start":30,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, early signs of the condition appeared.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"The disease presented clinically at 31/2 months.","spans":[{"start":37,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Initial symptoms manifested when the patient was 31/2 months old.","spans":[{"start":38,"end":45,"label":"PATIENT"},{"start":50,"end":62,"label":"AGE_ONSET"}]}
+{"text":"First clinical features were observed at 31/2 months.","spans":[{"start":43,"end":55,"label":"AGE_ONSET"}]}
+{"text":"The first symptoms appeared at the age of 72.","spans":[{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"Clinical onset was documented at 72 years.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 72, disease onset was clearly recognized.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Initial manifestations occurred when the patient was 72.","spans":[{"start":42,"end":49,"label":"PATIENT"},{"start":54,"end":56,"label":"AGE_ONSET"}]}
+{"text":"Early neurological signs were noted by age 72.","spans":[{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were first observed at 18 months.","spans":[{"start":34,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, clinical onset became apparent.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The disorder began to manifest around 18 months.","spans":[{"start":40,"end":50,"label":"AGE_ONSET"}]}
+{"text":"Onset of symptoms was identified at 18 months of age.","spans":[{"start":37,"end":47,"label":"AGE_ONSET"}]}
+{"text":"The patient first showed signs of illness at 18 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":47,"end":57,"label":"AGE_ONSET"}]}
+{"text":"At 4, symptoms indicating early onset were evident.","spans":[{"start":3,"end":4,"label":"AGE_ONSET"}]}
+{"text":"Early signs of disease were documented at age 4.","spans":[{"start":44,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The child began showing symptoms at 4 years old.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":36,"end":37,"label":"AGE_ONSET"}]}
+{"text":"Onset was noted at the age of 4.","spans":[{"start":27,"end":28,"label":"AGE_ONSET"}]}
+{"text":"Symptoms first manifested at 4, indicating disease onset.","spans":[{"start":29,"end":30,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, initial symptoms of the disorder appeared.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The patient started showing signs of illness at 14-month.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":50,"end":59,"label":"AGE_ONSET"}]}
+{"text":"Clinical onset was detected at 14-month of age.","spans":[{"start":31,"end":40,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were observed starting from 14-month.","spans":[{"start":36,"end":45,"label":"AGE_ONSET"}]}
+{"text":"Initial disease presentation occurred at 14-month.","spans":[{"start":38,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Symptoms initially appeared at 15.","spans":[{"start":31,"end":33,"label":"AGE_ONSET"}]}
+{"text":"The condition began to show signs at 15.","spans":[{"start":38,"end":40,"label":"AGE_ONSET"}]}
+{"text":"At 15, the patient developed early symptoms.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical features were noticed at the age of 15.","spans":[{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At the age of 15, the disorder manifested.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The symptoms began at 64.","spans":[{"start":25,"end":27,"label":"AGE_ONSET"}]}
+{"text":"Onset of disease occurred at 64.","spans":[{"start":31,"end":33,"label":"AGE_ONSET"}]}
+{"text":"At 64, the patient reported initial signs.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Symptoms appeared around the age of 64.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"The disease became evident at 64.","spans":[{"start":32,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Onset of symptoms was recorded at 27.","spans":[{"start":34,"end":36,"label":"AGE_ONSET"}]}
+{"text":"At 27, the condition first presented clinically.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"The patient began experiencing symptoms at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":44,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Early disease signs appeared at the age of 27.","spans":[{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms started to emerge when the patient was 27.","spans":[{"start":37,"end":44,"label":"PATIENT"},{"start":49,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were identified at 33.","spans":[{"start":30,"end":32,"label":"AGE_ONSET"}]}
+{"text":"At 33, the patient began showing clinical signs.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical onset was observed at 33.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"Disease features manifested around age 33.","spans":[{"start":37,"end":39,"label":"AGE_ONSET"}]}
+{"text":"Signs of illness appeared when the patient was 33.","spans":[{"start":35,"end":42,"label":"PATIENT"},{"start":47,"end":49,"label":"AGE_ONSET"}]}
+{"text":"The patient showed initial symptoms at 30.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At the age of 30, signs of disease emerged.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"}]}
+{"text":"Early disease onset occurred at 30.","spans":[{"start":32,"end":34,"label":"AGE_ONSET"}]}
+{"text":"At 30, the patient began showing early features.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Symptoms were first recognized around 30.","spans":[{"start":37,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The disorder began manifesting at 36.","spans":[{"start":33,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 36, early neurological features developed.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Signs of the condition appeared when the patient was 36.","spans":[{"start":41,"end":48,"label":"PATIENT"},{"start":53,"end":55,"label":"AGE_ONSET"}]}
+{"text":"Initial symptoms were observed at age 36.","spans":[{"start":35,"end":37,"label":"AGE_ONSET"}]}
+{"text":"The patient presented clinical signs at 36.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were noticed when the child was ﬁve.","spans":[{"start":30,"end":35,"label":"PATIENT"},{"start":40,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At the age of ﬁve, clinical signs appeared.","spans":[{"start":15,"end":19,"label":"AGE_ONSET"}]}
+{"text":"The patient began showing symptoms at ﬁve.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Onset was documented around age ﬁve.","spans":[{"start":33,"end":37,"label":"AGE_ONSET"}]}
+{"text":"At ﬁve, the disorder became clinically apparent.","spans":[{"start":3,"end":7,"label":"AGE_ONSET"}]}
+{"text":"The patient began showing symptoms at 15.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_ONSET"}]}
+{"text":"Symptoms initially emerged in the patient at age 15.","spans":[{"start":31,"end":35,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"At just 15 years old, the child started experiencing early signs.","spans":[{"start":6,"end":8,"label":"AGE_ONSET"},{"start":30,"end":35,"label":"PATIENT"}]}
+{"text":"By the age of 15, the patient already exhibited clinical abnormalities.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"},{"start":23,"end":30,"label":"PATIENT"}]}
+{"text":"Initial signs were documented in the patient around 15 years of age.","spans":[{"start":35,"end":42,"label":"PATIENT"},{"start":50,"end":52,"label":"AGE_ONSET"}]}
+{"text":"The onset of symptoms was reported at 64.","spans":[{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At the age of 64, the patient began exhibiting unusual behavior.","spans":[{"start":16,"end":18,"label":"AGE_ONSET"},{"start":24,"end":31,"label":"PATIENT"}]}
+{"text":"Symptoms manifested when the patient was 64 years old.","spans":[{"start":28,"end":35,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The patient developed muscle weakness at 64.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_ONSET"}]}
+{"text":"Early signs appeared in a 64-year-old individual.","spans":[{"start":24,"end":26,"label":"AGE_ONSET"}]}
+{"text":"At 27, the patient started experiencing neurological issues.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":7,"end":14,"label":"PATIENT"}]}
+{"text":"The disease manifested in the patient at age 27.","spans":[{"start":30,"end":37,"label":"PATIENT"},{"start":45,"end":47,"label":"AGE_ONSET"}]}
+{"text":"The individual began showing symptoms by 27.","spans":[{"start":38,"end":40,"label":"AGE_ONSET"}]}
+{"text":"Early cognitive issues were evident by the time the patient reached 27.","spans":[{"start":51,"end":58,"label":"PATIENT"},{"start":59,"end":61,"label":"AGE_ONSET"}]}
+{"text":"Onset was recorded at 27 for the patient.","spans":[{"start":22,"end":24,"label":"AGE_ONSET"},{"start":33,"end":40,"label":"PATIENT"}]}
+{"text":"Initial signs were noted when the patient was 33.","spans":[{"start":31,"end":38,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The disease first appeared at 33 years of age.","spans":[{"start":30,"end":32,"label":"AGE_ONSET"}]}
+{"text":"At 33, the patient experienced the first noticeable symptoms.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":7,"end":14,"label":"PATIENT"}]}
+{"text":"By the age of 33, the patient was exhibiting weakness.","spans":[{"start":15,"end":17,"label":"AGE_ONSET"},{"start":23,"end":30,"label":"PATIENT"}]}
+{"text":"The patient began showing clinical signs at 33.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were noticed in the patient by the age of 30.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30, muscle tone changes were observed.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"The patient began experiencing issues around 30.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The disease emerged when the patient was 30.","spans":[{"start":30,"end":37,"label":"PATIENT"},{"start":42,"end":44,"label":"AGE_ONSET"}]}
+{"text":"By age 30, symptoms had become more frequent.","spans":[{"start":8,"end":10,"label":"AGE_ONSET"}]}
+{"text":"At the age of 36, the patient began to show symptoms.","spans":[{"start":16,"end":18,"label":"AGE_ONSET"},{"start":24,"end":31,"label":"PATIENT"}]}
+{"text":"The patient started to display abnormalities at 36.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_ONSET"}]}
+{"text":"Early manifestations were recorded at 36.","spans":[{"start":36,"end":38,"label":"AGE_ONSET"}]}
+{"text":"At 36, the patient presented with initial clinical symptoms.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"},{"start":7,"end":14,"label":"PATIENT"}]}
+{"text":"The disease first appeared around age 36.","spans":[{"start":35,"end":37,"label":"AGE_ONSET"}]}
+{"text":"Signs of illness emerged when the patient was five.","spans":[{"start":33,"end":40,"label":"PATIENT"},{"start":45,"end":49,"label":"AGE_ONSET"}]}
+{"text":"At the age of ﬁve, the patient experienced seizures.","spans":[{"start":15,"end":19,"label":"AGE_ONSET"},{"start":25,"end":32,"label":"PATIENT"}]}
+{"text":"The onset of symptoms occurred at ﬁve.","spans":[{"start":35,"end":39,"label":"AGE_ONSET"}]}
+{"text":"Clinical presentation began in the patient at five.","spans":[{"start":33,"end":40,"label":"PATIENT"},{"start":44,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At five years old, the child began to lose coordination.","spans":[{"start":3,"end":7,"label":"AGE_ONSET"},{"start":23,"end":28,"label":"PATIENT"}]}
+{"text":"The patient began experiencing symptoms at 22.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms emerged in the patient around age 22.","spans":[{"start":24,"end":31,"label":"PATIENT"},{"start":44,"end":46,"label":"AGE_ONSET"}]}
+{"text":"By the age of 22, the patient had developed gait disturbances.","spans":[{"start":12,"end":14,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"At 22 years old, she began experiencing episodes of fainting.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Neurological symptoms became apparent when the child was 22.","spans":[{"start":43,"end":48,"label":"PATIENT"},{"start":52,"end":54,"label":"AGE_ONSET"}]}
+{"text":"Clinical signs were first reported at the age of 22.","spans":[{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"He showed progressive weakness that began when he was 22.","spans":[{"start":49,"end":51,"label":"AGE_ONSET"}]}
+{"text":"At 22, the man experienced sudden loss of coordination.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Muscle pain and fatigue presented at 22 years.","spans":[{"start":34,"end":36,"label":"AGE_ONSET"}]}
+{"text":"Onset of epilepsy occurred in the patient at 22.","spans":[{"start":36,"end":43,"label":"PATIENT"},{"start":47,"end":49,"label":"AGE_ONSET"}]}
+{"text":"She began losing motor control at 18-month.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Motor symptoms started in the patient around 18-month.","spans":[{"start":30,"end":37,"label":"PATIENT"},{"start":45,"end":53,"label":"AGE_ONSET"}]}
+{"text":"By 18-month of age, he showed clear signs of hypotonia.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Developmental regression began when the boy was 18-month.","spans":[{"start":36,"end":39,"label":"PATIENT"},{"start":44,"end":52,"label":"AGE_ONSET"}]}
+{"text":"Signs of dysfunction appeared in the child by 18-month.","spans":[{"start":36,"end":41,"label":"PATIENT"},{"start":45,"end":53,"label":"AGE_ONSET"}]}
+{"text":"At 18-month, seizures and ataxia became evident.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Neurological findings were noted at 18-month of age.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The infant began to lose coordination around 18-month.","spans":[{"start":40,"end":48,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were first detected at 18-month in the girl.","spans":[{"start":31,"end":39,"label":"AGE_ONSET"},{"start":47,"end":51,"label":"PATIENT"}]}
+{"text":"Early developmental issues arose by 18-month.","spans":[{"start":33,"end":41,"label":"AGE_ONSET"}]}
+{"text":"The child experienced convulsions starting at 2 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":44,"end":52,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the boy displayed muscle weakness.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"},{"start":15,"end":18,"label":"PATIENT"}]}
+{"text":"By 2 months of age, early signs of epilepsy were observed.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Muscle tone abnormalities were noticed at 2 months.","spans":[{"start":41,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Onset of ataxia occurred when the patient was 2 months old.","spans":[{"start":36,"end":43,"label":"PATIENT"},{"start":48,"end":56,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the infant began to show signs of hypotonia.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The patient’s first symptoms emerged at 2 months.","spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":40,"end":48,"label":"AGE_ONSET"}]}
+{"text":"He had difficulties feeding since 2 months old.","spans":[{"start":33,"end":41,"label":"AGE_ONSET"}]}
+{"text":"Seizure activity began at just 2 months.","spans":[{"start":30,"end":38,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, severe vomiting and muscle tone changes occurred.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The patient presented with a 5-year history of myoclonus.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":31,"end":48,"label":"AGE_ONSET"}]}
+{"text":"A 5-year history of seizures was noted in the male patient.","spans":[{"start":2,"end":19,"label":"AGE_ONSET"},{"start":43,"end":57,"label":"PATIENT"}]}
+{"text":"Symptoms started with a 5-year history of limb tremors.","spans":[{"start":25,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The woman reported a 5-year history of neurologic decline.","spans":[{"start":21,"end":38,"label":"AGE_ONSET"}]}
+{"text":"He was experiencing a 5-year history of episodic headaches.","spans":[{"start":24,"end":41,"label":"AGE_ONSET"}]}
+{"text":"A 5-year history was documented in the patient.","spans":[{"start":2,"end":19,"label":"AGE_ONSET"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"She had developed a 5-year history of motor regression.","spans":[{"start":21,"end":38,"label":"AGE_ONSET"}]}
+{"text":"Neurological issues followed a 5-year history of deterioration.","spans":[{"start":28,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The child exhibited a 5-year history of behavioral changes.","spans":[{"start":24,"end":41,"label":"AGE_ONSET"},{"start":4,"end":9,"label":"PATIENT"}]}
+{"text":"Initial episodes coincided with a 5-year history.","spans":[{"start":32,"end":49,"label":"AGE_ONSET"}]}
+{"text":"He showed signs of epilepsy after a duration of 5 months.","spans":[{"start":41,"end":52,"label":"AGE_ONSET"}]}
+{"text":"The girl had a documented history of 5 months of tremors.","spans":[{"start":35,"end":44,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"Clinical deterioration occurred after 5 months of symptoms.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"There was a report of 5 months of seizure onset.","spans":[{"start":21,"end":30,"label":"AGE_ONSET"}]}
+{"text":"Progressive loss of motor skills began after 5 months.","spans":[{"start":43,"end":52,"label":"AGE_ONSET"}]}
+{"text":"At 5 months of progression, the boy developed dystonia.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":31,"end":34,"label":"PATIENT"}]}
+{"text":"The patient had experienced 5 months of abnormal findings.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"5 months after symptom onset, the woman showed head tremors.","spans":[{"start":0,"end":9,"label":"AGE_ONSET"}]}
+{"text":"He reported a course of 5 months before seizure activity.","spans":[{"start":25,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Initial symptoms were reported after about 5 months.","spans":[{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, the patient showed loss of developmental milestones.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"},{"start":15,"end":22,"label":"PATIENT"}]}
+{"text":"By 30 months, she exhibited frequent myoclonic jerks.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The child’s symptoms began at 30 months.","spans":[{"start":30,"end":40,"label":"AGE_ONSET"},{"start":4,"end":10,"label":"PATIENT"}]}
+{"text":"He developed hypotonia around 30 months of age.","spans":[{"start":29,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, abnormal EEG patterns were recorded.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The girl’s balance issues started at 30 months.","spans":[{"start":34,"end":44,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"30 months marked the emergence of seizures in the patient.","spans":[{"start":0,"end":10,"label":"AGE_ONSET"},{"start":47,"end":54,"label":"PATIENT"}]}
+{"text":"Initial signs of trouble were evident at 30 months.","spans":[{"start":40,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, dystonia became more pronounced.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Delayed milestones were observed beginning at 30 months.","spans":[{"start":42,"end":52,"label":"AGE_ONSET"}]}
+{"text": "The patient began to show symptoms at age 2.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 38, "end": 39, "label": "AGE_ONSET"}]}
+{"text": "Symptoms were first observed in the child at 2 years.", "spans": [{"start": 37, "end": 42, "label": "PATIENT"}, {"start": 46, "end": 47, "label": "AGE_ONSET"}]}
+{"text": "By 2, signs of motor delay became noticeable in the boy.", "spans": [{"start": 3, "end": 4, "label": "AGE_ONSET"}, {"start": 54, "end": 57, "label": "PATIENT"}]}
+{"text": "The boy started walking abnormally at 2.", "spans": [{"start": 4, "end": 7, "label": "PATIENT"}, {"start": 37, "end": 38, "label": "AGE_ONSET"}]}
+{"text": "At the age of 2, the patient exhibited tremors.", "spans": [{"start": 15, "end": 16, "label": "AGE_ONSET"}, {"start": 22, "end": 29, "label": "PATIENT"}]}
+{"text": "Initial clinical signs emerged when the child was 2.", "spans": [{"start": 37, "end": 42, "label": "PATIENT"}, {"start": 47, "end": 48, "label": "AGE_ONSET"}]}
+{"text": "At 2, tremors and rigidity were noted in the girl.", "spans": [{"start": 3, "end": 4, "label": "AGE_ONSET"}, {"start": 50, "end": 54, "label": "PATIENT"}]}
+{"text": "The patient showed early signs of disease at age 2.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 47, "end": 48, "label": "AGE_ONSET"}]}
+{"text": "Clinical evaluation at age 2 revealed abnormal reflexes.", "spans": [{"start": 25, "end": 26, "label": "AGE_ONSET"}]}
+{"text": "Muscle weakness was documented in a 2-year-old patient.", "spans": [{"start": 34, "end": 45, "label": "AGE_ONSET"}, {"start": 46, "end": 53, "label": "PATIENT"}]}
+{"text": "The patient reported symptoms present for 10 years.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 30, "end": 49, "label": "AGE_ONSET"}]}
+{"text": "Clinical signs had been present for 10 years before diagnosis.", "spans": [{"start": 24, "end": 43, "label": "AGE_ONSET"}]}
+{"text": "Neurological deficits were present for 10 years in the patient.", "spans": [{"start": 30, "end": 49, "label": "AGE_ONSET"}, {"start": 57, "end": 64, "label": "PATIENT"}]}
+{"text": "Symptoms present for 10 years suggested long-term disease.", "spans": [{"start": 9, "end": 28, "label": "AGE_ONSET"}]}
+{"text": "Patient had complaints that had been present for 10 years.", "spans": [{"start": 0, "end": 7, "label": "PATIENT"}, {"start": 39, "end": 58, "label": "AGE_ONSET"}]}
+{"text": "At presentation, symptoms were present for 10 years.", "spans": [{"start": 27, "end": 46, "label": "AGE_ONSET"}]}
+{"text": "The boy’s condition had been present for 10 years.", "spans": [{"start": 4, "end": 8, "label": "PATIENT"}, {"start": 33, "end": 52, "label": "AGE_ONSET"}]}
+{"text": "There was a 10-year history of symptoms present.", "spans": [{"start": 12, "end": 27, "label": "AGE_ONSET"}]}
+{"text": "For 10 years, the child had motor impairments.", "spans": [{"start": 0, "end": 10, "label": "AGE_ONSET"}, {"start": 16, "end": 21, "label": "PATIENT"}]}
+{"text": "A 10-year disease history was reported by the girl.", "spans": [{"start": 2, "end": 22, "label": "AGE_ONSET"}, {"start": 45, "end": 49, "label": "PATIENT"}]}
+{"text":"The 80-year-old-man presented with a 7-year history of cognitive decline.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":38,"end":53,"label":"AGE_ONSET"}]}
+{"text":"An 80-year-old-man was reported to have a 7-year history of symptoms.","spans":[{"start":3,"end":22,"label":"PATIENT"},{"start":39,"end":54,"label":"AGE_ONSET"}]}
+{"text":"The man aged 80 presented with a 7-year history of disease progression.","spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":37,"end":52,"label":"AGE_ONSET"}]}
+{"text":"A patient, 80 years old, had a 7-year history of behavioral issues.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":28,"end":43,"label":"AGE_ONSET"}]}
+{"text":"With a 7-year history, the 80-year-old-man presented with visual symptoms.","spans":[{"start":5,"end":23,"label":"AGE_ONSET"},{"start":30,"end":49,"label":"PATIENT"}]}
+{"text":"The 80-year-old-man experienced a 7-year history before diagnosis.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":36,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were reported in the 80-year-old-man after a 7-year history.","spans":[{"start":30,"end":49,"label":"PATIENT"},{"start":56,"end":71,"label":"AGE_ONSET"}]}
+{"text":"The 80-year-old-man had a 7-year history of movement difficulties.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":32,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Following a 7-year history, the 80-year-old-man showed motor deficits.","spans":[{"start":9,"end":24,"label":"AGE_ONSET"},{"start":31,"end":50,"label":"PATIENT"}]}
+{"text":"A 7-year history preceded symptoms in the 80-year-old-man.","spans":[{"start":2,"end":17,"label":"AGE_ONSET"},{"start":43,"end":62,"label":"PATIENT"}]}
+{"text":"Symptoms began at 3.5 months in the reported case.","spans":[{"start":20,"end":31,"label":"AGE_ONSET"}]}
+{"text":"At 3.5 months, the patient showed abnormal responses.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"The disorder was detected when the child was 3.5 months old.","spans":[{"start":44,"end":55,"label":"AGE_ONSET"},{"start":33,"end":38,"label":"PATIENT"}]}
+{"text":"Early signs were noted by 3.5 months of age.","spans":[{"start":25,"end":36,"label":"AGE_ONSET"}]}
+{"text":"Clinical evaluation at 3.5 months revealed no abnormalities.","spans":[{"start":24,"end":35,"label":"AGE_ONSET"}]}
+{"text":"If onset occurred around 3.5 months, genetic testing followed.","spans":[{"start":26,"end":37,"label":"AGE_ONSET"}]}
+{"text":"The patient experienced seizure onset at 3.5 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":54,"label":"AGE_ONSET"}]}
+{"text":"At 3.5 months, developmental delays were already evident.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"During the 3.5 months period, symptoms first emerged.","spans":[{"start":11,"end":22,"label":"AGE_ONSET"}]}
+{"text":"The case showed motor regression at 3.5 months.","spans":[{"start":36,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Clinical symptoms started at 6 months in the infant.","spans":[{"start":27,"end":36,"label":"AGE_ONSET"}]}
+{"text":"By 6 months, the child exhibited notable tremors.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":16,"end":21,"label":"PATIENT"}]}
+{"text":"The 6 months mark corresponded to disease onset.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Symptoms had been present since 6 months of age.","spans":[{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 6 months, brain imaging revealed abnormalities.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The child developed visual impairment by 6 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":40,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Initial evaluation was done around 6 months.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 6 months, the patient showed no verbal response.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"The disorder manifested at 6 months in this boy.","spans":[{"start":27,"end":36,"label":"AGE_ONSET"},{"start":40,"end":43,"label":"PATIENT"}]}
+{"text":"Within the first 6 months, symptoms became apparent.","spans":[{"start":17,"end":26,"label":"AGE_ONSET"}]}
+{"text":"At 9 months, initial symptoms of weakness were noted.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The girl began seizing at 9 months of age.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":23,"end":32,"label":"AGE_ONSET"}]}
+{"text":"Around 9 months, a regression in motor skills was observed.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Initial decline in development started at 9 months.","spans":[{"start":42,"end":51,"label":"AGE_ONSET"}]}
+{"text":"The patient showed no response after 9 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 9 months, doctors detected muscle hypotonia.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Symptoms became severe beyond 9 months of age.","spans":[{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 9 months, the patient displayed decreased alertness.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"The boy showed developmental delay by 9 months.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":37,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Diagnosis was confirmed at 9 months in this case.","spans":[{"start":26,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, weakness in limbs was noticed.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Muscle tone began to decline at 4 months of age.","spans":[{"start":32,"end":41,"label":"AGE_ONSET"}]}
+{"text":"By 4 months, signs of ataxia were recorded.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The child presented with seizures at 4 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":39,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, clinical abnormalities were reported.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The 4 months timepoint coincided with symptom onset.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, an MRI indicated structural changes.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Developmental regression began around 4 months.","spans":[{"start":35,"end":44,"label":"AGE_ONSET"}]}
+{"text":"This girl developed visual impairment by 4 months.","spans":[{"start":5,"end":9,"label":"PATIENT"},{"start":42,"end":51,"label":"AGE_ONSET"}]}
+{"text":"The patient was evaluated at 4 months of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"By four months, signs of seizures had appeared.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The four months stage marked the beginning of symptoms.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At four months, early hypotonia was identified.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The infant had seizures by four months of age.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":29,"end":40,"label":"AGE_ONSET"}]}
+{"text":"During four months, the patient showed abnormal EEGs.","spans":[{"start":7,"end":18,"label":"AGE_ONSET"},{"start":24,"end":31,"label":"PATIENT"}]}
+{"text":"At four months, diagnostic imaging showed brain changes.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred roughly at four months in this boy.","spans":[{"start":26,"end":37,"label":"AGE_ONSET"},{"start":41,"end":44,"label":"PATIENT"}]}
+{"text":"The child presented at four months with motor symptoms.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":21,"end":32,"label":"AGE_ONSET"}]}
+{"text":"The 4-month checkup revealed early signs of hypotonia.","spans":[{"start":4,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began to emerge during the 4-month period.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At the 4-month stage, the patient exhibited seizures.","spans":[{"start":7,"end":15,"label":"AGE_ONSET"},{"start":21,"end":28,"label":"PATIENT"}]}
+{"text":"The girl presented with ataxia at the 4-month age mark.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":38,"end":46,"label":"AGE_ONSET"}]}
+{"text":"By 4-month, early motor decline was already visible.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The diagnosis was first suspected at the 4-month visit.","spans":[{"start":36,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At the 4-month point, the patient showed no response.","spans":[{"start":7,"end":15,"label":"AGE_ONSET"},{"start":21,"end":28,"label":"PATIENT"}]}
+{"text":"If onset occurred around 4-month, genetic testing followed.","spans":[{"start":26,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Seizures started at the 4-month evaluation.","spans":[{"start":22,"end":30,"label":"AGE_ONSET"}]}
+{"text":"During the 4-month interval, developmental delay appeared.","spans":[{"start":11,"end":19,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, the patient developed limb weakness.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"Seizures began at 4 months in the reported case.","spans":[{"start":17,"end":26,"label":"AGE_ONSET"}]}
+{"text":"The infant showed no reflexes by 4 months of age.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":34,"end":43,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, abnormalities in eye movement were noted.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The 4 months mark corresponded to symptom onset.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"By 4 months, the patient had developed seizures.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"The boy was unresponsive after 4 months of age.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":31,"end":40,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, motor regression was first recognized.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"By the age of 4 months, symptoms had worsened.","spans":[{"start":15,"end":24,"label":"AGE_ONSET"}]}
+{"text":"Onset was suspected at 4 months during evaluation.","spans":[{"start":24,"end":33,"label":"AGE_ONSET"}]}
+{"text":"The condition first appeared at 2 months of age.","spans":[{"start":29,"end":38,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the patient had difficulty feeding.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"By 2 months, the child displayed reduced movement.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":22,"label":"PATIENT"}]}
+{"text":"Clinical signs emerged at 2 months in this case.","spans":[{"start":25,"end":34,"label":"AGE_ONSET"}]}
+{"text":"At the 2 months mark, alertness decreased.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The infant became hypotonic by 2 months.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":29,"end":38,"label":"AGE_ONSET"}]}
+{"text":"Around 2 months, symptoms such as tremor were recorded.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred at 2 months in the reported boy.","spans":[{"start":18,"end":27,"label":"AGE_ONSET"},{"start":44,"end":47,"label":"PATIENT"}]}
+{"text":"Neurological issues started around 2 months.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Developmental regression began at 2 months.","spans":[{"start":32,"end":41,"label":"AGE_ONSET"}]}
+{"text":"By 16 months, the patient had developed seizures.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"At 16 months, loss of motor function was evident.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The child showed ataxia by 16 months of age.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":31,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Seizure onset was recorded at 16 months.","spans":[{"start":30,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At 16 months, symptoms became more pronounced.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The boy developed hypotonia around 16 months.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":35,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Motor delay was documented at 16 months.","spans":[{"start":30,"end":41,"label":"AGE_ONSET"}]}
+{"text":"During 16 months, feeding issues were observed.","spans":[{"start":7,"end":18,"label":"AGE_ONSET"}]}
+{"text":"At 16 months, MRI revealed brain atrophy.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Onset of developmental regression occurred by 16 months.","spans":[{"start":42,"end":53,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, the child had difficulty walking.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":24,"label":"PATIENT"}]}
+{"text":"Seizures began at 18 months in this case.","spans":[{"start":17,"end":28,"label":"AGE_ONSET"}]}
+{"text":"The 18 months timepoint aligned with onset.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"By 18 months, developmental delay was evident.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, the patient was non-verbal.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"Motor milestones were missed by 18 months.","spans":[{"start":31,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The infant showed poor balance at 18 months.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":35,"end":46,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, clinicians observed tremors.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Cognitive decline began around 18 months.","spans":[{"start":30,"end":41,"label":"AGE_ONSET"}]}
+{"text":"The boy exhibited head lag at 18 months.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":31,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The child began showing symptoms at the 18-month mark.","spans":[{"start":39,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At the 18-month point, motor regression became apparent.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Seizure activity was first noted around the 18-month stage.","spans":[{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"By 18-month, signs of hypotonia had already emerged.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred clearly at the 18-month threshold.","spans":[{"start":28,"end":37,"label":"AGE_ONSET"}]}
+{"text":"The patient had first symptoms at 18-month of age.","spans":[{"start":31,"end":40,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A clinical diagnosis was made at the 18-month milestone.","spans":[{"start":34,"end":43,"label":"AGE_ONSET"}]}
+{"text":"Developmental delay started at the 18-month period.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 18-month, the girl was unable to sit unsupported.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":21,"label":"PATIENT"}]}
+{"text":"Initial symptoms were linked to the 18-month onset window.","spans":[{"start":35,"end":44,"label":"AGE_ONSET"}]}
+{"text":"The child developed symptoms during the 14-month period.","spans":[{"start":39,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, developmental delays began to appear.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The 14-month mark coincided with early signs of weakness.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"By 14-month, abnormal movements had already emerged.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Seizures were observed at the 14-month milestone.","spans":[{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The patient began regressing at 14-month of age.","spans":[{"start":31,"end":40,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Onset of neurological decline started at 14-month.","spans":[{"start":40,"end":49,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, the girl showed no language development.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":21,"label":"PATIENT"}]}
+{"text":"The 14-month threshold marked the beginning of symptoms.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Initial clinical abnormalities appeared at the 14-month point.","spans":[{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"The 31/2 months point was critical for symptom recognition.","spans":[{"start":4,"end":16,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, the patient exhibited tremors and hypotonia.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"Onset of symptoms occurred at 31/2 months of age.","spans":[{"start":29,"end":41,"label":"AGE_ONSET"}]}
+{"text":"By 31/2 months, clear neurological deficits were recorded.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"Developmental milestones were missed after 31/2 months.","spans":[{"start":38,"end":50,"label":"AGE_ONSET"}]}
+{"text":"Seizures began during the 31/2 months window.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, parents noticed poor head control.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"Symptoms became evident around 31/2 months.","spans":[{"start":31,"end":43,"label":"AGE_ONSET"}]}
+{"text":"Onset was suspected near the 31/2 months mark.","spans":[{"start":28,"end":40,"label":"AGE_ONSET"}]}
+{"text":"Regression was observed by 31/2 months.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The 31/2 month age marked the beginning of symptoms.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 month, motor skills had not progressed normally.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Seizure activity emerged at the 31/2 month mark.","spans":[{"start":29,"end":40,"label":"AGE_ONSET"}]}
+{"text":"The child started showing signs by 31/2 month.","spans":[{"start":32,"end":43,"label":"AGE_ONSET"},{"start":4,"end":9,"label":"PATIENT"}]}
+{"text":"Onset occurred around 31/2 month in this patient.","spans":[{"start":22,"end":33,"label":"AGE_ONSET"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"By 31/2 month, weakness in the limbs became noticeable.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The 31/2 month milestone was linked to regression.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 month, hypotonia was clinically diagnosed.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Signs of decline were noticed after 31/2 month.","spans":[{"start":33,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 month, the girl had not achieved head control.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":23,"label":"PATIENT"}]}
+{"text":"The 80-year-old male presented with an 18-month history of symptoms.","spans":[{"start":4,"end":16,"label":"AGE_ONSET"}]}
+{"text":"At 80-year-old, the patient began experiencing memory loss.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"The 80-year-old age corresponded with symptom onset.","spans":[{"start":4,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Onset of symptoms occurred when he was 80-year-old.","spans":[{"start":38,"end":50,"label":"AGE_ONSET"}]}
+{"text":"By 80-year-old, clinical signs of parkinsonism had developed.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At 80-year-old, the woman exhibited new-onset seizures.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":20,"end":25,"label":"PATIENT"}]}
+{"text":"The patient began declining around the 80-year-old point.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Initial neurological symptoms started at 80-year-old.","spans":[{"start":39,"end":51,"label":"AGE_ONSET"}]}
+{"text":"At 80-year-old, dementia symptoms were first noticed.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"Onset at 80-year-old was accompanied by confusion and gait changes.","spans":[{"start":8,"end":20,"label":"AGE_ONSET"}]}
+{"text":"Symptoms first appeared during the patient's forties.","spans":[{"start":39,"end":46,"label":"AGE_ONSET"},{"start":29,"end":37,"label":"PATIENT"}]}
+{"text":"In her forties, the woman began showing cognitive decline.","spans":[{"start":6,"end":13,"label":"AGE_ONSET"},{"start":17,"end":22,"label":"PATIENT"}]}
+{"text":"The forties marked the onset of neurological symptoms.","spans":[{"start":4,"end":11,"label":"AGE_ONSET"}]}
+{"text":"At some point in his forties, gait abnormalities began.","spans":[{"start":21,"end":28,"label":"AGE_ONSET"},{"start":15,"end":18,"label":"PATIENT"}]}
+{"text":"During the forties, early signs of parkinsonism developed.","spans":[{"start":11,"end":18,"label":"AGE_ONSET"}]}
+{"text":"By the forties, seizures and memory issues had emerged.","spans":[{"start":7,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Clinical deterioration started in the patient’s forties.","spans":[{"start":38,"end":45,"label":"AGE_ONSET"},{"start":28,"end":36,"label":"PATIENT"}]}
+{"text":"The patient entered his forties with a history of tremors.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":30,"label":"AGE_ONSET"}]}
+{"text":"Forties onset was associated with behavioral decline.","spans":[{"start":0,"end":7,"label":"AGE_ONSET"}]}
+{"text":"At the beginning of his forties, symptoms became apparent.","spans":[{"start":23,"end":30,"label":"AGE_ONSET"}]}
+{"text":"The patient presented with a 5-year history of seizures.","spans":[{"start":26,"end":43,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 5-year history of motor regression led to diagnosis.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"She had a 5-year history of declining cognition.","spans":[{"start":9,"end":26,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The 5-year history suggested early-onset mitochondrial disorder.","spans":[{"start":4,"end":21,"label":"AGE_ONSET"}]}
+{"text":"At evaluation, a 5-year history of ataxia was noted.","spans":[{"start":15,"end":32,"label":"AGE_ONSET"}]}
+{"text":"By the time of diagnosis, a 5-year history was reported.","spans":[{"start":28,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The girl's symptoms were consistent with a 5-year history.","spans":[{"start":42,"end":59,"label":"AGE_ONSET"},{"start":4,"end":9,"label":"PATIENT"}]}
+{"text":"A 5-year history indicated progressive neurological decline.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The clinical course reflected a 5-year history of decline.","spans":[{"start":30,"end":47,"label":"AGE_ONSET"}]}
+{"text":"There was a 5-year history of gait disturbance in this case.","spans":[{"start":11,"end":28,"label":"AGE_ONSET"}]}
+{"text":"The patient reported a 3-year history of weakness.","spans":[{"start":23,"end":40,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3-year history of seizures prompted genetic testing.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"She had a 3-year history of progressive cognitive symptoms.","spans":[{"start":9,"end":26,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The diagnosis followed a 3-year history of coordination loss.","spans":[{"start":23,"end":40,"label":"AGE_ONSET"}]}
+{"text":"A 3-year history was noted during clinical evaluation.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The 3-year history corresponded with visual disturbance.","spans":[{"start":4,"end":21,"label":"AGE_ONSET"}]}
+{"text":"Based on the 3-year history, mitochondrial disease was suspected.","spans":[{"start":13,"end":30,"label":"AGE_ONSET"}]}
+{"text":"The boy presented with a 3-year history of ataxia.","spans":[{"start":28,"end":45,"label":"AGE_ONSET"},{"start":4,"end":7,"label":"PATIENT"}]}
+{"text":"Symptoms aligned with a 3-year history in this individual.","spans":[{"start":25,"end":42,"label":"AGE_ONSET"}]}
+{"text":"A 3-year history of neurological signs was described.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The patient had a 10-year history of progressive ataxia.","spans":[{"start":19,"end":37,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 10-year history preceded the diagnosis of epilepsy.","spans":[{"start":0,"end":18,"label":"AGE_ONSET"}]}
+{"text":"There was a 10-year history of weakness and tremor.","spans":[{"start":11,"end":29,"label":"AGE_ONSET"}]}
+{"text":"Clinical decline matched a 10-year history timeline.","spans":[{"start":25,"end":43,"label":"AGE_ONSET"}]}
+{"text":"A 10-year history of symptoms was documented in records.","spans":[{"start":0,"end":18,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began after a 10-year history of mild tremors.","spans":[{"start":22,"end":40,"label":"AGE_ONSET"}]}
+{"text":"The patient described a 10-year history of memory issues.","spans":[{"start":24,"end":42,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"By the 10-year history point, symptoms were severe.","spans":[{"start":7,"end":25,"label":"AGE_ONSET"}]}
+{"text":"Initial onset matched a 10-year history of symptoms.","spans":[{"start":21,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The boy had a 10-year history of neurodegeneration.","spans":[{"start":12,"end":30,"label":"AGE_ONSET"},{"start":4,"end":7,"label":"PATIENT"}]}
+{"text":"An eight year history of seizures was documented at admission.","spans":[{"start":3,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The patient had an eight year history of motor symptoms.","spans":[{"start":20,"end":38,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"She presented with an eight year history of cognitive decline.","spans":[{"start":25,"end":43,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"Neurological signs followed an eight year history of regression.","spans":[{"start":30,"end":48,"label":"AGE_ONSET"}]}
+{"text":"An eight year history was confirmed during review.","spans":[{"start":3,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The eight year history aligned with symptom progression.","spans":[{"start":4,"end":22,"label":"AGE_ONSET"}]}
+{"text":"The girl had an eight year history of declining coordination.","spans":[{"start":17,"end":35,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"Onset of symptoms matched an eight year history timeline.","spans":[{"start":29,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Based on an eight year history, disease onset was dated.","spans":[{"start":12,"end":30,"label":"AGE_ONSET"}]}
+{"text":"An eight year history of tremors prompted genetic testing.","spans":[{"start":3,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The patient experienced symptoms over the past ten years.","spans":[{"start":41,"end":56,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Symptoms had progressed steadily for the past ten years.","spans":[{"start":38,"end":53,"label":"AGE_ONSET"}]}
+{"text":"She had exhibited signs during the past ten years.","spans":[{"start":33,"end":48,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The past ten years were marked by neurological decline.","spans":[{"start":4,"end":19,"label":"AGE_ONSET"}]}
+{"text":"During the past ten years, seizures became more frequent.","spans":[{"start":11,"end":26,"label":"AGE_ONSET"}]}
+{"text":"At diagnosis, there was a past ten years history of tremor.","spans":[{"start":26,"end":41,"label":"AGE_ONSET"}]}
+{"text":"The clinical records confirmed a past ten years progression.","spans":[{"start":32,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Motor symptoms had been present for the past ten years.","spans":[{"start":38,"end":53,"label":"AGE_ONSET"}]}
+{"text":"The boy had experienced issues over the past ten years.","spans":[{"start":37,"end":52,"label":"AGE_ONSET"},{"start":4,"end":7,"label":"PATIENT"}]}
+{"text":"Signs of disease persisted throughout the past ten years.","spans":[{"start":37,"end":52,"label":"AGE_ONSET"}]}
+{"text":"Symptoms have been present for 10 years in this patient.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"},{"start":47,"end":54,"label":"PATIENT"}]}
+{"text":"The patient reported symptoms present for 10 years.","spans":[{"start":35,"end":47,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Signs of ataxia were present for 10 years.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"}]}
+{"text":"He had been symptomatic, present for 10 years, without relief.","spans":[{"start":28,"end":40,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Present for 10 years, the symptoms gradually worsened.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The disease had been present for 10 years before diagnosis.","spans":[{"start":26,"end":38,"label":"AGE_ONSET"}]}
+{"text":"There was a history of weakness present for 10 years.","spans":[{"start":34,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were present for 10 years with progressive decline.","spans":[{"start":22,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Her neurological symptoms had been present for 10 years.","spans":[{"start":41,"end":53,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"Clinical evaluation noted symptoms present for 10 years.","spans":[{"start":38,"end":50,"label":"AGE_ONSET"}]}
+{"text":"The disorder had a course of 5 months before diagnosis.","spans":[{"start":26,"end":37,"label":"AGE_ONSET"}]}
+{"text":"He showed progressive symptoms of 5 months duration.","spans":[{"start":34,"end":45,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"The ataxia had been present for a period of 5 months.","spans":[{"start":40,"end":51,"label":"AGE_ONSET"}]}
+{"text":"A course of 5 months preceded seizure onset.","spans":[{"start":10,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The patient experienced vision loss over a span of 5 months.","spans":[{"start":47,"end":58,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Of 5 months duration, the weakness slowly progressed.","spans":[{"start":0,"end":11,"label":"AGE_ONSET"}]}
+{"text":"At the time of assessment, symptoms had lasted of 5 months.","spans":[{"start":45,"end":56,"label":"AGE_ONSET"}]}
+{"text":"Neurological decline evolved over a period of 5 months.","spans":[{"start":36,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Of 5 months, the disorder remained undiagnosed.","spans":[{"start":0,"end":11,"label":"AGE_ONSET"}]}
+{"text":"She had suffered from epilepsy for a total of 5 months.","spans":[{"start":42,"end":53,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The initial symptoms had started 9 years prior to evaluation.","spans":[{"start":33,"end":46,"label":"AGE_ONSET"}]}
+{"text":"He had shown mild ataxia 9 years prior to this visit.","spans":[{"start":27,"end":40,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Symptoms first appeared 9 years prior to presentation.","spans":[{"start":24,"end":37,"label":"AGE_ONSET"}]}
+{"text":"A decline in cognition was noted 9 years prior.","spans":[{"start":34,"end":47,"label":"AGE_ONSET"}]}
+{"text":"The patient began deteriorating 9 years prior to diagnosis.","spans":[{"start":30,"end":43,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Nine years prior, he experienced balance disturbances.","spans":[{"start":0,"end":15,"label":"AGE_ONSET"},{"start":16,"end":18,"label":"PATIENT"}]}
+{"text":"A clinical history confirmed symptoms 9 years prior.","spans":[{"start":37,"end":50,"label":"AGE_ONSET"}]}
+{"text":"There had been progressive symptoms 9 years prior.","spans":[{"start":34,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Neurological issues started 9 years prior to assessment.","spans":[{"start":28,"end":41,"label":"AGE_ONSET"}]}
+{"text":"He had a record of visual loss 9 years prior.","spans":[{"start":34,"end":47,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Infantile-onset seizures were the first clinical manifestation.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The diagnosis was consistent with infantile-onset symptoms.","spans":[{"start":35,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Patient presented with infantile-onset of encephalopathy.","spans":[{"start":24,"end":40,"label":"AGE_ONSET"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"Infantile-onset disorder was suspected based on history.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"A case of infantile-onset tremors was reported.","spans":[{"start":9,"end":25,"label":"AGE_ONSET"}]}
+{"text":"She had been diagnosed with infantile-onset mitochondrial disease.","spans":[{"start":29,"end":45,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"Infantile-onset symptoms were supported by genetic evidence.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Ataxia was linked to an infantile-onset presentation.","spans":[{"start":24,"end":40,"label":"AGE_ONSET"}]}
+{"text":"He exhibited signs consistent with infantile-onset.","spans":[{"start":35,"end":51,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Infantile-onset phenotype was confirmed by clinicians.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The patient began showing symptoms during primary school years.","spans":[{"start":42,"end":56,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"At primary school age, early signs of ataxia were noted.","spans":[{"start":3,"end":17,"label":"AGE_ONSET"}]}
+{"text":"Clinical decline was first observed while in primary school.","spans":[{"start":40,"end":54,"label":"AGE_ONSET"}]}
+{"text":"She developed motor issues around primary school.","spans":[{"start":34,"end":48,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The disorder manifested during the primary school period.","spans":[{"start":33,"end":47,"label":"AGE_ONSET"}]}
+{"text":"During primary school, the boy experienced visual loss.","spans":[{"start":7,"end":21,"label":"AGE_ONSET"},{"start":26,"end":29,"label":"PATIENT"}]}
+{"text":"Initial symptoms began to appear at primary school age.","spans":[{"start":34,"end":48,"label":"AGE_ONSET"}]}
+{"text":"The child’s difficulties were traced back to primary school.","spans":[{"start":43,"end":57,"label":"AGE_ONSET"},{"start":4,"end":10,"label":"PATIENT"}]}
+{"text":"At the time of primary school, seizures had already emerged.","spans":[{"start":15,"end":29,"label":"AGE_ONSET"}]}
+{"text":"The onset of symptoms coincided with primary school attendance.","spans":[{"start":33,"end":47,"label":"AGE_ONSET"}]}
+{"text":"At the age of ﬁve, the patient experienced seizures.","spans":[{"start":15,"end":19,"label":"AGE_ONSET"},{"start":25,"end":32,"label":"PATIENT"}]}
+{"text":"The onset of symptoms occurred at ﬁve.","spans":[{"start":35,"end":39,"label":"AGE_ONSET"}]}
+{"text":"Clinical presentation began in the patient at five.","spans":[{"start":33,"end":40,"label":"PATIENT"},{"start":44,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At five years old, the child began to lose coordination.","spans":[{"start":3,"end":7,"label":"AGE_ONSET"},{"start":23,"end":28,"label":"PATIENT"}]}
+{"text":"The patient began experiencing symptoms at 22.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Symptoms emerged in the patient around age 22.","spans":[{"start":24,"end":31,"label":"PATIENT"},{"start":44,"end":46,"label":"AGE_ONSET"}]}
+{"text":"By the age of 22, the patient had developed gait disturbances.","spans":[{"start":12,"end":14,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"At 22 years old, she began experiencing episodes of fainting.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Neurological symptoms became apparent when the child was 22.","spans":[{"start":43,"end":48,"label":"PATIENT"},{"start":52,"end":54,"label":"AGE_ONSET"}]}
+{"text":"Clinical signs were first reported at the age of 22.","spans":[{"start":39,"end":41,"label":"AGE_ONSET"}]}
+{"text":"He showed progressive weakness that began when he was 22.","spans":[{"start":49,"end":51,"label":"AGE_ONSET"}]}
+{"text":"At 22, the man experienced sudden loss of coordination.","spans":[{"start":3,"end":5,"label":"AGE_ONSET"}]}
+{"text":"Muscle pain and fatigue presented at 22 years.","spans":[{"start":34,"end":36,"label":"AGE_ONSET"}]}
+{"text":"Onset of epilepsy occurred in the patient at 22.","spans":[{"start":36,"end":43,"label":"PATIENT"},{"start":47,"end":49,"label":"AGE_ONSET"}]}
+{"text":"She began losing motor control at 18-month.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Motor symptoms started in the patient around 18-month.","spans":[{"start":30,"end":37,"label":"PATIENT"},{"start":45,"end":53,"label":"AGE_ONSET"}]}
+{"text":"By 18-month of age, he showed clear signs of hypotonia.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Developmental regression began when the boy was 18-month.","spans":[{"start":36,"end":39,"label":"PATIENT"},{"start":44,"end":52,"label":"AGE_ONSET"}]}
+{"text":"Signs of dysfunction appeared in the child by 18-month.","spans":[{"start":36,"end":41,"label":"PATIENT"},{"start":45,"end":53,"label":"AGE_ONSET"}]}
+{"text":"At 18-month, seizures and ataxia became evident.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Neurological findings were noted at 18-month of age.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The infant began to lose coordination around 18-month.","spans":[{"start":40,"end":48,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were first detected at 18-month in the girl.","spans":[{"start":31,"end":39,"label":"AGE_ONSET"},{"start":47,"end":51,"label":"PATIENT"}]}
+{"text":"Early developmental issues arose by 18-month.","spans":[{"start":33,"end":41,"label":"AGE_ONSET"}]}
+{"text":"The child experienced convulsions starting at 2 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":44,"end":52,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the boy displayed muscle weakness.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"},{"start":15,"end":18,"label":"PATIENT"}]}
+{"text":"By 2 months of age, early signs of epilepsy were observed.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"Muscle tone abnormalities were noticed at 2 months.","spans":[{"start":41,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Onset of ataxia occurred when the patient was 2 months old.","spans":[{"start":36,"end":43,"label":"PATIENT"},{"start":48,"end":56,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the infant began to show signs of hypotonia.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The patient’s first symptoms emerged at 2 months.","spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":40,"end":48,"label":"AGE_ONSET"}]}
+{"text":"He had difficulties feeding since 2 months old.","spans":[{"start":33,"end":41,"label":"AGE_ONSET"}]}
+{"text":"Seizure activity began at just 2 months.","spans":[{"start":30,"end":38,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, severe vomiting and muscle tone changes occurred.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The patient presented with a 5-year history of myoclonus.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":31,"end":48,"label":"AGE_ONSET"}]}
+{"text":"A 5-year history of seizures was noted in the male patient.","spans":[{"start":2,"end":19,"label":"AGE_ONSET"},{"start":43,"end":57,"label":"PATIENT"}]}
+{"text":"Symptoms started with a 5-year history of limb tremors.","spans":[{"start":25,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The woman reported a 5-year history of neurologic decline.","spans":[{"start":21,"end":38,"label":"AGE_ONSET"}]}
+{"text":"He was experiencing a 5-year history of episodic headaches.","spans":[{"start":24,"end":41,"label":"AGE_ONSET"}]}
+{"text":"A 5-year history was documented in the patient.","spans":[{"start":2,"end":19,"label":"AGE_ONSET"},{"start":40,"end":47,"label":"PATIENT"}]}
+{"text":"She had developed a 5-year history of motor regression.","spans":[{"start":21,"end":38,"label":"AGE_ONSET"}]}
+{"text":"Neurological issues followed a 5-year history of deterioration.","spans":[{"start":28,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The child exhibited a 5-year history of behavioral changes.","spans":[{"start":24,"end":41,"label":"AGE_ONSET"},{"start":4,"end":9,"label":"PATIENT"}]}
+{"text":"Initial episodes coincided with a 5-year history.","spans":[{"start":32,"end":49,"label":"AGE_ONSET"}]}
+{"text":"He showed signs of epilepsy after a duration of 5 months.","spans":[{"start":41,"end":52,"label":"AGE_ONSET"}]}
+{"text":"The girl had a documented history of 5 months of tremors.","spans":[{"start":35,"end":44,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"Clinical deterioration occurred after 5 months of symptoms.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"There was a report of 5 months of seizure onset.","spans":[{"start":21,"end":30,"label":"AGE_ONSET"}]}
+{"text":"Progressive loss of motor skills began after 5 months.","spans":[{"start":43,"end":52,"label":"AGE_ONSET"}]}
+{"text":"At 5 months of progression, the boy developed dystonia.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":31,"end":34,"label":"PATIENT"}]}
+{"text":"The patient had experienced 5 months of abnormal findings.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"5 months after symptom onset, the woman showed head tremors.","spans":[{"start":0,"end":9,"label":"AGE_ONSET"}]}
+{"text":"He reported a course of 5 months before seizure activity.","spans":[{"start":25,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Initial symptoms were reported after about 5 months.","spans":[{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, the patient showed loss of developmental milestones.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"},{"start":15,"end":22,"label":"PATIENT"}]}
+{"text":"By 30 months, she exhibited frequent myoclonic jerks.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The child’s symptoms began at 30 months.","spans":[{"start":30,"end":40,"label":"AGE_ONSET"},{"start":4,"end":10,"label":"PATIENT"}]}
+{"text":"He developed hypotonia around 30 months of age.","spans":[{"start":29,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, abnormal EEG patterns were recorded.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"The girl’s balance issues started at 30 months.","spans":[{"start":34,"end":44,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"30 months marked the emergence of seizures in the patient.","spans":[{"start":0,"end":10,"label":"AGE_ONSET"},{"start":47,"end":54,"label":"PATIENT"}]}
+{"text":"Initial signs of trouble were evident at 30 months.","spans":[{"start":40,"end":50,"label":"AGE_ONSET"}]}
+{"text":"At 30 months, dystonia became more pronounced.","spans":[{"start":3,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Delayed milestones were observed beginning at 30 months.","spans":[{"start":42,"end":52,"label":"AGE_ONSET"}]}
+{"text": "The patient began to show symptoms at age 2.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 38, "end": 39, "label": "AGE_ONSET"}]}
+{"text": "Symptoms were first observed in the child at 2 years.", "spans": [{"start": 37, "end": 42, "label": "PATIENT"}, {"start": 46, "end": 47, "label": "AGE_ONSET"}]}
+{"text": "By 2, signs of motor delay became noticeable in the boy.", "spans": [{"start": 3, "end": 4, "label": "AGE_ONSET"}, {"start": 54, "end": 57, "label": "PATIENT"}]}
+{"text": "The boy started walking abnormally at 2.", "spans": [{"start": 4, "end": 7, "label": "PATIENT"}, {"start": 37, "end": 38, "label": "AGE_ONSET"}]}
+{"text": "At the age of 2, the patient exhibited tremors.", "spans": [{"start": 15, "end": 16, "label": "AGE_ONSET"}, {"start": 22, "end": 29, "label": "PATIENT"}]}
+{"text": "Initial clinical signs emerged when the child was 2.", "spans": [{"start": 37, "end": 42, "label": "PATIENT"}, {"start": 47, "end": 48, "label": "AGE_ONSET"}]}
+{"text": "At 2, tremors and rigidity were noted in the girl.", "spans": [{"start": 3, "end": 4, "label": "AGE_ONSET"}, {"start": 50, "end": 54, "label": "PATIENT"}]}
+{"text": "The patient showed early signs of disease at age 2.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 47, "end": 48, "label": "AGE_ONSET"}]}
+{"text": "Clinical evaluation at age 2 revealed abnormal reflexes.", "spans": [{"start": 25, "end": 26, "label": "AGE_ONSET"}]}
+{"text": "Muscle weakness was documented in a 2-year-old patient.", "spans": [{"start": 34, "end": 45, "label": "AGE_ONSET"}, {"start": 46, "end": 53, "label": "PATIENT"}]}
+{"text": "The patient reported symptoms present for 10 years.", "spans": [{"start": 4, "end": 11, "label": "PATIENT"}, {"start": 30, "end": 49, "label": "AGE_ONSET"}]}
+{"text": "Clinical signs had been present for 10 years before diagnosis.", "spans": [{"start": 24, "end": 43, "label": "AGE_ONSET"}]}
+{"text": "Neurological deficits were present for 10 years in the patient.", "spans": [{"start": 30, "end": 49, "label": "AGE_ONSET"}, {"start": 57, "end": 64, "label": "PATIENT"}]}
+{"text": "Symptoms present for 10 years suggested long-term disease.", "spans": [{"start": 9, "end": 28, "label": "AGE_ONSET"}]}
+{"text": "Patient had complaints that had been present for 10 years.", "spans": [{"start": 0, "end": 7, "label": "PATIENT"}, {"start": 39, "end": 58, "label": "AGE_ONSET"}]}
+{"text": "At presentation, symptoms were present for 10 years.", "spans": [{"start": 27, "end": 46, "label": "AGE_ONSET"}]}
+{"text": "The boy’s condition had been present for 10 years.", "spans": [{"start": 4, "end": 8, "label": "PATIENT"}, {"start": 33, "end": 52, "label": "AGE_ONSET"}]}
+{"text": "There was a 10-year history of symptoms present.", "spans": [{"start": 12, "end": 27, "label": "AGE_ONSET"}]}
+{"text": "For 10 years, the child had motor impairments.", "spans": [{"start": 0, "end": 10, "label": "AGE_ONSET"}, {"start": 16, "end": 21, "label": "PATIENT"}]}
+{"text": "A 10-year disease history was reported by the girl.", "spans": [{"start": 2, "end": 22, "label": "AGE_ONSET"}, {"start": 45, "end": 49, "label": "PATIENT"}]}
+{"text":"The 80-year-old-man presented with a 7-year history of cognitive decline.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":38,"end":53,"label":"AGE_ONSET"}]}
+{"text":"An 80-year-old-man was reported to have a 7-year history of symptoms.","spans":[{"start":3,"end":22,"label":"PATIENT"},{"start":39,"end":54,"label":"AGE_ONSET"}]}
+{"text":"The man aged 80 presented with a 7-year history of disease progression.","spans":[{"start":4,"end":12,"label":"PATIENT"},{"start":37,"end":52,"label":"AGE_ONSET"}]}
+{"text":"A patient, 80 years old, had a 7-year history of behavioral issues.","spans":[{"start":2,"end":9,"label":"PATIENT"},{"start":28,"end":43,"label":"AGE_ONSET"}]}
+{"text":"With a 7-year history, the 80-year-old-man presented with visual symptoms.","spans":[{"start":5,"end":23,"label":"AGE_ONSET"},{"start":30,"end":49,"label":"PATIENT"}]}
+{"text":"The 80-year-old-man experienced a 7-year history before diagnosis.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":36,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were reported in the 80-year-old-man after a 7-year history.","spans":[{"start":30,"end":49,"label":"PATIENT"},{"start":56,"end":71,"label":"AGE_ONSET"}]}
+{"text":"The 80-year-old-man had a 7-year history of movement difficulties.","spans":[{"start":4,"end":23,"label":"PATIENT"},{"start":32,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Following a 7-year history, the 80-year-old-man showed motor deficits.","spans":[{"start":9,"end":24,"label":"AGE_ONSET"},{"start":31,"end":50,"label":"PATIENT"}]}
+{"text":"A 7-year history preceded symptoms in the 80-year-old-man.","spans":[{"start":2,"end":17,"label":"AGE_ONSET"},{"start":43,"end":62,"label":"PATIENT"}]}
+{"text":"Symptoms began at 3.5 months in the reported case.","spans":[{"start":20,"end":31,"label":"AGE_ONSET"}]}
+{"text":"At 3.5 months, the patient showed abnormal responses.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"The disorder was detected when the child was 3.5 months old.","spans":[{"start":44,"end":55,"label":"AGE_ONSET"},{"start":33,"end":38,"label":"PATIENT"}]}
+{"text":"Early signs were noted by 3.5 months of age.","spans":[{"start":25,"end":36,"label":"AGE_ONSET"}]}
+{"text":"Clinical evaluation at 3.5 months revealed no abnormalities.","spans":[{"start":24,"end":35,"label":"AGE_ONSET"}]}
+{"text":"If onset occurred around 3.5 months, genetic testing followed.","spans":[{"start":26,"end":37,"label":"AGE_ONSET"}]}
+{"text":"The patient experienced seizure onset at 3.5 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":43,"end":54,"label":"AGE_ONSET"}]}
+{"text":"At 3.5 months, developmental delays were already evident.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"During the 3.5 months period, symptoms first emerged.","spans":[{"start":11,"end":22,"label":"AGE_ONSET"}]}
+{"text":"The case showed motor regression at 3.5 months.","spans":[{"start":36,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Clinical symptoms started at 6 months in the infant.","spans":[{"start":27,"end":36,"label":"AGE_ONSET"}]}
+{"text":"By 6 months, the child exhibited notable tremors.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":16,"end":21,"label":"PATIENT"}]}
+{"text":"The 6 months mark corresponded to disease onset.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Symptoms had been present since 6 months of age.","spans":[{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 6 months, brain imaging revealed abnormalities.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The child developed visual impairment by 6 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":40,"end":49,"label":"AGE_ONSET"}]}
+{"text":"Initial evaluation was done around 6 months.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 6 months, the patient showed no verbal response.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"The disorder manifested at 6 months in this boy.","spans":[{"start":27,"end":36,"label":"AGE_ONSET"},{"start":40,"end":43,"label":"PATIENT"}]}
+{"text":"Within the first 6 months, symptoms became apparent.","spans":[{"start":17,"end":26,"label":"AGE_ONSET"}]}
+{"text":"At 9 months, initial symptoms of weakness were noted.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The girl began seizing at 9 months of age.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":23,"end":32,"label":"AGE_ONSET"}]}
+{"text":"Around 9 months, a regression in motor skills was observed.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Initial decline in development started at 9 months.","spans":[{"start":42,"end":51,"label":"AGE_ONSET"}]}
+{"text":"The patient showed no response after 9 months.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 9 months, doctors detected muscle hypotonia.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Symptoms became severe beyond 9 months of age.","spans":[{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 9 months, the patient displayed decreased alertness.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"The boy showed developmental delay by 9 months.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":37,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Diagnosis was confirmed at 9 months in this case.","spans":[{"start":26,"end":35,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, weakness in limbs was noticed.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Muscle tone began to decline at 4 months of age.","spans":[{"start":32,"end":41,"label":"AGE_ONSET"}]}
+{"text":"By 4 months, signs of ataxia were recorded.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The child presented with seizures at 4 months.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":39,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, clinical abnormalities were reported.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The 4 months timepoint coincided with symptom onset.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, an MRI indicated structural changes.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Developmental regression began around 4 months.","spans":[{"start":35,"end":44,"label":"AGE_ONSET"}]}
+{"text":"This girl developed visual impairment by 4 months.","spans":[{"start":5,"end":9,"label":"PATIENT"},{"start":42,"end":51,"label":"AGE_ONSET"}]}
+{"text":"The patient was evaluated at 4 months of age.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"By four months, signs of seizures had appeared.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The four months stage marked the beginning of symptoms.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At four months, early hypotonia was identified.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The infant had seizures by four months of age.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":29,"end":40,"label":"AGE_ONSET"}]}
+{"text":"During four months, the patient showed abnormal EEGs.","spans":[{"start":7,"end":18,"label":"AGE_ONSET"},{"start":24,"end":31,"label":"PATIENT"}]}
+{"text":"At four months, diagnostic imaging showed brain changes.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred roughly at four months in this boy.","spans":[{"start":26,"end":37,"label":"AGE_ONSET"},{"start":41,"end":44,"label":"PATIENT"}]}
+{"text":"The child presented at four months with motor symptoms.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":21,"end":32,"label":"AGE_ONSET"}]}
+{"text":"The 4-month checkup revealed early signs of hypotonia.","spans":[{"start":4,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began to emerge during the 4-month period.","spans":[{"start":34,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At the 4-month stage, the patient exhibited seizures.","spans":[{"start":7,"end":15,"label":"AGE_ONSET"},{"start":21,"end":28,"label":"PATIENT"}]}
+{"text":"The girl presented with ataxia at the 4-month age mark.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":38,"end":46,"label":"AGE_ONSET"}]}
+{"text":"By 4-month, early motor decline was already visible.","spans":[{"start":3,"end":11,"label":"AGE_ONSET"}]}
+{"text":"The diagnosis was first suspected at the 4-month visit.","spans":[{"start":36,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At the 4-month point, the patient showed no response.","spans":[{"start":7,"end":15,"label":"AGE_ONSET"},{"start":21,"end":28,"label":"PATIENT"}]}
+{"text":"If onset occurred around 4-month, genetic testing followed.","spans":[{"start":26,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Seizures started at the 4-month evaluation.","spans":[{"start":22,"end":30,"label":"AGE_ONSET"}]}
+{"text":"During the 4-month interval, developmental delay appeared.","spans":[{"start":11,"end":19,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, the patient developed limb weakness.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"Seizures began at 4 months in the reported case.","spans":[{"start":17,"end":26,"label":"AGE_ONSET"}]}
+{"text":"The infant showed no reflexes by 4 months of age.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":34,"end":43,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, abnormalities in eye movement were noted.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The 4 months mark corresponded to symptom onset.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"By 4 months, the patient had developed seizures.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"The boy was unresponsive after 4 months of age.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":31,"end":40,"label":"AGE_ONSET"}]}
+{"text":"At 4 months, motor regression was first recognized.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"By the age of 4 months, symptoms had worsened.","spans":[{"start":15,"end":24,"label":"AGE_ONSET"}]}
+{"text":"Onset was suspected at 4 months during evaluation.","spans":[{"start":24,"end":33,"label":"AGE_ONSET"}]}
+{"text":"The condition first appeared at 2 months of age.","spans":[{"start":29,"end":38,"label":"AGE_ONSET"}]}
+{"text":"At 2 months, the patient had difficulty feeding.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":24,"label":"PATIENT"}]}
+{"text":"By 2 months, the child displayed reduced movement.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":22,"label":"PATIENT"}]}
+{"text":"Clinical signs emerged at 2 months in this case.","spans":[{"start":25,"end":34,"label":"AGE_ONSET"}]}
+{"text":"At the 2 months mark, alertness decreased.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The infant became hypotonic by 2 months.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":29,"end":38,"label":"AGE_ONSET"}]}
+{"text":"Around 2 months, symptoms such as tremor were recorded.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred at 2 months in the reported boy.","spans":[{"start":18,"end":27,"label":"AGE_ONSET"},{"start":44,"end":47,"label":"PATIENT"}]}
+{"text":"Neurological issues started around 2 months.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Developmental regression began at 2 months.","spans":[{"start":32,"end":41,"label":"AGE_ONSET"}]}
+{"text":"By 16 months, the patient had developed seizures.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"At 16 months, loss of motor function was evident.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The child showed ataxia by 16 months of age.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":31,"end":42,"label":"AGE_ONSET"}]}
+{"text":"Seizure onset was recorded at 16 months.","spans":[{"start":30,"end":41,"label":"AGE_ONSET"}]}
+{"text":"At 16 months, symptoms became more pronounced.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The boy developed hypotonia around 16 months.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":35,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Motor delay was documented at 16 months.","spans":[{"start":30,"end":41,"label":"AGE_ONSET"}]}
+{"text":"During 16 months, feeding issues were observed.","spans":[{"start":7,"end":18,"label":"AGE_ONSET"}]}
+{"text":"At 16 months, MRI revealed brain atrophy.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Onset of developmental regression occurred by 16 months.","spans":[{"start":42,"end":53,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, the child had difficulty walking.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":24,"label":"PATIENT"}]}
+{"text":"Seizures began at 18 months in this case.","spans":[{"start":17,"end":28,"label":"AGE_ONSET"}]}
+{"text":"The 18 months timepoint aligned with onset.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"By 18 months, developmental delay was evident.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, the patient was non-verbal.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":26,"label":"PATIENT"}]}
+{"text":"Motor milestones were missed by 18 months.","spans":[{"start":31,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The infant showed poor balance at 18 months.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":35,"end":46,"label":"AGE_ONSET"}]}
+{"text":"At 18 months, clinicians observed tremors.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Cognitive decline began around 18 months.","spans":[{"start":30,"end":41,"label":"AGE_ONSET"}]}
+{"text":"The boy exhibited head lag at 18 months.","spans":[{"start":4,"end":7,"label":"PATIENT"},{"start":31,"end":42,"label":"AGE_ONSET"}]}
+{"text":"The child began showing symptoms at the 18-month mark.","spans":[{"start":39,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At the 18-month point, motor regression became apparent.","spans":[{"start":7,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Seizure activity was first noted around the 18-month stage.","spans":[{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"By 18-month, signs of hypotonia had already emerged.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Onset occurred clearly at the 18-month threshold.","spans":[{"start":28,"end":37,"label":"AGE_ONSET"}]}
+{"text":"The patient had first symptoms at 18-month of age.","spans":[{"start":31,"end":40,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A clinical diagnosis was made at the 18-month milestone.","spans":[{"start":34,"end":43,"label":"AGE_ONSET"}]}
+{"text":"Developmental delay started at the 18-month period.","spans":[{"start":33,"end":42,"label":"AGE_ONSET"}]}
+{"text":"At 18-month, the girl was unable to sit unsupported.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":21,"label":"PATIENT"}]}
+{"text":"Initial symptoms were linked to the 18-month onset window.","spans":[{"start":35,"end":44,"label":"AGE_ONSET"}]}
+{"text":"The child developed symptoms during the 14-month period.","spans":[{"start":39,"end":48,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, developmental delays began to appear.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"The 14-month mark coincided with early signs of weakness.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"By 14-month, abnormal movements had already emerged.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"}]}
+{"text":"Seizures were observed at the 14-month milestone.","spans":[{"start":30,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The patient began regressing at 14-month of age.","spans":[{"start":31,"end":40,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Onset of neurological decline started at 14-month.","spans":[{"start":40,"end":49,"label":"AGE_ONSET"}]}
+{"text":"At 14-month, the girl showed no language development.","spans":[{"start":3,"end":12,"label":"AGE_ONSET"},{"start":17,"end":21,"label":"PATIENT"}]}
+{"text":"The 14-month threshold marked the beginning of symptoms.","spans":[{"start":4,"end":13,"label":"AGE_ONSET"}]}
+{"text":"Initial clinical abnormalities appeared at the 14-month point.","spans":[{"start":41,"end":50,"label":"AGE_ONSET"}]}
+{"text":"The 31/2 months point was critical for symptom recognition.","spans":[{"start":4,"end":16,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, the patient exhibited tremors and hypotonia.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"Onset of symptoms occurred at 31/2 months of age.","spans":[{"start":29,"end":41,"label":"AGE_ONSET"}]}
+{"text":"By 31/2 months, clear neurological deficits were recorded.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"Developmental milestones were missed after 31/2 months.","spans":[{"start":38,"end":50,"label":"AGE_ONSET"}]}
+{"text":"Seizures began during the 31/2 months window.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 months, parents noticed poor head control.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"Symptoms became evident around 31/2 months.","spans":[{"start":31,"end":43,"label":"AGE_ONSET"}]}
+{"text":"Onset was suspected near the 31/2 months mark.","spans":[{"start":28,"end":40,"label":"AGE_ONSET"}]}
+{"text":"Regression was observed by 31/2 months.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The 31/2 month age marked the beginning of symptoms.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 month, motor skills had not progressed normally.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Seizure activity emerged at the 31/2 month mark.","spans":[{"start":29,"end":40,"label":"AGE_ONSET"}]}
+{"text":"The child started showing signs by 31/2 month.","spans":[{"start":32,"end":43,"label":"AGE_ONSET"},{"start":4,"end":9,"label":"PATIENT"}]}
+{"text":"Onset occurred around 31/2 month in this patient.","spans":[{"start":22,"end":33,"label":"AGE_ONSET"},{"start":38,"end":45,"label":"PATIENT"}]}
+{"text":"By 31/2 month, weakness in the limbs became noticeable.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"The 31/2 month milestone was linked to regression.","spans":[{"start":4,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 month, hypotonia was clinically diagnosed.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Signs of decline were noticed after 31/2 month.","spans":[{"start":33,"end":44,"label":"AGE_ONSET"}]}
+{"text":"At 31/2 month, the girl had not achieved head control.","spans":[{"start":3,"end":14,"label":"AGE_ONSET"},{"start":19,"end":23,"label":"PATIENT"}]}
+{"text":"The 80-year-old male presented with an 18-month history of symptoms.","spans":[{"start":4,"end":16,"label":"AGE_ONSET"}]}
+{"text":"At 80-year-old, the patient began experiencing memory loss.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":20,"end":27,"label":"PATIENT"}]}
+{"text":"The 80-year-old age corresponded with symptom onset.","spans":[{"start":4,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Onset of symptoms occurred when he was 80-year-old.","spans":[{"start":38,"end":50,"label":"AGE_ONSET"}]}
+{"text":"By 80-year-old, clinical signs of parkinsonism had developed.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"At 80-year-old, the woman exhibited new-onset seizures.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"},{"start":20,"end":25,"label":"PATIENT"}]}
+{"text":"The patient began declining around the 80-year-old point.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Initial neurological symptoms started at 80-year-old.","spans":[{"start":39,"end":51,"label":"AGE_ONSET"}]}
+{"text":"At 80-year-old, dementia symptoms were first noticed.","spans":[{"start":3,"end":15,"label":"AGE_ONSET"}]}
+{"text":"Onset at 80-year-old was accompanied by confusion and gait changes.","spans":[{"start":8,"end":20,"label":"AGE_ONSET"}]}
+{"text":"Symptoms first appeared during the patient's forties.","spans":[{"start":39,"end":46,"label":"AGE_ONSET"},{"start":29,"end":37,"label":"PATIENT"}]}
+{"text":"In her forties, the woman began showing cognitive decline.","spans":[{"start":6,"end":13,"label":"AGE_ONSET"},{"start":17,"end":22,"label":"PATIENT"}]}
+{"text":"The forties marked the onset of neurological symptoms.","spans":[{"start":4,"end":11,"label":"AGE_ONSET"}]}
+{"text":"At some point in his forties, gait abnormalities began.","spans":[{"start":21,"end":28,"label":"AGE_ONSET"},{"start":15,"end":18,"label":"PATIENT"}]}
+{"text":"During the forties, early signs of parkinsonism developed.","spans":[{"start":11,"end":18,"label":"AGE_ONSET"}]}
+{"text":"By the forties, seizures and memory issues had emerged.","spans":[{"start":7,"end":14,"label":"AGE_ONSET"}]}
+{"text":"Clinical deterioration started in the patient’s forties.","spans":[{"start":38,"end":45,"label":"AGE_ONSET"},{"start":28,"end":36,"label":"PATIENT"}]}
+{"text":"The patient entered his forties with a history of tremors.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":30,"label":"AGE_ONSET"}]}
+{"text":"Forties onset was associated with behavioral decline.","spans":[{"start":0,"end":7,"label":"AGE_ONSET"}]}
+{"text":"At the beginning of his forties, symptoms became apparent.","spans":[{"start":23,"end":30,"label":"AGE_ONSET"}]}
+{"text":"The patient presented with a 5-year history of seizures.","spans":[{"start":26,"end":43,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 5-year history of motor regression led to diagnosis.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"She had a 5-year history of declining cognition.","spans":[{"start":9,"end":26,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The 5-year history suggested early-onset mitochondrial disorder.","spans":[{"start":4,"end":21,"label":"AGE_ONSET"}]}
+{"text":"At evaluation, a 5-year history of ataxia was noted.","spans":[{"start":15,"end":32,"label":"AGE_ONSET"}]}
+{"text":"By the time of diagnosis, a 5-year history was reported.","spans":[{"start":28,"end":45,"label":"AGE_ONSET"}]}
+{"text":"The girl's symptoms were consistent with a 5-year history.","spans":[{"start":42,"end":59,"label":"AGE_ONSET"},{"start":4,"end":9,"label":"PATIENT"}]}
+{"text":"A 5-year history indicated progressive neurological decline.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The clinical course reflected a 5-year history of decline.","spans":[{"start":30,"end":47,"label":"AGE_ONSET"}]}
+{"text":"There was a 5-year history of gait disturbance in this case.","spans":[{"start":11,"end":28,"label":"AGE_ONSET"}]}
+{"text":"The patient reported a 3-year history of weakness.","spans":[{"start":23,"end":40,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 3-year history of seizures prompted genetic testing.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"She had a 3-year history of progressive cognitive symptoms.","spans":[{"start":9,"end":26,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The diagnosis followed a 3-year history of coordination loss.","spans":[{"start":23,"end":40,"label":"AGE_ONSET"}]}
+{"text":"A 3-year history was noted during clinical evaluation.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The 3-year history corresponded with visual disturbance.","spans":[{"start":4,"end":21,"label":"AGE_ONSET"}]}
+{"text":"Based on the 3-year history, mitochondrial disease was suspected.","spans":[{"start":13,"end":30,"label":"AGE_ONSET"}]}
+{"text":"The boy presented with a 3-year history of ataxia.","spans":[{"start":28,"end":45,"label":"AGE_ONSET"},{"start":4,"end":7,"label":"PATIENT"}]}
+{"text":"Symptoms aligned with a 3-year history in this individual.","spans":[{"start":25,"end":42,"label":"AGE_ONSET"}]}
+{"text":"A 3-year history of neurological signs was described.","spans":[{"start":0,"end":17,"label":"AGE_ONSET"}]}
+{"text":"The patient had a 10-year history of progressive ataxia.","spans":[{"start":19,"end":37,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"A 10-year history preceded the diagnosis of epilepsy.","spans":[{"start":0,"end":18,"label":"AGE_ONSET"}]}
+{"text":"There was a 10-year history of weakness and tremor.","spans":[{"start":11,"end":29,"label":"AGE_ONSET"}]}
+{"text":"Clinical decline matched a 10-year history timeline.","spans":[{"start":25,"end":43,"label":"AGE_ONSET"}]}
+{"text":"A 10-year history of symptoms was documented in records.","spans":[{"start":0,"end":18,"label":"AGE_ONSET"}]}
+{"text":"Symptoms began after a 10-year history of mild tremors.","spans":[{"start":22,"end":40,"label":"AGE_ONSET"}]}
+{"text":"The patient described a 10-year history of memory issues.","spans":[{"start":24,"end":42,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"By the 10-year history point, symptoms were severe.","spans":[{"start":7,"end":25,"label":"AGE_ONSET"}]}
+{"text":"Initial onset matched a 10-year history of symptoms.","spans":[{"start":21,"end":39,"label":"AGE_ONSET"}]}
+{"text":"The boy had a 10-year history of neurodegeneration.","spans":[{"start":12,"end":30,"label":"AGE_ONSET"},{"start":4,"end":7,"label":"PATIENT"}]}
+{"text":"An eight year history of seizures was documented at admission.","spans":[{"start":3,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The patient had an eight year history of motor symptoms.","spans":[{"start":20,"end":38,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"She presented with an eight year history of cognitive decline.","spans":[{"start":25,"end":43,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"Neurological signs followed an eight year history of regression.","spans":[{"start":30,"end":48,"label":"AGE_ONSET"}]}
+{"text":"An eight year history was confirmed during review.","spans":[{"start":3,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The eight year history aligned with symptom progression.","spans":[{"start":4,"end":22,"label":"AGE_ONSET"}]}
+{"text":"The girl had an eight year history of declining coordination.","spans":[{"start":17,"end":35,"label":"AGE_ONSET"},{"start":4,"end":8,"label":"PATIENT"}]}
+{"text":"Onset of symptoms matched an eight year history timeline.","spans":[{"start":29,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Based on an eight year history, disease onset was dated.","spans":[{"start":12,"end":30,"label":"AGE_ONSET"}]}
+{"text":"An eight year history of tremors prompted genetic testing.","spans":[{"start":3,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The patient experienced symptoms over the past ten years.","spans":[{"start":41,"end":56,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Symptoms had progressed steadily for the past ten years.","spans":[{"start":38,"end":53,"label":"AGE_ONSET"}]}
+{"text":"She had exhibited signs during the past ten years.","spans":[{"start":33,"end":48,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The past ten years were marked by neurological decline.","spans":[{"start":4,"end":19,"label":"AGE_ONSET"}]}
+{"text":"During the past ten years, seizures became more frequent.","spans":[{"start":11,"end":26,"label":"AGE_ONSET"}]}
+{"text":"At diagnosis, there was a past ten years history of tremor.","spans":[{"start":26,"end":41,"label":"AGE_ONSET"}]}
+{"text":"The clinical records confirmed a past ten years progression.","spans":[{"start":32,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Motor symptoms had been present for the past ten years.","spans":[{"start":38,"end":53,"label":"AGE_ONSET"}]}
+{"text":"The boy had experienced issues over the past ten years.","spans":[{"start":37,"end":52,"label":"AGE_ONSET"},{"start":4,"end":7,"label":"PATIENT"}]}
+{"text":"Signs of disease persisted throughout the past ten years.","spans":[{"start":37,"end":52,"label":"AGE_ONSET"}]}
+{"text":"Symptoms have been present for 10 years in this patient.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"},{"start":47,"end":54,"label":"PATIENT"}]}
+{"text":"The patient reported symptoms present for 10 years.","spans":[{"start":35,"end":47,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Signs of ataxia were present for 10 years.","spans":[{"start":27,"end":39,"label":"AGE_ONSET"}]}
+{"text":"He had been symptomatic, present for 10 years, without relief.","spans":[{"start":28,"end":40,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Present for 10 years, the symptoms gradually worsened.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The disease had been present for 10 years before diagnosis.","spans":[{"start":26,"end":38,"label":"AGE_ONSET"}]}
+{"text":"There was a history of weakness present for 10 years.","spans":[{"start":34,"end":46,"label":"AGE_ONSET"}]}
+{"text":"Symptoms were present for 10 years with progressive decline.","spans":[{"start":22,"end":34,"label":"AGE_ONSET"}]}
+{"text":"Her neurological symptoms had been present for 10 years.","spans":[{"start":41,"end":53,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"Clinical evaluation noted symptoms present for 10 years.","spans":[{"start":38,"end":50,"label":"AGE_ONSET"}]}
+{"text":"The disorder had a course of 5 months before diagnosis.","spans":[{"start":26,"end":37,"label":"AGE_ONSET"}]}
+{"text":"He showed progressive symptoms of 5 months duration.","spans":[{"start":34,"end":45,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"The ataxia had been present for a period of 5 months.","spans":[{"start":40,"end":51,"label":"AGE_ONSET"}]}
+{"text":"A course of 5 months preceded seizure onset.","spans":[{"start":10,"end":21,"label":"AGE_ONSET"}]}
+{"text":"The patient experienced vision loss over a span of 5 months.","spans":[{"start":47,"end":58,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Of 5 months duration, the weakness slowly progressed.","spans":[{"start":0,"end":11,"label":"AGE_ONSET"}]}
+{"text":"At the time of assessment, symptoms had lasted of 5 months.","spans":[{"start":45,"end":56,"label":"AGE_ONSET"}]}
+{"text":"Neurological decline evolved over a period of 5 months.","spans":[{"start":36,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Of 5 months, the disorder remained undiagnosed.","spans":[{"start":0,"end":11,"label":"AGE_ONSET"}]}
+{"text":"She had suffered from epilepsy for a total of 5 months.","spans":[{"start":42,"end":53,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The initial symptoms had started 9 years prior to evaluation.","spans":[{"start":33,"end":46,"label":"AGE_ONSET"}]}
+{"text":"He had shown mild ataxia 9 years prior to this visit.","spans":[{"start":27,"end":40,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Symptoms first appeared 9 years prior to presentation.","spans":[{"start":24,"end":37,"label":"AGE_ONSET"}]}
+{"text":"A decline in cognition was noted 9 years prior.","spans":[{"start":34,"end":47,"label":"AGE_ONSET"}]}
+{"text":"The patient began deteriorating 9 years prior to diagnosis.","spans":[{"start":30,"end":43,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"Nine years prior, he experienced balance disturbances.","spans":[{"start":0,"end":15,"label":"AGE_ONSET"},{"start":16,"end":18,"label":"PATIENT"}]}
+{"text":"A clinical history confirmed symptoms 9 years prior.","spans":[{"start":37,"end":50,"label":"AGE_ONSET"}]}
+{"text":"There had been progressive symptoms 9 years prior.","spans":[{"start":34,"end":47,"label":"AGE_ONSET"}]}
+{"text":"Neurological issues started 9 years prior to assessment.","spans":[{"start":28,"end":41,"label":"AGE_ONSET"}]}
+{"text":"He had a record of visual loss 9 years prior.","spans":[{"start":34,"end":47,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Infantile-onset seizures were the first clinical manifestation.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The diagnosis was consistent with infantile-onset symptoms.","spans":[{"start":35,"end":51,"label":"AGE_ONSET"}]}
+{"text":"Patient presented with infantile-onset of encephalopathy.","spans":[{"start":24,"end":40,"label":"AGE_ONSET"},{"start":0,"end":7,"label":"PATIENT"}]}
+{"text":"Infantile-onset disorder was suspected based on history.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"A case of infantile-onset tremors was reported.","spans":[{"start":9,"end":25,"label":"AGE_ONSET"}]}
+{"text":"She had been diagnosed with infantile-onset mitochondrial disease.","spans":[{"start":29,"end":45,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"Infantile-onset symptoms were supported by genetic evidence.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"Ataxia was linked to an infantile-onset presentation.","spans":[{"start":24,"end":40,"label":"AGE_ONSET"}]}
+{"text":"He exhibited signs consistent with infantile-onset.","spans":[{"start":35,"end":51,"label":"AGE_ONSET"},{"start":0,"end":2,"label":"PATIENT"}]}
+{"text":"Infantile-onset phenotype was confirmed by clinicians.","spans":[{"start":0,"end":16,"label":"AGE_ONSET"}]}
+{"text":"The patient began showing symptoms during primary school years.","spans":[{"start":42,"end":56,"label":"AGE_ONSET"},{"start":4,"end":11,"label":"PATIENT"}]}
+{"text":"At primary school age, early signs of ataxia were noted.","spans":[{"start":3,"end":17,"label":"AGE_ONSET"}]}
+{"text":"Clinical decline was first observed while in primary school.","spans":[{"start":40,"end":54,"label":"AGE_ONSET"}]}
+{"text":"She developed motor issues around primary school.","spans":[{"start":34,"end":48,"label":"AGE_ONSET"},{"start":0,"end":3,"label":"PATIENT"}]}
+{"text":"The disorder manifested during the primary school period.","spans":[{"start":33,"end":47,"label":"AGE_ONSET"}]}
+{"text":"During primary school, the boy experienced visual loss.","spans":[{"start":7,"end":21,"label":"AGE_ONSET"},{"start":26,"end":29,"label":"PATIENT"}]}
+{"text":"Initial symptoms began to appear at primary school age.","spans":[{"start":34,"end":48,"label":"AGE_ONSET"}]}
+{"text":"The child’s difficulties were traced back to primary school.","spans":[{"start":43,"end":57,"label":"AGE_ONSET"},{"start":4,"end":10,"label":"PATIENT"}]}
+{"text":"At the time of primary school, seizures had already emerged.","spans":[{"start":15,"end":29,"label":"AGE_ONSET"}]}
+{"text":"The onset of symptoms coincided with primary school attendance.","spans":[{"start":33,"end":47,"label":"AGE_ONSET"}]}
+

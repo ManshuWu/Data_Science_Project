@@ -1,0 +1,1110 @@
+{"text":"The patient was still under observation at 58.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up data were available until age 58.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 58, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Medical evaluation continued up to 58.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Symptoms were tracked until the patient turned 58.","spans":[{"start":34,"end":41,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical stability was confirmed at 58.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained in follow-up care at 58.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject attended clinic regularly until 58.","spans":[{"start":42,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He continued therapy up to 58.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation records extended through age 58.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last evaluated at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed until age 27.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical attention continued up to 27.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 27, the patient showed no new symptoms.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical records end at 27.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The girl was stable by 27.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"All reports were available until 27.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"No decline noted up to 27.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy was maintained through age 27.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation ended when the patient reached 27.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained on care until 16.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last monitored at 16.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records show tracking through 16.","spans":[{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 16, no further symptoms appeared.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was assessed until 16.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy effectiveness was noted at 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up care was available until 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained in observation up to 16.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had no relapse by age 16.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was seen until 16.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored through age 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were updated up to 26.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed in clinic until 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 26, no disease progression occurred.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued follow-up visits up to 26.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man remained under supervision at 26.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data available through age 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical follow-up ended at 26.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient reached follow-up at 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ceased at 26.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 54, the patient remained clinically stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"She continued treatment until age 54.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes available through 54.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"No new complaints were reported up to 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The woman was seen until 54.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation data extended to 54.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy maintained until 54.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained stable at 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was available up to 54.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient care reports end at 54.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 3.5, no further decline was noted.","spans":[{"start":3,"end":6,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available through age 3.5.","spans":[{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued observation until 3.5.","spans":[{"start":33,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was followed up to 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring continued at 3.5.","spans":[{"start":25,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was seen at 3.5.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":26,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Progression was absent until 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient attended clinic until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluations were done through 3.5.","spans":[{"start":31,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored until 55.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records were updated through 55.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 55, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Therapy was effective up to age 55.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child continued to be followed at 55.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained unchanged until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"No relapse was noted by 55.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Longitudinal tracking continued through 55.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man was seen regularly until 55.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still alive 8 months after.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"No complications were reported 8 months after.","spans":[{"start":31,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 8 months after, follow-up continued.","spans":[{"start":3,"end":17,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child received care 8 months after.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained asymptomatic 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available at 8 months after.","spans":[{"start":29,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Treatment lasted through 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation extended until 8 months after.","spans":[{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"Stable clinical course at 8 months after.","spans":[{"start":28,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data continued 8 months after.","spans":[{"start":26,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"The baby was born at gestational age=36 weeks.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks was recorded.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Delivery occurred at gestational age=36 weeks.","spans":[{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was born at gestational age=36 weeks.","spans":[{"start":19,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had gestational age=36 weeks at birth.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks indicated preterm birth.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes include gestational age=36 weeks.","spans":[{"start":24,"end":53,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was delivered at gestational age=36 weeks.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":32,"end":61,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a gestational age=36 weeks birth.","spans":[{"start":12,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking started from gestational age=36 weeks.","spans":[{"start":23,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored for A 54.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were assessed again at A 54.","spans":[{"start":31,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical data were collected until A 54.","spans":[{"start":34,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a follow-up of A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended at 52.","spans":[{"start":21,"end":23,"label":"AGE_FOLLOWUP"}]}
+{"text":"They completed follow-up by 52.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation continued up to 52.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient review occurred at 52.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last seen at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observations concluded at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached follow-up timepoint 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, records were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical tracking ended at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up stopped at 26-.","spans":[{"start":21,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited observation at 26-.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient checkup ended at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"They finished monitoring by 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected by 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient data were available up to 74.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She underwent review at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring concluded at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was at 74.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicate tracking through 74.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was followed until 2008.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available for 2008.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ended in 2008.","spans":[{"start":23,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached a timepoint in 2008.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was in 2008.","spans":[{"start":24,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 79, clinical monitoring stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed assessment by 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"All tracking concluded at 79.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show end of follow-up at 79.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had follow-up until 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, data recording stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited monitoring at 75.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Review period ended by 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"All clinical data recorded through 80.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had checkups until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking finalized at 80.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation till 80.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Reports indicate last visit at 80.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had 1 year of follow-up.","spans":[{"start":9,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient underwent 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained stable through 1 year of follow-up.","spans":[{"start":27,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation lasted 1 year of follow-up.","spans":[{"start":20,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected during 1 year of follow-up.","spans":[{"start":33,"end":54,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under follow-up at 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular reviews until 52.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 52, the clinical monitoring ended.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were seen again at 52.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show completion of follow-up at 52.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last followed at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had medical records up to 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached the follow-up mark at 32.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, observations were closed.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration ended by 32.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up was finalized at 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient tracking stopped at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"They concluded follow-up at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical review finished at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 26-, the evaluation stopped.","spans":[{"start":3,"end":8,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last evaluated at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up ended by 74.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records confirm follow-up at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 74, patient data were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":6,"end":13,"label":"PATIENT"}]}
+{"text":"She completed all assessments by 74.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The last follow-up occurred in 2008.","spans":[{"start":31,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 2008, records were closed.","spans":[{"start":3,"end":7,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended during 2008.","spans":[{"start":25,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were last reviewed in 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was until 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was under observation till 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up concluded at 79.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicated last contact at 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was completed at 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended around 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, the data collection stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were finalized at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited follow-up at 80.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had reviews until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 80, monitoring was stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular checkups up to 80.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking duration was 80.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"One year of follow-up was completed.","spans":[{"start":0,"end":24,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained under care for 1 year of follow-up.","spans":[{"start":28,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking lasted 1 year of follow-up.","spans":[{"start":16,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show follow-up for 1 year.","spans":[{"start":30,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under observation at 58.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up data were available until age 58.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 58, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Medical evaluation continued up to 58.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Symptoms were tracked until the patient turned 58.","spans":[{"start":34,"end":41,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical stability was confirmed at 58.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained in follow-up care at 58.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject attended clinic regularly until 58.","spans":[{"start":42,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He continued therapy up to 58.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation records extended through age 58.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last evaluated at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed until age 27.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical attention continued up to 27.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 27, the patient showed no new symptoms.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical records end at 27.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The girl was stable by 27.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"All reports were available until 27.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"No decline noted up to 27.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy was maintained through age 27.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation ended when the patient reached 27.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained on care until 16.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last monitored at 16.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records show tracking through 16.","spans":[{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 16, no further symptoms appeared.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was assessed until 16.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy effectiveness was noted at 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up care was available until 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained in observation up to 16.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had no relapse by age 16.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was seen until 16.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored through age 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were updated up to 26.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed in clinic until 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 26, no disease progression occurred.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued follow-up visits up to 26.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man remained under supervision at 26.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data available through age 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical follow-up ended at 26.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient reached follow-up at 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ceased at 26.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 54, the patient remained clinically stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"She continued treatment until age 54.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes available through 54.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"No new complaints were reported up to 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The woman was seen until 54.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation data extended to 54.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy maintained until 54.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained stable at 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was available up to 54.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient care reports end at 54.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 3.5, no further decline was noted.","spans":[{"start":3,"end":6,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available through age 3.5.","spans":[{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued observation until 3.5.","spans":[{"start":33,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was followed up to 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring continued at 3.5.","spans":[{"start":25,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was seen at 3.5.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":26,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Progression was absent until 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient attended clinic until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluations were done through 3.5.","spans":[{"start":31,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored until 55.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records were updated through 55.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 55, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Therapy was effective up to age 55.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child continued to be followed at 55.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained unchanged until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"No relapse was noted by 55.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Longitudinal tracking continued through 55.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man was seen regularly until 55.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still alive 8 months after.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"No complications were reported 8 months after.","spans":[{"start":31,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 8 months after, follow-up continued.","spans":[{"start":3,"end":17,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child received care 8 months after.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained asymptomatic 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available at 8 months after.","spans":[{"start":29,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Treatment lasted through 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation extended until 8 months after.","spans":[{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"Stable clinical course at 8 months after.","spans":[{"start":28,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data continued 8 months after.","spans":[{"start":26,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"The baby was born at gestational age=36 weeks.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks was recorded.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Delivery occurred at gestational age=36 weeks.","spans":[{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was born at gestational age=36 weeks.","spans":[{"start":19,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had gestational age=36 weeks at birth.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks indicated preterm birth.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes include gestational age=36 weeks.","spans":[{"start":24,"end":53,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was delivered at gestational age=36 weeks.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":32,"end":61,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a gestational age=36 weeks birth.","spans":[{"start":12,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking started from gestational age=36 weeks.","spans":[{"start":23,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored for A 54.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were assessed again at A 54.","spans":[{"start":31,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical data were collected until A 54.","spans":[{"start":34,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a follow-up of A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended at 52.","spans":[{"start":21,"end":23,"label":"AGE_FOLLOWUP"}]}
+{"text":"They completed follow-up by 52.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation continued up to 52.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient review occurred at 52.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last seen at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observations concluded at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached follow-up timepoint 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, records were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical tracking ended at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up stopped at 26-.","spans":[{"start":21,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited observation at 26-.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient checkup ended at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"They finished monitoring by 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected by 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient data were available up to 74.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She underwent review at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring concluded at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was at 74.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicate tracking through 74.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was followed until 2008.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available for 2008.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ended in 2008.","spans":[{"start":23,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached a timepoint in 2008.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was in 2008.","spans":[{"start":24,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 79, clinical monitoring stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed assessment by 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"All tracking concluded at 79.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show end of follow-up at 79.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had follow-up until 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, data recording stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited monitoring at 75.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Review period ended by 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"All clinical data recorded through 80.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had checkups until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking finalized at 80.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation till 80.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Reports indicate last visit at 80.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had 1 year of follow-up.","spans":[{"start":9,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient underwent 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained stable through 1 year of follow-up.","spans":[{"start":27,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation lasted 1 year of follow-up.","spans":[{"start":20,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected during 1 year of follow-up.","spans":[{"start":33,"end":54,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under follow-up at 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular reviews until 52.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 52, the clinical monitoring ended.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were seen again at 52.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show completion of follow-up at 52.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last followed at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had medical records up to 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached the follow-up mark at 32.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, observations were closed.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration ended by 32.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up was finalized at 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient tracking stopped at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"They concluded follow-up at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical review finished at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 26-, the evaluation stopped.","spans":[{"start":3,"end":8,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last evaluated at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up ended by 74.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records confirm follow-up at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 74, patient data were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":6,"end":13,"label":"PATIENT"}]}
+{"text":"She completed all assessments by 74.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The last follow-up occurred in 2008.","spans":[{"start":31,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 2008, records were closed.","spans":[{"start":3,"end":7,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended during 2008.","spans":[{"start":25,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were last reviewed in 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was until 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was under observation till 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up concluded at 79.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicated last contact at 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was completed at 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended around 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, the data collection stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were finalized at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited follow-up at 80.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had reviews until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 80, monitoring was stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular checkups up to 80.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking duration was 80.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"One year of follow-up was completed.","spans":[{"start":0,"end":24,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained under care for 1 year of follow-up.","spans":[{"start":28,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking lasted 1 year of follow-up.","spans":[{"start":16,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show follow-up for 1 year.","spans":[{"start":30,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under observation at 58.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up data were available until age 58.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 58, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Medical evaluation continued up to 58.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Symptoms were tracked until the patient turned 58.","spans":[{"start":34,"end":41,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical stability was confirmed at 58.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained in follow-up care at 58.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject attended clinic regularly until 58.","spans":[{"start":42,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He continued therapy up to 58.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation records extended through age 58.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last evaluated at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed until age 27.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical attention continued up to 27.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 27, the patient showed no new symptoms.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical records end at 27.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The girl was stable by 27.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"All reports were available until 27.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"No decline noted up to 27.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy was maintained through age 27.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation ended when the patient reached 27.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained on care until 16.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last monitored at 16.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records show tracking through 16.","spans":[{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 16, no further symptoms appeared.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was assessed until 16.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy effectiveness was noted at 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up care was available until 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained in observation up to 16.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had no relapse by age 16.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was seen until 16.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored through age 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were updated up to 26.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed in clinic until 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 26, no disease progression occurred.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued follow-up visits up to 26.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man remained under supervision at 26.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data available through age 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical follow-up ended at 26.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient reached follow-up at 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ceased at 26.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 54, the patient remained clinically stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"She continued treatment until age 54.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes available through 54.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"No new complaints were reported up to 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The woman was seen until 54.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation data extended to 54.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy maintained until 54.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained stable at 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was available up to 54.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient care reports end at 54.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 3.5, no further decline was noted.","spans":[{"start":3,"end":6,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available through age 3.5.","spans":[{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued observation until 3.5.","spans":[{"start":33,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was followed up to 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring continued at 3.5.","spans":[{"start":25,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was seen at 3.5.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":26,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Progression was absent until 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient attended clinic until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluations were done through 3.5.","spans":[{"start":31,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored until 55.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records were updated through 55.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 55, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Therapy was effective up to age 55.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child continued to be followed at 55.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained unchanged until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"No relapse was noted by 55.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Longitudinal tracking continued through 55.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man was seen regularly until 55.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still alive 8 months after.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"No complications were reported 8 months after.","spans":[{"start":31,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 8 months after, follow-up continued.","spans":[{"start":3,"end":17,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child received care 8 months after.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained asymptomatic 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available at 8 months after.","spans":[{"start":29,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Treatment lasted through 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation extended until 8 months after.","spans":[{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"Stable clinical course at 8 months after.","spans":[{"start":28,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data continued 8 months after.","spans":[{"start":26,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"The baby was born at gestational age=36 weeks.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks was recorded.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Delivery occurred at gestational age=36 weeks.","spans":[{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was born at gestational age=36 weeks.","spans":[{"start":19,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had gestational age=36 weeks at birth.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks indicated preterm birth.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes include gestational age=36 weeks.","spans":[{"start":24,"end":53,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was delivered at gestational age=36 weeks.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":32,"end":61,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a gestational age=36 weeks birth.","spans":[{"start":12,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking started from gestational age=36 weeks.","spans":[{"start":23,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored for A 54.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were assessed again at A 54.","spans":[{"start":31,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical data were collected until A 54.","spans":[{"start":34,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a follow-up of A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended at 52.","spans":[{"start":21,"end":23,"label":"AGE_FOLLOWUP"}]}
+{"text":"They completed follow-up by 52.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation continued up to 52.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient review occurred at 52.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last seen at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observations concluded at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached follow-up timepoint 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, records were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical tracking ended at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up stopped at 26-.","spans":[{"start":21,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited observation at 26-.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient checkup ended at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"They finished monitoring by 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected by 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient data were available up to 74.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She underwent review at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring concluded at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was at 74.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicate tracking through 74.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was followed until 2008.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available for 2008.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ended in 2008.","spans":[{"start":23,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached a timepoint in 2008.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was in 2008.","spans":[{"start":24,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 79, clinical monitoring stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed assessment by 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"All tracking concluded at 79.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show end of follow-up at 79.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had follow-up until 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, data recording stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited monitoring at 75.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Review period ended by 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"All clinical data recorded through 80.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had checkups until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking finalized at 80.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation till 80.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Reports indicate last visit at 80.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had 1 year of follow-up.","spans":[{"start":9,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient underwent 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained stable through 1 year of follow-up.","spans":[{"start":27,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation lasted 1 year of follow-up.","spans":[{"start":20,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected during 1 year of follow-up.","spans":[{"start":33,"end":54,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under follow-up at 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular reviews until 52.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 52, the clinical monitoring ended.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were seen again at 52.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show completion of follow-up at 52.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last followed at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had medical records up to 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached the follow-up mark at 32.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, observations were closed.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration ended by 32.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up was finalized at 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient tracking stopped at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"They concluded follow-up at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical review finished at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 26-, the evaluation stopped.","spans":[{"start":3,"end":8,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last evaluated at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up ended by 74.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records confirm follow-up at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 74, patient data were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":6,"end":13,"label":"PATIENT"}]}
+{"text":"She completed all assessments by 74.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The last follow-up occurred in 2008.","spans":[{"start":31,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 2008, records were closed.","spans":[{"start":3,"end":7,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended during 2008.","spans":[{"start":25,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were last reviewed in 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was until 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was under observation till 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up concluded at 79.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicated last contact at 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was completed at 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended around 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, the data collection stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were finalized at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited follow-up at 80.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had reviews until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 80, monitoring was stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular checkups up to 80.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking duration was 80.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"One year of follow-up was completed.","spans":[{"start":0,"end":24,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained under care for 1 year of follow-up.","spans":[{"start":28,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking lasted 1 year of follow-up.","spans":[{"start":16,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show follow-up for 1 year.","spans":[{"start":30,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under observation at 58.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up data were available until age 58.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 58, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Medical evaluation continued up to 58.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Symptoms were tracked until the patient turned 58.","spans":[{"start":34,"end":41,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical stability was confirmed at 58.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained in follow-up care at 58.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject attended clinic regularly until 58.","spans":[{"start":42,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He continued therapy up to 58.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation records extended through age 58.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last evaluated at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed until age 27.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical attention continued up to 27.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 27, the patient showed no new symptoms.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical records end at 27.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The girl was stable by 27.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"All reports were available until 27.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"No decline noted up to 27.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy was maintained through age 27.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation ended when the patient reached 27.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained on care until 16.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last monitored at 16.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records show tracking through 16.","spans":[{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 16, no further symptoms appeared.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was assessed until 16.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy effectiveness was noted at 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up care was available until 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained in observation up to 16.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had no relapse by age 16.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was seen until 16.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored through age 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were updated up to 26.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed in clinic until 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 26, no disease progression occurred.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued follow-up visits up to 26.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man remained under supervision at 26.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data available through age 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical follow-up ended at 26.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient reached follow-up at 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ceased at 26.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 54, the patient remained clinically stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"She continued treatment until age 54.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes available through 54.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"No new complaints were reported up to 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The woman was seen until 54.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation data extended to 54.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy maintained until 54.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained stable at 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was available up to 54.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient care reports end at 54.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 3.5, no further decline was noted.","spans":[{"start":3,"end":6,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available through age 3.5.","spans":[{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued observation until 3.5.","spans":[{"start":33,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was followed up to 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring continued at 3.5.","spans":[{"start":25,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was seen at 3.5.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":26,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Progression was absent until 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient attended clinic until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluations were done through 3.5.","spans":[{"start":31,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored until 55.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records were updated through 55.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 55, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Therapy was effective up to age 55.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child continued to be followed at 55.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained unchanged until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"No relapse was noted by 55.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Longitudinal tracking continued through 55.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man was seen regularly until 55.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still alive 8 months after.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"No complications were reported 8 months after.","spans":[{"start":31,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 8 months after, follow-up continued.","spans":[{"start":3,"end":17,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child received care 8 months after.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained asymptomatic 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available at 8 months after.","spans":[{"start":29,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Treatment lasted through 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation extended until 8 months after.","spans":[{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"Stable clinical course at 8 months after.","spans":[{"start":28,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data continued 8 months after.","spans":[{"start":26,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"The baby was born at gestational age=36 weeks.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks was recorded.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Delivery occurred at gestational age=36 weeks.","spans":[{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was born at gestational age=36 weeks.","spans":[{"start":19,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had gestational age=36 weeks at birth.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks indicated preterm birth.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes include gestational age=36 weeks.","spans":[{"start":24,"end":53,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was delivered at gestational age=36 weeks.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":32,"end":61,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a gestational age=36 weeks birth.","spans":[{"start":12,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking started from gestational age=36 weeks.","spans":[{"start":23,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored for A 54.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were assessed again at A 54.","spans":[{"start":31,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical data were collected until A 54.","spans":[{"start":34,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a follow-up of A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended at 52.","spans":[{"start":21,"end":23,"label":"AGE_FOLLOWUP"}]}
+{"text":"They completed follow-up by 52.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation continued up to 52.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient review occurred at 52.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last seen at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observations concluded at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached follow-up timepoint 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, records were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical tracking ended at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up stopped at 26-.","spans":[{"start":21,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited observation at 26-.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient checkup ended at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"They finished monitoring by 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected by 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient data were available up to 74.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She underwent review at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring concluded at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was at 74.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicate tracking through 74.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was followed until 2008.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available for 2008.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ended in 2008.","spans":[{"start":23,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached a timepoint in 2008.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was in 2008.","spans":[{"start":24,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 79, clinical monitoring stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed assessment by 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"All tracking concluded at 79.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show end of follow-up at 79.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had follow-up until 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, data recording stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited monitoring at 75.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Review period ended by 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"All clinical data recorded through 80.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had checkups until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking finalized at 80.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation till 80.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Reports indicate last visit at 80.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had 1 year of follow-up.","spans":[{"start":9,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient underwent 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained stable through 1 year of follow-up.","spans":[{"start":27,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation lasted 1 year of follow-up.","spans":[{"start":20,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected during 1 year of follow-up.","spans":[{"start":33,"end":54,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under follow-up at 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular reviews until 52.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 52, the clinical monitoring ended.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were seen again at 52.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show completion of follow-up at 52.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last followed at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had medical records up to 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached the follow-up mark at 32.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, observations were closed.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration ended by 32.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up was finalized at 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient tracking stopped at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"They concluded follow-up at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical review finished at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 26-, the evaluation stopped.","spans":[{"start":3,"end":8,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last evaluated at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up ended by 74.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records confirm follow-up at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 74, patient data were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":6,"end":13,"label":"PATIENT"}]}
+{"text":"She completed all assessments by 74.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The last follow-up occurred in 2008.","spans":[{"start":31,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 2008, records were closed.","spans":[{"start":3,"end":7,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended during 2008.","spans":[{"start":25,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were last reviewed in 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was until 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was under observation till 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up concluded at 79.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicated last contact at 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was completed at 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended around 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, the data collection stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were finalized at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited follow-up at 80.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had reviews until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 80, monitoring was stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular checkups up to 80.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking duration was 80.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"One year of follow-up was completed.","spans":[{"start":0,"end":24,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained under care for 1 year of follow-up.","spans":[{"start":28,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking lasted 1 year of follow-up.","spans":[{"start":16,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show follow-up for 1 year.","spans":[{"start":30,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under observation at 58.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up data were available until age 58.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 58, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Medical evaluation continued up to 58.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Symptoms were tracked until the patient turned 58.","spans":[{"start":34,"end":41,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical stability was confirmed at 58.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained in follow-up care at 58.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject attended clinic regularly until 58.","spans":[{"start":42,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He continued therapy up to 58.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation records extended through age 58.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last evaluated at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed until age 27.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical attention continued up to 27.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 27, the patient showed no new symptoms.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical records end at 27.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The girl was stable by 27.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"All reports were available until 27.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"No decline noted up to 27.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy was maintained through age 27.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation ended when the patient reached 27.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained on care until 16.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last monitored at 16.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records show tracking through 16.","spans":[{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 16, no further symptoms appeared.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was assessed until 16.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy effectiveness was noted at 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up care was available until 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained in observation up to 16.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had no relapse by age 16.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was seen until 16.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored through age 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were updated up to 26.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed in clinic until 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 26, no disease progression occurred.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued follow-up visits up to 26.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man remained under supervision at 26.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data available through age 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical follow-up ended at 26.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient reached follow-up at 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ceased at 26.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 54, the patient remained clinically stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"She continued treatment until age 54.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes available through 54.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"No new complaints were reported up to 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The woman was seen until 54.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation data extended to 54.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy maintained until 54.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained stable at 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was available up to 54.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient care reports end at 54.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 3.5, no further decline was noted.","spans":[{"start":3,"end":6,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available through age 3.5.","spans":[{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued observation until 3.5.","spans":[{"start":33,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was followed up to 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring continued at 3.5.","spans":[{"start":25,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was seen at 3.5.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":26,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Progression was absent until 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient attended clinic until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluations were done through 3.5.","spans":[{"start":31,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored until 55.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records were updated through 55.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 55, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Therapy was effective up to age 55.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child continued to be followed at 55.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained unchanged until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"No relapse was noted by 55.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Longitudinal tracking continued through 55.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man was seen regularly until 55.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still alive 8 months after.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"No complications were reported 8 months after.","spans":[{"start":31,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 8 months after, follow-up continued.","spans":[{"start":3,"end":17,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child received care 8 months after.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained asymptomatic 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available at 8 months after.","spans":[{"start":29,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Treatment lasted through 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation extended until 8 months after.","spans":[{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"Stable clinical course at 8 months after.","spans":[{"start":28,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data continued 8 months after.","spans":[{"start":26,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"The baby was born at gestational age=36 weeks.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks was recorded.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Delivery occurred at gestational age=36 weeks.","spans":[{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was born at gestational age=36 weeks.","spans":[{"start":19,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had gestational age=36 weeks at birth.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks indicated preterm birth.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes include gestational age=36 weeks.","spans":[{"start":24,"end":53,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was delivered at gestational age=36 weeks.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":32,"end":61,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a gestational age=36 weeks birth.","spans":[{"start":12,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking started from gestational age=36 weeks.","spans":[{"start":23,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored for A 54.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were assessed again at A 54.","spans":[{"start":31,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical data were collected until A 54.","spans":[{"start":34,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a follow-up of A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended at 52.","spans":[{"start":21,"end":23,"label":"AGE_FOLLOWUP"}]}
+{"text":"They completed follow-up by 52.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation continued up to 52.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient review occurred at 52.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last seen at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observations concluded at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached follow-up timepoint 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, records were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical tracking ended at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up stopped at 26-.","spans":[{"start":21,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited observation at 26-.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient checkup ended at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"They finished monitoring by 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected by 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient data were available up to 74.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She underwent review at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring concluded at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was at 74.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicate tracking through 74.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was followed until 2008.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available for 2008.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ended in 2008.","spans":[{"start":23,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached a timepoint in 2008.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was in 2008.","spans":[{"start":24,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 79, clinical monitoring stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed assessment by 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"All tracking concluded at 79.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show end of follow-up at 79.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had follow-up until 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, data recording stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited monitoring at 75.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Review period ended by 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"All clinical data recorded through 80.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had checkups until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking finalized at 80.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation till 80.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Reports indicate last visit at 80.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had 1 year of follow-up.","spans":[{"start":9,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient underwent 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained stable through 1 year of follow-up.","spans":[{"start":27,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation lasted 1 year of follow-up.","spans":[{"start":20,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected during 1 year of follow-up.","spans":[{"start":33,"end":54,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under follow-up at 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular reviews until 52.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 52, the clinical monitoring ended.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were seen again at 52.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show completion of follow-up at 52.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last followed at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had medical records up to 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached the follow-up mark at 32.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, observations were closed.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration ended by 32.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up was finalized at 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient tracking stopped at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"They concluded follow-up at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical review finished at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 26-, the evaluation stopped.","spans":[{"start":3,"end":8,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last evaluated at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up ended by 74.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records confirm follow-up at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 74, patient data were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":6,"end":13,"label":"PATIENT"}]}
+{"text":"She completed all assessments by 74.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The last follow-up occurred in 2008.","spans":[{"start":31,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 2008, records were closed.","spans":[{"start":3,"end":7,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended during 2008.","spans":[{"start":25,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were last reviewed in 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was until 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was under observation till 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up concluded at 79.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicated last contact at 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was completed at 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended around 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, the data collection stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were finalized at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited follow-up at 80.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had reviews until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 80, monitoring was stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular checkups up to 80.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking duration was 80.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"One year of follow-up was completed.","spans":[{"start":0,"end":24,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained under care for 1 year of follow-up.","spans":[{"start":28,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking lasted 1 year of follow-up.","spans":[{"start":16,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show follow-up for 1 year.","spans":[{"start":30,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under observation at 58.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up data were available until age 58.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 58, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Medical evaluation continued up to 58.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Symptoms were tracked until the patient turned 58.","spans":[{"start":34,"end":41,"label":"PATIENT"},{"start":48,"end":50,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical stability was confirmed at 58.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained in follow-up care at 58.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject attended clinic regularly until 58.","spans":[{"start":42,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He continued therapy up to 58.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation records extended through age 58.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last evaluated at 27.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed until age 27.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical attention continued up to 27.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 27, the patient showed no new symptoms.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Clinical records end at 27.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The girl was stable by 27.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"All reports were available until 27.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"No decline noted up to 27.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy was maintained through age 27.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation ended when the patient reached 27.","spans":[{"start":27,"end":34,"label":"PATIENT"},{"start":43,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained on care until 16.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last monitored at 16.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records show tracking through 16.","spans":[{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 16, no further symptoms appeared.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was assessed until 16.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy effectiveness was noted at 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up care was available until 16.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained in observation up to 16.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had no relapse by age 16.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was seen until 16.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored through age 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":39,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were updated up to 26.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"He was followed in clinic until 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 26, no disease progression occurred.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued follow-up visits up to 26.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man remained under supervision at 26.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data available through age 26.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical follow-up ended at 26.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient reached follow-up at 26.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ceased at 26.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 54, the patient remained clinically stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"She continued treatment until age 54.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes available through 54.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"No new complaints were reported up to 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The woman was seen until 54.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation data extended to 54.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Therapy maintained until 54.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained stable at 54.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was available up to 54.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient care reports end at 54.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 3.5, no further decline was noted.","spans":[{"start":3,"end":6,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available through age 3.5.","spans":[{"start":38,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"She continued observation until 3.5.","spans":[{"start":33,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The subject was followed up to 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring continued at 3.5.","spans":[{"start":25,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was seen at 3.5.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":26,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Progression was absent until 3.5.","spans":[{"start":32,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient attended clinic until 3.5.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluations were done through 3.5.","spans":[{"start":31,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored until 55.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical records were updated through 55.","spans":[{"start":38,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 55, the patient remained stable.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":10,"end":17,"label":"PATIENT"}]}
+{"text":"Therapy was effective up to age 55.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child continued to be followed at 55.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":41,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Her condition remained unchanged until 55.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"No relapse was noted by 55.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Longitudinal tracking continued through 55.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The man was seen regularly until 55.","spans":[{"start":4,"end":10,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still alive 8 months after.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"No complications were reported 8 months after.","spans":[{"start":31,"end":45,"label":"AGE_FOLLOWUP"}]}
+{"text":"By 8 months after, follow-up continued.","spans":[{"start":3,"end":17,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child received care 8 months after.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained asymptomatic 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available at 8 months after.","spans":[{"start":29,"end":43,"label":"AGE_FOLLOWUP"}]}
+{"text":"Treatment lasted through 8 months after.","spans":[{"start":27,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation extended until 8 months after.","spans":[{"start":30,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"Stable clinical course at 8 months after.","spans":[{"start":28,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking data continued 8 months after.","spans":[{"start":26,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"The baby was born at gestational age=36 weeks.","spans":[{"start":4,"end":8,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks was recorded.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Delivery occurred at gestational age=36 weeks.","spans":[{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was born at gestational age=36 weeks.","spans":[{"start":19,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had gestational age=36 weeks at birth.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":20,"end":49,"label":"AGE_FOLLOWUP"}]}
+{"text":"Gestational age=36 weeks indicated preterm birth.","spans":[{"start":0,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical notes include gestational age=36 weeks.","spans":[{"start":24,"end":53,"label":"AGE_FOLLOWUP"}]}
+{"text":"The child was delivered at gestational age=36 weeks.","spans":[{"start":4,"end":9,"label":"PATIENT"},{"start":32,"end":61,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a gestational age=36 weeks birth.","spans":[{"start":12,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking started from gestational age=36 weeks.","spans":[{"start":23,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was monitored for A 54.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were assessed again at A 54.","spans":[{"start":31,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical data were collected until A 54.","spans":[{"start":34,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had a follow-up of A 54.","spans":[{"start":25,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended at 52.","spans":[{"start":21,"end":23,"label":"AGE_FOLLOWUP"}]}
+{"text":"They completed follow-up by 52.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Evaluation continued up to 52.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient review occurred at 52.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last seen at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observations concluded at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached follow-up timepoint 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, records were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Clinical tracking ended at 32.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up stopped at 26-.","spans":[{"start":21,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited observation at 26-.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient checkup ended at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":27,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"They finished monitoring by 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected by 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient data were available up to 74.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She underwent review at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring concluded at 74.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was at 74.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicate tracking through 74.","spans":[{"start":34,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was followed until 2008.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":32,"end":36,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were available for 2008.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation ended in 2008.","spans":[{"start":23,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached a timepoint in 2008.","spans":[{"start":29,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Final follow-up was in 2008.","spans":[{"start":24,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 79, clinical monitoring stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed assessment by 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"All tracking concluded at 79.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show end of follow-up at 79.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had follow-up until 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, data recording stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited monitoring at 75.","spans":[{"start":28,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"Review period ended by 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"All clinical data recorded through 80.","spans":[{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had checkups until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking finalized at 80.","spans":[{"start":24,"end":26,"label":"AGE_FOLLOWUP"}]}
+{"text":"She remained under observation till 80.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"Reports indicate last visit at 80.","spans":[{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had 1 year of follow-up.","spans":[{"start":9,"end":30,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient underwent 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":23,"end":44,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained stable through 1 year of follow-up.","spans":[{"start":27,"end":48,"label":"AGE_FOLLOWUP"}]}
+{"text":"Observation lasted 1 year of follow-up.","spans":[{"start":20,"end":41,"label":"AGE_FOLLOWUP"}]}
+{"text":"All data were collected during 1 year of follow-up.","spans":[{"start":33,"end":54,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was still under follow-up at 52.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular reviews until 52.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 52, the clinical monitoring ended.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were seen again at 52.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show completion of follow-up at 52.","spans":[{"start":37,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient was last followed at 32.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":35,"end":37,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had medical records up to 32.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"They reached the follow-up mark at 32.","spans":[{"start":36,"end":38,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 32, observations were closed.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration ended by 32.","spans":[{"start":30,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up was finalized at 26-.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient tracking stopped at 26-.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"They concluded follow-up at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"Medical review finished at 26-.","spans":[{"start":28,"end":32,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 26-, the evaluation stopped.","spans":[{"start":3,"end":8,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was last evaluated at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The follow-up ended by 74.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records confirm follow-up at 74.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 74, patient data were finalized.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"},{"start":6,"end":13,"label":"PATIENT"}]}
+{"text":"She completed all assessments by 74.","spans":[{"start":32,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"The last follow-up occurred in 2008.","spans":[{"start":31,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 2008, records were closed.","spans":[{"start":3,"end":7,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended during 2008.","spans":[{"start":25,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They were last reviewed in 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up duration was until 2008.","spans":[{"start":30,"end":34,"label":"AGE_FOLLOWUP"}]}
+{"text":"She was under observation till 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Follow-up concluded at 79.","spans":[{"start":25,"end":27,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records indicated last contact at 79.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Patient monitoring ceased at 79.","spans":[{"start":0,"end":7,"label":"PATIENT"},{"start":31,"end":33,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking was completed at 79.","spans":[{"start":29,"end":31,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient remained stable through 75.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":40,"end":42,"label":"AGE_FOLLOWUP"}]}
+{"text":"She completed follow-up at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"Monitoring ended around 75.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 75, the data collection stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records were finalized at 75.","spans":[{"start":27,"end":29,"label":"AGE_FOLLOWUP"}]}
+{"text":"They exited follow-up at 80.","spans":[{"start":26,"end":28,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had reviews until 80.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"At 80, monitoring was stopped.","spans":[{"start":3,"end":5,"label":"AGE_FOLLOWUP"}]}
+{"text":"She had regular checkups up to 80.","spans":[{"start":33,"end":35,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking duration was 80.","spans":[{"start":23,"end":25,"label":"AGE_FOLLOWUP"}]}
+{"text":"One year of follow-up was completed.","spans":[{"start":0,"end":24,"label":"AGE_FOLLOWUP"}]}
+{"text":"The patient had 1 year of follow-up.","spans":[{"start":4,"end":11,"label":"PATIENT"},{"start":15,"end":39,"label":"AGE_FOLLOWUP"}]}
+{"text":"He remained under care for 1 year of follow-up.","spans":[{"start":28,"end":52,"label":"AGE_FOLLOWUP"}]}
+{"text":"Tracking lasted 1 year of follow-up.","spans":[{"start":16,"end":40,"label":"AGE_FOLLOWUP"}]}
+{"text":"Records show follow-up for 1 year.","spans":[{"start":30,"end":39,"label":"AGE_FOLLOWUP"}]}
